@@ -1,84 +1,249 @@
 {
-  "generated_at": "2026-08-22T08:53:12+00:00",
+  "generated_at": "2026-08-22T12:16:39+00:00",
   "window_days": 7,
-  "new_papers": 4,
+  "new_papers": 1142,
   "theme_counts": {
-    "Restoration": 2,
-    "Climate & heat": 1,
-    "Blue carbon": 1,
-    "Conservation & management": 1,
-    "Mapping & remote sensing": 1
+    "Physiology & productivity": 292,
+    "Biodiversity & ecology": 282,
+    "Conservation & management": 252,
+    "Climate & heat": 238,
+    "Restoration": 229,
+    "General seagrass science": 228,
+    "Water quality & nutrients": 188,
+    "Fisheries & fauna": 188,
+    "Blue carbon": 146,
+    "Genetics & genomics": 127,
+    "Microbiome & disease": 126,
+    "Social & economic": 96,
+    "Mapping & remote sensing": 95,
+    "Pollution & contaminants": 91,
+    "Biogeochemistry": 80
   },
   "publisher_counts": {
-    "Inter-Research": 1,
-    "Wiley": 1,
-    "Frontiers": 1,
-    "MDPI": 1
+    "Elsevier": 326,
+    "Other / independent": 210,
+    "Springer Nature": 122,
+    "Wiley": 70,
+    "Inter-Research": 48,
+    "Frontiers": 44,
+    "MDPI": 38,
+    "European Organization for Nuclear Research": 36,
+    "PLOS": 19,
+    "Taylor & Francis": 15,
+    "Figshare (United Kingdom)": 12,
+    "Universitas Sam Ratulangi": 12
   },
   "top_papers": [
     {
-      "uid": "10.0000/demo.003",
-      "title": "[DEMO] Blue carbon stocks of tropical Thalassia and Halodule meadows",
+      "uid": "10.15468/dl.yp2h2g",
+      "title": "Occurrence Download",
       "authors": [
-        "D. Example"
+        "GBIF.org User"
       ],
-      "journal": "Frontiers in Marine Science",
-      "publisher_group": "Frontiers",
+      "journal": "Global Biodiversity Information Facility",
+      "publisher_group": "Global Biodiversity Information Facility",
       "published_date": "2026-08-17",
-      "url": "https://doi.org/10.0000/demo.003",
+      "url": "https://doi.org/10.15468/dl.yp2h2g",
       "themes": [
-        "Blue carbon",
-        "Conservation & management"
+        "Climate & heat",
+        "General seagrass science",
+        "Genetics & genomics",
+        "Mapping & remote sensing",
+        "Microbiome & disease",
+        "Social & economic"
       ],
       "ai_summary": "",
       "why_it_matters": ""
     },
     {
-      "uid": "10.0000/demo.002",
-      "title": "[DEMO] Scaling seagrass restoration using seed-based approaches",
+      "uid": "10.1111/1365-2664.70545",
+      "title": "Identifying and addressing critical gaps to accelerate seagrass restoration in Africa",
       "authors": [
-        "C. Example"
+        "Sophie von der Heyden",
+        "Janine B. Adams",
+        "Manuela Amoné-Mabuto",
+        "Tiaan Engelbrecht",
+        "Jacqueline Uku",
+        "Blandina Lugendo",
+        "January Wegoro",
+        "Omar Sanneh",
+        "Mohamed Ahmed Sidi Cheikh",
+        "Nada Abdelkadar",
+        "Salma Zribi",
+        "Rym Zakhama‐Sraieb",
+        "Manuela Amone‐Mabuto"
       ],
-      "journal": "Restoration Ecology",
+      "journal": "Journal of Applied Ecology",
       "publisher_group": "Wiley",
-      "published_date": "2026-08-19",
-      "url": "https://doi.org/10.0000/demo.002",
+      "published_date": "2026-08-01",
+      "url": "https://doi.org/10.1111/1365-2664.70545",
       "themes": [
+        "Biodiversity & ecology",
+        "Climate & heat",
+        "Conservation & management",
+        "Mapping & remote sensing",
+        "Restoration",
+        "Social & economic"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.12705/631.2",
+      "title": "Complete genomic congruence but non‐monophyly of Cymodocea (Cymodoceaceae), a small group of seagrasses",
+      "authors": [
+        "Gitte Petersen",
+        "Ole Seberg",
+        "Frederick T. Short",
+        "Miguel D. Fortes"
+      ],
+      "journal": "TAXON",
+      "publisher_group": "Wiley",
+      "published_date": "2014-01-27",
+      "url": "https://doi.org/10.12705/631.2",
+      "themes": [
+        "Genetics & genomics"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.4319/lo.2002.47.1.0078",
+      "title": "Microsatellites reveal high population connectivity in eelgrass ( Zostera marina ) in two contrasting coastal areas",
+      "authors": [
+        "Thorsten B. H. Reusch"
+      ],
+      "journal": "Limnology and Oceanography",
+      "publisher_group": "Wiley",
+      "published_date": "2002-01-15",
+      "url": "https://doi.org/10.4319/lo.2002.47.1.0078",
+      "themes": [
+        "Conservation & management",
+        "Genetics & genomics",
+        "Mapping & remote sensing",
         "Restoration"
       ],
       "ai_summary": "",
       "why_it_matters": ""
     },
     {
-      "uid": "10.0000/demo.001",
-      "title": "[DEMO] Heatwave exposure alters recovery trajectories in Zostera marina meadows",
+      "uid": "10.1515/bot-2016-0080",
+      "title": "Reproductive phenology of the subtropical seagrasses Thalassia testudinum (turtle grass) and Halodule wrightii (shoal grass) in the northwest Gulf of Mexico",
       "authors": [
-        "A. Example",
-        "B. Example"
+        "Kelly M. Darnell",
+        "Kenneth H. Dunton"
       ],
-      "journal": "Marine Ecology Progress Series",
-      "publisher_group": "Inter-Research",
-      "published_date": "2026-08-21",
-      "url": "https://doi.org/10.0000/demo.001",
+      "journal": "Botanica Marina",
+      "publisher_group": "Walter de Gruyter GmbH",
+      "published_date": "2016-01-01",
+      "url": "https://doi.org/10.1515/bot-2016-0080",
       "themes": [
-        "Restoration",
-        "Climate & heat"
+        "Conservation & management",
+        "Fisheries & fauna",
+        "Restoration"
       ],
       "ai_summary": "",
       "why_it_matters": ""
     },
     {
-      "uid": "10.0000/demo.004",
-      "title": "[DEMO] Satellite mapping of Posidonia oceanica meadow extent in the Mediterranean",
+      "uid": "10.7717/peerj.3246",
+      "title": "Microbial communities in sediment from Zostera marina patches, but not the Z. marina leaf or root microbiomes, vary in relation to distance from patch edge",
       "authors": [
-        "E. Example"
+        "Cassandra L. Ettinger",
+        "Sofie E. Voerman",
+        "Jenna M. Lang",
+        "John J. Stachowicz",
+        "Jonathan A. Eisen"
       ],
-      "journal": "Remote Sensing",
-      "publisher_group": "MDPI",
-      "published_date": "2026-08-14",
-      "url": "https://doi.org/10.0000/demo.004",
+      "journal": "PeerJ",
+      "publisher_group": "PeerJ",
+      "published_date": "2017-04-27",
+      "url": "https://doi.org/10.7717/peerj.3246",
       "themes": [
-        "Mapping & remote sensing"
+        "Biodiversity & ecology",
+        "Water quality & nutrients",
+        "Microbiome & disease"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.1016/j.margen.2014.03.004",
+      "title": "Genome-wide transcriptomic responses of the seagrasses Zostera marina and Nanozostera noltii under a simulated heatwave confirm functional types",
+      "authors": [
+        "Susanne U. Franssen",
+        "Jenny Gu",
+        "Gidon Winters",
+        "Ann-Kathrin Huylmans",
+        "Isabell Wienpahl",
+        "Maximiliane Sparwel",
+        "James A. Coyer",
+        "Jeanine L. Olsen",
+        "Thorsten B.H. Reusch",
+        "Erich Bornberg-Bauer"
+      ],
+      "journal": "Marine Genomics",
+      "publisher_group": "Elsevier",
+      "published_date": "2014-06-01",
+      "url": "https://doi.org/10.1016/j.margen.2014.03.004",
+      "themes": [
+        "Climate & heat",
+        "Genetics & genomics"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.1016/s0304-3770(02)00127-4",
+      "title": "Interannual and small-scale spatial variability in sexual reproduction of the seagrasses Posidonia coriacea and Heterozostera tasmanica, southwestern Australia",
+      "authors": [
+        "Meredith L Campey",
+        "Gary A Kendrick",
+        "Diana I Walker"
+      ],
+      "journal": "Aquatic Botany",
+      "publisher_group": "Elsevier",
+      "published_date": "2002-12-01",
+      "url": "https://doi.org/10.1016/s0304-3770(02)00127-4",
+      "themes": [
+        "General seagrass science"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.29303/jbt.v26i3.12746",
+      "title": "Seagrass Community Structure in the Coastal Waters of Pandanan Sekotong Barat, West Lombok",
+      "authors": [
+        "Maulida Suryatni",
+        "Didik Santoso",
+        "Lalu Japa"
+      ],
+      "journal": "JURNAL BIOLOGI TROPIS",
+      "publisher_group": "Other / independent",
+      "published_date": "2026-07-14",
+      "url": "https://doi.org/10.29303/jbt.v26i3.12746",
+      "themes": [
+        "Biodiversity & ecology"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.35800/jplt.13.2.2025.61482",
+      "title": "Comparative Study of The Number and Types of Seagrass in The Mangrove Forest Tourism Area of Budo Village and Darunu Mangrove Park Tourism Village, Wori District, North Minahasa Regency",
+      "authors": [
+        "Dannie R.S. Oroh",
+        "Easter Ch. M. Tulung",
+        "Margresye D. Rompas",
+        "Meiske M. Sangian"
+      ],
+      "journal": "JURNAL PESISIR DAN LAUT TROPIS",
+      "publisher_group": "Universitas Sam Ratulangi",
+      "published_date": "2025-05-06",
+      "url": "https://doi.org/10.35800/jplt.13.2.2025.61482",
+      "themes": [
+        "Biodiversity & ecology"
       ],
       "ai_summary": "",
       "why_it_matters": ""
