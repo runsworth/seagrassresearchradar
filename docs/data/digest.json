@@ -1,0 +1,87 @@
+{
+  "generated_at": "2026-08-22T08:53:12+00:00",
+  "window_days": 7,
+  "new_papers": 4,
+  "theme_counts": {
+    "Restoration": 2,
+    "Climate & heat": 1,
+    "Blue carbon": 1,
+    "Conservation & management": 1,
+    "Mapping & remote sensing": 1
+  },
+  "publisher_counts": {
+    "Inter-Research": 1,
+    "Wiley": 1,
+    "Frontiers": 1,
+    "MDPI": 1
+  },
+  "top_papers": [
+    {
+      "uid": "10.0000/demo.003",
+      "title": "[DEMO] Blue carbon stocks of tropical Thalassia and Halodule meadows",
+      "authors": [
+        "D. Example"
+      ],
+      "journal": "Frontiers in Marine Science",
+      "publisher_group": "Frontiers",
+      "published_date": "2026-08-17",
+      "url": "https://doi.org/10.0000/demo.003",
+      "themes": [
+        "Blue carbon",
+        "Conservation & management"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.0000/demo.002",
+      "title": "[DEMO] Scaling seagrass restoration using seed-based approaches",
+      "authors": [
+        "C. Example"
+      ],
+      "journal": "Restoration Ecology",
+      "publisher_group": "Wiley",
+      "published_date": "2026-08-19",
+      "url": "https://doi.org/10.0000/demo.002",
+      "themes": [
+        "Restoration"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.0000/demo.001",
+      "title": "[DEMO] Heatwave exposure alters recovery trajectories in Zostera marina meadows",
+      "authors": [
+        "A. Example",
+        "B. Example"
+      ],
+      "journal": "Marine Ecology Progress Series",
+      "publisher_group": "Inter-Research",
+      "published_date": "2026-08-21",
+      "url": "https://doi.org/10.0000/demo.001",
+      "themes": [
+        "Restoration",
+        "Climate & heat"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.0000/demo.004",
+      "title": "[DEMO] Satellite mapping of Posidonia oceanica meadow extent in the Mediterranean",
+      "authors": [
+        "E. Example"
+      ],
+      "journal": "Remote Sensing",
+      "publisher_group": "MDPI",
+      "published_date": "2026-08-14",
+      "url": "https://doi.org/10.0000/demo.004",
+      "themes": [
+        "Mapping & remote sensing"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    }
+  ]
+}

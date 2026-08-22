@@ -1,0 +1,406 @@
+{
+  "generated_at": "2026-08-22T08:53:12+00:00",
+  "paper_count": 4,
+  "papers": [
+    {
+      "uid": "10.0000/demo.001",
+      "doi": "10.0000/demo.001",
+      "title": "[DEMO] Heatwave exposure alters recovery trajectories in Zostera marina meadows",
+      "abstract": "A multi-site study examines marine heatwave exposure, eelgrass recovery and thermal thresholds across coastal Europe.",
+      "authors": [
+        "A. Example",
+        "B. Example"
+      ],
+      "journal": "Marine Ecology Progress Series",
+      "publisher": "Inter-Research",
+      "publisher_group": "Inter-Research",
+      "published_date": "2026-08-21",
+      "year": 2026,
+      "type": "journal-article",
+      "url": "https://doi.org/10.0000/demo.001",
+      "open_access": true,
+      "oa_status": "",
+      "cited_by_count": 0,
+      "topics": [],
+      "sources": [
+        "Demo"
+      ],
+      "source_ids": {
+        "Demo": "demo1"
+      },
+      "source_indexed_dates": {},
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "ai_summary": "",
+      "why_it_matters": "",
+      "study_location_ai": "",
+      "location_inference": [],
+      "relevance_score": 22,
+      "matched_terms": [
+        "eelgrass",
+        "Zostera"
+      ],
+      "species": [
+        "Zostera"
+      ],
+      "themes": [
+        "Restoration",
+        "Climate & heat"
+      ]
+    },
+    {
+      "uid": "10.0000/demo.002",
+      "doi": "10.0000/demo.002",
+      "title": "[DEMO] Scaling seagrass restoration using seed-based approaches",
+      "abstract": "We compare seed collection, storage and planting approaches for seagrass restoration in temperate Zostera marina systems.",
+      "authors": [
+        "C. Example"
+      ],
+      "journal": "Restoration Ecology",
+      "publisher": "John Wiley & Sons, Ltd",
+      "publisher_group": "Wiley",
+      "published_date": "2026-08-19",
+      "year": 2026,
+      "type": "journal-article",
+      "url": "https://doi.org/10.0000/demo.002",
+      "open_access": false,
+      "oa_status": "",
+      "cited_by_count": 0,
+      "topics": [],
+      "sources": [
+        "Demo"
+      ],
+      "source_ids": {
+        "Demo": "demo2"
+      },
+      "source_indexed_dates": {},
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "ai_summary": "",
+      "why_it_matters": "",
+      "study_location_ai": "",
+      "location_inference": [],
+      "relevance_score": 24,
+      "matched_terms": [
+        "seagrass",
+        "Zostera"
+      ],
+      "species": [
+        "Zostera"
+      ],
+      "themes": [
+        "Restoration"
+      ]
+    },
+    {
+      "uid": "10.0000/demo.003",
+      "doi": "10.0000/demo.003",
+      "title": "[DEMO] Blue carbon stocks of tropical Thalassia and Halodule meadows",
+      "abstract": "Sediment carbon stocks were quantified in tropical seagrass meadows in Indonesia with implications for conservation and blue carbon accounting.",
+      "authors": [
+        "D. Example"
+      ],
+      "journal": "Frontiers in Marine Science",
+      "publisher": "Frontiers Media SA",
+      "publisher_group": "Frontiers",
+      "published_date": "2026-08-17",
+      "year": 2026,
+      "type": "journal-article",
+      "url": "https://doi.org/10.0000/demo.003",
+      "open_access": true,
+      "oa_status": "",
+      "cited_by_count": 0,
+      "topics": [],
+      "sources": [
+        "Demo"
+      ],
+      "source_ids": {
+        "Demo": "demo3"
+      },
+      "source_indexed_dates": {},
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "ai_summary": "",
+      "why_it_matters": "",
+      "study_location_ai": "",
+      "location_inference": [
+        {
+          "country": "Indonesia",
+          "lat": -0.7893,
+          "lon": 113.9213,
+          "method": "title/abstract text"
+        }
+      ],
+      "relevance_score": 34,
+      "matched_terms": [
+        "Halodule",
+        "seagrass",
+        "Thalassia"
+      ],
+      "species": [
+        "Halodule",
+        "Thalassia"
+      ],
+      "themes": [
+        "Blue carbon",
+        "Conservation & management"
+      ]
+    },
+    {
+      "uid": "10.0000/demo.004",
+      "doi": "10.0000/demo.004",
+      "title": "[DEMO] Satellite mapping of Posidonia oceanica meadow extent in the Mediterranean",
+      "abstract": "Earth observation and machine learning were used to map Posidonia oceanica distribution around Spain.",
+      "authors": [
+        "E. Example"
+      ],
+      "journal": "Remote Sensing",
+      "publisher": "MDPI AG",
+      "publisher_group": "MDPI",
+      "published_date": "2026-08-14",
+      "year": 2026,
+      "type": "journal-article",
+      "url": "https://doi.org/10.0000/demo.004",
+      "open_access": true,
+      "oa_status": "",
+      "cited_by_count": 0,
+      "topics": [],
+      "sources": [
+        "Demo"
+      ],
+      "source_ids": {
+        "Demo": "demo4"
+      },
+      "source_indexed_dates": {},
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "ai_summary": "",
+      "why_it_matters": "",
+      "study_location_ai": "",
+      "location_inference": [
+        {
+          "country": "Spain",
+          "lat": 40.4637,
+          "lon": -3.7492,
+          "method": "title/abstract text"
+        }
+      ],
+      "relevance_score": 11,
+      "matched_terms": [
+        "Posidonia"
+      ],
+      "species": [
+        "Posidonia"
+      ],
+      "themes": [
+        "Mapping & remote sensing"
+      ]
+    }
+  ],
+  "publisher_coverage": [
+    {
+      "publisher": "Springer Nature",
+      "papers_in_database": 0,
+      "latest_published": "",
+      "latest_first_seen": "",
+      "journals_seen": [],
+      "status": "no recent hit"
+    },
+    {
+      "publisher": "Elsevier",
+      "papers_in_database": 0,
+      "latest_published": "",
+      "latest_first_seen": "",
+      "journals_seen": [],
+      "status": "no recent hit"
+    },
+    {
+      "publisher": "Wiley",
+      "papers_in_database": 1,
+      "latest_published": "2026-08-19",
+      "latest_first_seen": "2026-08-22",
+      "journals_seen": [
+        "Restoration Ecology"
+      ],
+      "status": "seen"
+    },
+    {
+      "publisher": "Frontiers",
+      "papers_in_database": 1,
+      "latest_published": "2026-08-17",
+      "latest_first_seen": "2026-08-22",
+      "journals_seen": [
+        "Frontiers in Marine Science"
+      ],
+      "status": "seen"
+    },
+    {
+      "publisher": "MDPI",
+      "papers_in_database": 1,
+      "latest_published": "2026-08-14",
+      "latest_first_seen": "2026-08-22",
+      "journals_seen": [
+        "Remote Sensing"
+      ],
+      "status": "seen"
+    },
+    {
+      "publisher": "PLOS",
+      "papers_in_database": 0,
+      "latest_published": "",
+      "latest_first_seen": "",
+      "journals_seen": [],
+      "status": "no recent hit"
+    },
+    {
+      "publisher": "IOP Publishing",
+      "papers_in_database": 0,
+      "latest_published": "",
+      "latest_first_seen": "",
+      "journals_seen": [],
+      "status": "no recent hit"
+    },
+    {
+      "publisher": "Taylor & Francis",
+      "papers_in_database": 0,
+      "latest_published": "",
+      "latest_first_seen": "",
+      "journals_seen": [],
+      "status": "no recent hit"
+    },
+    {
+      "publisher": "SAGE",
+      "papers_in_database": 0,
+      "latest_published": "",
+      "latest_first_seen": "",
+      "journals_seen": [],
+      "status": "no recent hit"
+    },
+    {
+      "publisher": "Oxford University Press",
+      "papers_in_database": 0,
+      "latest_published": "",
+      "latest_first_seen": "",
+      "journals_seen": [],
+      "status": "no recent hit"
+    },
+    {
+      "publisher": "Cambridge University Press",
+      "papers_in_database": 0,
+      "latest_published": "",
+      "latest_first_seen": "",
+      "journals_seen": [],
+      "status": "no recent hit"
+    },
+    {
+      "publisher": "Royal Society",
+      "papers_in_database": 0,
+      "latest_published": "",
+      "latest_first_seen": "",
+      "journals_seen": [],
+      "status": "no recent hit"
+    },
+    {
+      "publisher": "AAAS / Science",
+      "papers_in_database": 0,
+      "latest_published": "",
+      "latest_first_seen": "",
+      "journals_seen": [],
+      "status": "no recent hit"
+    },
+    {
+      "publisher": "PNAS / NAS",
+      "papers_in_database": 0,
+      "latest_published": "",
+      "latest_first_seen": "",
+      "journals_seen": [],
+      "status": "no recent hit"
+    },
+    {
+      "publisher": "Copernicus",
+      "papers_in_database": 0,
+      "latest_published": "",
+      "latest_first_seen": "",
+      "journals_seen": [],
+      "status": "no recent hit"
+    },
+    {
+      "publisher": "CSIRO Publishing",
+      "papers_in_database": 0,
+      "latest_published": "",
+      "latest_first_seen": "",
+      "journals_seen": [],
+      "status": "no recent hit"
+    },
+    {
+      "publisher": "Inter-Research",
+      "papers_in_database": 1,
+      "latest_published": "2026-08-21",
+      "latest_first_seen": "2026-08-22",
+      "journals_seen": [
+        "Marine Ecology Progress Series"
+      ],
+      "status": "seen"
+    },
+    {
+      "publisher": "BioOne",
+      "papers_in_database": 0,
+      "latest_published": "",
+      "latest_first_seen": "",
+      "journals_seen": [],
+      "status": "no recent hit"
+    },
+    {
+      "publisher": "PeerJ",
+      "papers_in_database": 0,
+      "latest_published": "",
+      "latest_first_seen": "",
+      "journals_seen": [],
+      "status": "no recent hit"
+    },
+    {
+      "publisher": "American Geophysical Union",
+      "papers_in_database": 0,
+      "latest_published": "",
+      "latest_first_seen": "",
+      "journals_seen": [],
+      "status": "no recent hit"
+    }
+  ],
+  "source_status": {
+    "Demo": {
+      "ok": true,
+      "records": 4,
+      "message": "Demo mode"
+    }
+  },
+  "search_vocabulary": [
+    "seagrass",
+    "seagrasses",
+    "eelgrass",
+    "\"marine angiosperm\"",
+    "\"marine angiosperms\"",
+    "\"marine phanerogam\"",
+    "\"marine phanerogams\"",
+    "\"phanerogames marines\"",
+    "Zostera",
+    "Nanozostera",
+    "Heterozostera",
+    "Posidonia",
+    "Cymodocea",
+    "Halodule",
+    "Halophila",
+    "Thalassia",
+    "Syringodium",
+    "Enhalus",
+    "Thalassodendron",
+    "Amphibolis",
+    "Phyllospadix",
+    "Ruppia"
+  ],
+  "notes": {
+    "publisher_coverage": "Crossref is the publisher-metadata backbone; OpenAlex, Europe PMC, Semantic Scholar and DOAJ add independent redundancy. A 'no recent hit' publisher status means no matching seagrass paper is currently in the retained database, not that the publisher was excluded.",
+    "study_locations": "Map locations are inferred only from explicit place names in title/abstract text unless an optional AI study_location is present. Author affiliation countries are not treated as study sites.",
+    "first_seen": "The date this Radar first discovered the record. This can differ from formal publication date because indexes ingest metadata at different times."
+  }
+}

@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Seagrass Research Radar — a daily global watch for newly published seagrass science." />
+  <title>Seagrass Research Radar</title>
+  <link rel="preconnect" href="https://unpkg.com" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="#" aria-label="Seagrass Research Radar home">
+      <span class="brand-mark" aria-hidden="true"><span></span><span></span><span></span></span>
+      <span>
+        <strong>Seagrass Research Radar</strong>
+        <small>Global daily literature watch</small>
+      </span>
+    </a>
+    <div class="header-actions">
+      <span id="updatePill" class="update-pill">Loading latest scan…</span>
+      <a class="quiet-link" href="https://www.seagrass.tools" target="_blank" rel="noopener">Seagrass.tools ↗</a>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="hero-copy">
+        <p class="eyebrow">A living window onto seagrass science</p>
+        <h1>What has the world learned about <em>seagrass</em> today?</h1>
+        <p class="hero-intro">Automatically searches multiple global scholarly indexes every day, deduplicates papers, tags species and themes, and tracks whether major and independent publishers are being captured.</p>
+        <div class="hero-actions">
+          <button class="button primary" data-jump="radar">Browse latest papers</button>
+          <button class="button ghost" data-jump="publishers">Check publisher coverage</button>
+        </div>
+      </div>
+      <div class="hero-visual" aria-hidden="true">
+        <div class="orb orb-a"></div><div class="orb orb-b"></div>
+        <div class="grass g1"></div><div class="grass g2"></div><div class="grass g3"></div><div class="grass g4"></div><div class="grass g5"></div>
+        <div class="radar-ring r1"></div><div class="radar-ring r2"></div><div class="radar-ring r3"></div>
+        <div class="radar-sweep"></div>
+      </div>
+    </section>
+
+    <section class="stats-grid" id="topStats" aria-label="Radar statistics">
+      <article class="stat-card"><span>First seen today</span><strong id="statToday">—</strong><small>new to the Radar</small></article>
+      <article class="stat-card"><span>Last 7 days</span><strong id="statWeek">—</strong><small>new records</small></article>
+      <article class="stat-card"><span>Open access</span><strong id="statOA">—</strong><small>of recent papers</small></article>
+      <article class="stat-card"><span>Publishers represented</span><strong id="statPublishers">—</strong><small>in retained database</small></article>
+    </section>
+
+    <nav class="tabs" aria-label="Research Radar sections">
+      <button class="tab active" data-tab="radar">Latest papers</button>
+      <button class="tab" data-tab="map">Research map</button>
+      <button class="tab" data-tab="publishers">Publisher coverage</button>
+      <button class="tab" data-tab="digest">Weekly digest</button>
+      <button class="tab" data-tab="about">How it works</button>
+    </nav>
+
+    <section id="radar" class="panel active">
+      <div class="section-heading">
+        <div><p class="eyebrow">Daily radar</p><h2>Latest seagrass papers</h2></div>
+        <div class="result-count" id="resultCount">Loading…</div>
+      </div>
+
+      <div class="filters">
+        <label class="search-box"><span>⌕</span><input id="searchInput" type="search" placeholder="Search title, author, journal, species…" /></label>
+        <select id="timeFilter" aria-label="Time filter">
+          <option value="today">First seen today</option>
+          <option value="7" selected>First seen in 7 days</option>
+          <option value="30">Published / seen in 30 days</option>
+          <option value="180">Published / seen in 6 months</option>
+          <option value="all">All retained</option>
+        </select>
+        <select id="themeFilter" aria-label="Theme filter"><option value="all">All themes</option></select>
+        <select id="speciesFilter" aria-label="Species filter"><option value="all">All seagrasses</option></select>
+        <select id="publisherFilter" aria-label="Publisher filter"><option value="all">All publishers</option></select>
+        <label class="toggle"><input id="oaFilter" type="checkbox" /><span></span> Open access only</label>
+      </div>
+
+      <div id="paperList" class="paper-list" aria-live="polite"></div>
+      <button id="showMore" class="button show-more" hidden>Show more papers</button>
+    </section>
+
+    <section id="map" class="panel">
+      <div class="section-heading">
+        <div><p class="eyebrow">Geographic signal</p><h2>Where is new seagrass research happening?</h2></div>
+        <p class="section-note">Locations are inferred from explicit place names in titles/abstracts; they are not author-affiliation maps.</p>
+      </div>
+      <div id="researchMap"></div>
+      <div id="mapSummary" class="map-summary"></div>
+    </section>
+
+    <section id="publishers" class="panel">
+      <div class="section-heading">
+        <div><p class="eyebrow">Coverage audit</p><h2>Are we seeing the full publishing landscape?</h2></div>
+        <p class="section-note">A publisher can show “no recent hit” simply because it has no seagrass paper in the retained window. Source health is shown separately below.</p>
+      </div>
+      <div class="publisher-callout">
+        <strong>Designed to capture big + small.</strong>
+        <span>Crossref is the publisher-metadata backbone, with independent redundancy from OpenAlex, Europe PMC, Semantic Scholar and DOAJ.</span>
+      </div>
+      <div id="publisherGrid" class="publisher-grid"></div>
+      <h3 class="subheading">Harvester health</h3>
+      <div id="sourceHealth" class="source-health"></div>
+    </section>
+
+    <section id="digest" class="panel">
+      <div class="section-heading"><div><p class="eyebrow">Seven-day signal</p><h2>This week in seagrass science</h2></div></div>
+      <div id="digestLead" class="digest-lead"></div>
+      <div class="digest-layout">
+        <div><h3>What is being studied?</h3><div id="themeBars" class="bars"></div></div>
+        <div><h3>Papers worth opening</h3><div id="digestPapers" class="digest-papers"></div></div>
+      </div>
+    </section>
+
+    <section id="about" class="panel">
+      <div class="section-heading"><div><p class="eyebrow">Transparent by design</p><h2>How the Radar works</h2></div></div>
+      <div class="about-grid">
+        <article><span class="step">01</span><h3>Search broadly</h3><p>Daily queries include “seagrass”, eelgrass, marine angiosperm/phanerogam terminology and recognised seagrass genera, including historic taxonomic combinations.</p></article>
+        <article><span class="step">02</span><h3>Use independent sources</h3><p>Crossref, OpenAlex, Europe PMC, Semantic Scholar and DOAJ reduce dependence on any single publisher or index.</p></article>
+        <article><span class="step">03</span><h3>Score + deduplicate</h3><p>Records are scored for genuine seagrass relevance, false-positive-prone terms are checked, and duplicate DOI/title records are merged.</p></article>
+        <article><span class="step">04</span><h3>Preserve discovery date</h3><p>“First seen” is retained separately from publication date, so a paper that appears late in an index still surfaces as newly discovered.</p></article>
+      </div>
+      <div class="method-note">
+        <h3>What “all journals” can realistically mean</h3>
+        <p>No public scholarly index can guarantee instantaneous discovery of every paper on Earth. This Radar therefore maximises recall through overlapping indexes and exposes source/publisher health instead of pretending coverage is perfect. It does not bypass paywalls and does not scrape copyrighted full text.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div><strong>Seagrass Research Radar</strong><span>A trial Seagrass.tools literature service.</span></div>
+    <div id="footerUpdate">Data loading…</div>
+  </footer>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+  <script src="app.js"></script>
+</body>
+</html>

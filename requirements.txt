@@ -1,0 +1,2 @@
+# No third-party Python packages required.
+# The harvester uses only the Python standard library.
