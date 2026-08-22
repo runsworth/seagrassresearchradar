@@ -59,6 +59,8 @@ OPENALEX_PUBLICATION_LOOKBACK_DAYS = int(os.getenv("OPENALEX_PUBLICATION_LOOKBAC
 RETENTION_DAYS = int(os.getenv("RETENTION_DAYS", "1095"))
 MAX_RESULTS_PER_QUERY = int(os.getenv("MAX_RESULTS_PER_QUERY", "200"))
 MIN_RELEVANCE_SCORE = int(os.getenv("MIN_RELEVANCE_SCORE", "7"))
+NEW_PUBLICATION_MAX_AGE_DAYS = int(os.getenv("NEW_PUBLICATION_MAX_AGE_DAYS", "45"))
+CROSSREF_INDEX_BACKFILL_DAYS = int(os.getenv("CROSSREF_INDEX_BACKFILL_DAYS", "3"))
 
 OPENALEX_API_KEY = os.getenv("OPENALEX_API_KEY", "").strip()
 CROSSREF_MAILTO = os.getenv("CROSSREF_MAILTO", "").strip()
@@ -440,6 +442,8 @@ def canonical_record(**kwargs: Any) -> dict[str, Any]:
         "source_indexed_dates": {source: clean_text(kwargs.get("source_indexed_date"))} if source and kwargs.get("source_indexed_date") else {},
         "first_seen": TODAY.isoformat(),
         "last_seen": TODAY.isoformat(),
+        "baseline_import": False,
+        "discovery_type": "unclassified",
         "ai_summary": "",
         "why_it_matters": "",
         "study_location_ai": "",
@@ -482,15 +486,20 @@ def parse_crossref(item: dict[str, Any]) -> dict[str, Any]:
 
 
 def harvest_crossref(start: date, end: date) -> list[dict[str, Any]]:
-    log("Crossref: searching publisher-deposited metadata")
+    """Harvest recent publications plus a small delayed-indexing safety net.
+
+    Older Radar versions searched only Crossref's index-change date. That is useful
+    for discovery, but metadata corrections can make hundreds of old papers look
+    "new". The primary pass now filters by publication date. A short, high-
+    precision index-date pass catches delayed deposits without swamping the feed.
+    """
+    log("Crossref: searching recent publisher-deposited publications")
     results: list[dict[str, Any]] = []
-    # Search each primary term independently. This is more complete than one long
-    # relevance query, while the short index-date window keeps request sizes modest.
     unique_terms = ["seagrass", "eelgrass", "marine angiosperm", "marine phanerogam", *GENERA]
     for term in unique_terms:
         params: dict[str, Any] = {
             "query.bibliographic": term,
-            "filter": f"from-index-date:{start.isoformat()},until-index-date:{end.isoformat()},type:journal-article",
+            "filter": f"from-pub-date:{start.isoformat()},until-pub-date:{end.isoformat()},type:journal-article",
             "rows": min(MAX_RESULTS_PER_QUERY, 1000),
             "sort": "published",
             "order": "desc",
@@ -504,7 +513,28 @@ def harvest_crossref(start: date, end: date) -> list[dict[str, Any]]:
                 if rec["relevance_score"] >= MIN_RELEVANCE_SCORE:
                     results.append(rec)
         except Exception as exc:
-            log(f"Crossref warning ({term}): {exc}")
+            log(f"Crossref recent-publication warning ({term}): {exc}")
+
+    backfill_start = end - timedelta(days=max(1, CROSSREF_INDEX_BACKFILL_DAYS))
+    log(f"Crossref: checking {CROSSREF_INDEX_BACKFILL_DAYS}-day delayed-indexing backfill")
+    for term in ["seagrass", "eelgrass", "marine angiosperm", "marine phanerogam"]:
+        params = {
+            "query.bibliographic": term,
+            "filter": f"from-index-date:{backfill_start.isoformat()},until-index-date:{end.isoformat()},type:journal-article",
+            "rows": min(MAX_RESULTS_PER_QUERY, 500),
+            "sort": "indexed",
+            "order": "desc",
+        }
+        if CROSSREF_MAILTO:
+            params["mailto"] = CROSSREF_MAILTO
+        try:
+            data = fetch_json("https://api.crossref.org/works", params=params)
+            for item in data.get("message", {}).get("items", []):
+                rec = parse_crossref(item)
+                if rec["relevance_score"] >= MIN_RELEVANCE_SCORE:
+                    results.append(rec)
+        except Exception as exc:
+            log(f"Crossref backfill warning ({term}): {exc}")
     return results
 
 
@@ -644,7 +674,8 @@ def harvest_semantic_scholar(start: date, end: date) -> list[dict[str, Any]]:
         return []
     log("Semantic Scholar: searching independent scholarly graph")
     headers = {"x-api-key": SEMANTIC_SCHOLAR_API_KEY} if SEMANTIC_SCHOLAR_API_KEY else {}
-    query = " OR ".join(["seagrass", "eelgrass", *GENERA])
+    # Bulk search uses | for OR logic (rather than the literal word OR).
+    query = " | ".join(['"seagrass"', '"eelgrass"', *GENERA])
     params = {
         "query": f"({query})",
         "publicationDateOrYear": f"{(end - timedelta(days=OPENALEX_PUBLICATION_LOOKBACK_DAYS)).isoformat()}:{end.isoformat()}",
@@ -678,40 +709,47 @@ def _xml_local(tag: str) -> str:
     return tag.rsplit("}", 1)[-1]
 
 
-def parse_doaj_record(record: ET.Element) -> dict[str, Any] | None:
-    # oai_dc is intentionally used: it is stable and available in the free feed.
-    vals: dict[str, list[str]] = defaultdict(list)
-    header_datestamp = ""
-    for el in record.iter():
-        local = _xml_local(el.tag)
-        text = clean_text(el.text)
-        if not text:
-            continue
-        if local == "datestamp" and not header_datestamp:
-            header_datestamp = text
-        elif local in {"title", "creator", "identifier", "date", "publisher", "description", "type", "source", "subject", "rights"}:
-            vals[local].append(text)
-    title = vals["title"][0] if vals["title"] else ""
+def parse_doaj_api_item(item: dict[str, Any]) -> dict[str, Any] | None:
+    """Parse a DOAJ article Search API record."""
+    bib = item.get("bibjson") or {}
+    title = clean_text(bib.get("title"))
     if not title:
         return None
+    authors = [clean_text(a.get("name")) for a in (bib.get("author") or []) if clean_text(a.get("name"))]
+    journal_obj = bib.get("journal") or {}
+    journal = clean_text(journal_obj.get("title"))
+    publisher = clean_text(journal_obj.get("publisher"))
     doi = ""
+    for ident in bib.get("identifier") or []:
+        if str(ident.get("type", "")).lower() == "doi":
+            doi = normalize_doi(ident.get("id"))
+            break
     url = ""
-    for ident in vals["identifier"]:
-        if "doi.org/" in ident.lower() or ident.lower().startswith("10."):
-            doi = normalize_doi(ident)
-        elif ident.startswith("http") and not url:
-            url = ident
-    abstract = " ".join(vals["description"][:2])
-    journal = vals["source"][0] if vals["source"] else ""
-    publisher = vals["publisher"][0] if vals["publisher"] else ""
-    pub_date = vals["date"][0] if vals["date"] else ""
-    rights = " ".join(vals["rights"]).lower()
+    for link in bib.get("link") or []:
+        if link.get("url"):
+            url = clean_text(link.get("url"))
+            if str(link.get("type", "")).lower() in {"fulltext", "homepage"}:
+                break
+    year = str(bib.get("year") or "")
+    month = str(bib.get("month") or "").zfill(2) if bib.get("month") else ""
+    pub_date = f"{year}-{month}-01" if len(year) == 4 and month else year
+    last_updated = clean_text(item.get("last_updated"))[:10]
     rec = canonical_record(
-        title=title, abstract=abstract, authors=vals["creator"], journal=journal,
-        publisher=publisher, published_date=pub_date, doi=doi, type="journal-article",
-        url=(f"https://doi.org/{doi}" if doi else url), open_access=True,
-        oa_status="open access / DOAJ", topics=vals["subject"],
-        source="DOAJ", source_id=doi or url, source_indexed_date=header_datestamp,
+        title=title,
+        abstract=clean_text(bib.get("abstract")),
+        authors=authors,
+        journal=journal,
+        publisher=publisher,
+        published_date=pub_date,
+        doi=doi,
+        type="journal-article",
+        url=(f"https://doi.org/{doi}" if doi else url),
+        open_access=True,
+        oa_status="open access / DOAJ",
+        topics=[clean_text(x) for x in (bib.get("keywords") or [])],
+        source="DOAJ",
+        source_id=clean_text(item.get("id")) or doi or url,
+        source_indexed_date=last_updated,
     )
     return rec
 
@@ -719,36 +757,33 @@ def parse_doaj_record(record: ET.Element) -> dict[str, Any] | None:
 def harvest_doaj(start: date, end: date) -> list[dict[str, Any]]:
     if not ENABLE_DOAJ:
         return []
-    log("DOAJ: harvesting newly indexed OA articles (small-publisher safety net)")
-    base = "https://doaj.org/oai.article"
-    params: dict[str, Any] = {
-        "verb": "ListRecords",
-        "metadataPrefix": "oai_dc",
-        "from": start.isoformat(),
-        "until": end.isoformat(),
-    }
+    log("DOAJ: searching open-access article index (small-publisher safety net)")
+    # The targeted Search API avoids trawling the entire OAI feed. DOAJ's public
+    # OAI feed can lag the live index, so search is a better fit for a topic radar.
+    terms = ["seagrass", "eelgrass", "Zostera", "Posidonia", "Halophila", "Thalassia", "Cymodocea", "Halodule", "Syringodium", "Enhalus", "Amphibolis", "Phyllospadix"]
+    cutoff = end - timedelta(days=OPENALEX_PUBLICATION_LOOKBACK_DAYS)
     results: list[dict[str, Any]] = []
-    pages = 0
-    while pages < 20:
-        try:
-            xml_bytes = fetch_bytes(base, params=params, headers={"Accept": "application/xml,text/xml"})
-            root = ET.fromstring(xml_bytes)
-        except Exception as exc:
-            log(f"DOAJ warning: {exc}")
-            break
-        records = [el for el in root.iter() if _xml_local(el.tag) == "record"]
-        for node in records:
-            rec = parse_doaj_record(node)
-            if rec and rec["relevance_score"] >= MIN_RELEVANCE_SCORE:
-                results.append(rec)
-        token_el = next((el for el in root.iter() if _xml_local(el.tag) == "resumptionToken"), None)
-        token = clean_text(token_el.text) if token_el is not None else ""
-        pages += 1
-        if not token:
-            break
-        params = {"verb": "ListRecords", "resumptionToken": token}
+    for term in terms:
+        encoded = urllib.parse.quote(term, safe="")
+        for page in range(1, 3):
+            url = f"https://doaj.org/api/search/articles/{encoded}"
+            try:
+                data = fetch_json(url, params={"page": page, "pageSize": 100, "sort": "created_date:desc"})
+            except Exception as exc:
+                log(f"DOAJ warning ({term}): {exc}")
+                break
+            batch = data.get("results") or []
+            for item in batch:
+                rec = parse_doaj_api_item(item)
+                if not rec or rec["relevance_score"] < MIN_RELEVANCE_SCORE:
+                    continue
+                pd = safe_date(rec.get("published_date", ""))
+                indexed = max((rec.get("source_indexed_dates") or {}).values(), default="")
+                if (pd and pd >= cutoff.isoformat()) or (indexed and indexed >= cutoff.isoformat()) or not pd:
+                    results.append(rec)
+            if len(batch) < 100:
+                break
     return results
-
 
 def richness(rec: dict[str, Any]) -> int:
     return (
@@ -784,6 +819,9 @@ def merge_record(a: dict[str, Any], b: dict[str, Any]) -> dict[str, Any]:
     lasts = [x for x in [a.get("last_seen"), b.get("last_seen")] if x]
     out["first_seen"] = min(firsts) if firsts else TODAY.isoformat()
     out["last_seen"] = max(lasts + [TODAY.isoformat()]) if lasts else TODAY.isoformat()
+    out["baseline_import"] = bool(a.get("baseline_import") or b.get("baseline_import"))
+    # Discovery type is recalculated after deduplication; preserve a baseline marker.
+    out["discovery_type"] = "baseline" if out["baseline_import"] else (base.get("discovery_type") or other.get("discovery_type") or "unclassified")
     out["publisher_group"] = infer_publisher_group(out.get("publisher", ""), out.get("journal", ""))
     out["uid"] = out.get("doi") or hashlib.sha1(normalize_title(out.get("title", "")).encode("utf-8")).hexdigest()[:20]
     return out
@@ -823,19 +861,69 @@ def deduplicate(records: Iterable[dict[str, Any]]) -> list[dict[str, Any]]:
     return [*by_doi.values(), *no_doi.values()]
 
 
-def load_existing() -> list[dict[str, Any]]:
+def load_existing_payload() -> dict[str, Any]:
     if not PAPERS_FILE.exists():
-        return []
+        return {"papers": []}
     try:
         data = json.loads(PAPERS_FILE.read_text(encoding="utf-8"))
-        return data.get("papers", data if isinstance(data, list) else [])
+        if isinstance(data, list):
+            return {"papers": data}
+        return data if isinstance(data, dict) else {"papers": []}
     except Exception as exc:
         log(f"Existing database warning: {exc}")
-        return []
+        return {"papers": []}
+
+
+def load_existing() -> list[dict[str, Any]]:
+    return load_existing_payload().get("papers", [])
+
+
+def is_demo_record(rec: dict[str, Any]) -> bool:
+    """Return True for records shipped only to demonstrate the interface.
+
+    Real harvesting must never preserve starter/demo content.  Several markers are
+    checked so this also removes demo records created by older Radar versions.
+    """
+    title = str(rec.get("title") or "").strip().lower()
+    doi = normalize_doi(rec.get("doi"))
+    source = str(rec.get("source") or "").strip().lower()
+    sources = {str(x).strip().lower() for x in (rec.get("sources") or [])}
+    return (
+        title.startswith("[demo]")
+        or doi.startswith("10.0000/demo.")
+        or source == "demo"
+        or "demo" in sources
+    )
+
+
+def classify_discovery(rec: dict[str, Any]) -> str:
+    if rec.get("baseline_import"):
+        return "baseline"
+    first = safe_date(rec.get("first_seen", ""))
+    pub = safe_date(rec.get("published_date", ""))
+    if not first:
+        return "unclassified"
+    if pub:
+        try:
+            age = (date.fromisoformat(first) - date.fromisoformat(pub)).days
+            if -7 <= age <= NEW_PUBLICATION_MAX_AGE_DAYS:
+                return "new_publication"
+        except ValueError:
+            pass
+    return "recently_indexed"
+
+
+def refresh_discovery_types(records: list[dict[str, Any]]) -> None:
+    for rec in records:
+        rec["discovery_type"] = classify_discovery(rec)
 
 
 def likely_new(rec: dict[str, Any]) -> bool:
-    return rec.get("first_seen") == TODAY.isoformat()
+    return (
+        not rec.get("baseline_import")
+        and rec.get("first_seen") == TODAY.isoformat()
+        and rec.get("discovery_type") in {"new_publication", "recently_indexed"}
+    )
 
 
 def ai_enrich(records: list[dict[str, Any]]) -> None:
@@ -908,17 +996,26 @@ def coverage_audit(records: list[dict[str, Any]]) -> list[dict[str, Any]]:
 
 def make_digest(records: list[dict[str, Any]]) -> dict[str, Any]:
     cutoff = TODAY - timedelta(days=7)
-    recent = [r for r in records if safe_date(r.get("first_seen", "")) >= cutoff.isoformat()]
-    theme_counts = Counter(t for r in recent for t in r.get("themes", []))
-    publisher_counts = Counter(r.get("publisher_group", "") for r in recent if r.get("publisher_group"))
-    top = sorted(recent, key=lambda r: (r.get("relevance_score", 0), r.get("published_date", ""), r.get("cited_by_count", 0)), reverse=True)[:10]
+    published_recently = [r for r in records if safe_date(r.get("published_date", "")) >= cutoff.isoformat()]
+    discovered_recently = [
+        r for r in records
+        if not r.get("baseline_import") and safe_date(r.get("first_seen", "")) >= cutoff.isoformat()
+    ]
+    theme_counts = Counter(t for r in published_recently for t in r.get("themes", []))
+    publisher_counts = Counter(r.get("publisher_group", "") for r in published_recently if r.get("publisher_group"))
+    top = sorted(
+        published_recently,
+        key=lambda r: (r.get("relevance_score", 0), r.get("published_date", ""), r.get("cited_by_count", 0)),
+        reverse=True,
+    )[:10]
     return {
         "generated_at": NOW_ISO,
         "window_days": 7,
-        "new_papers": len(recent),
+        "new_papers": len(published_recently),
+        "newly_discovered": len(discovered_recently),
         "theme_counts": dict(theme_counts.most_common()),
         "publisher_counts": dict(publisher_counts.most_common(12)),
-        "top_papers": [{k: r.get(k) for k in ["uid", "title", "authors", "journal", "publisher_group", "published_date", "url", "themes", "ai_summary", "why_it_matters"]} for r in top],
+        "top_papers": [{k: r.get(k) for k in ["uid", "title", "authors", "journal", "publisher_group", "published_date", "first_seen", "discovery_type", "url", "themes", "ai_summary", "why_it_matters"]} for r in top],
     }
 
 
@@ -932,7 +1029,7 @@ def demo_records() -> list[dict[str, Any]]:
     return [canonical_record(**x) for x in examples]
 
 
-def write_outputs(records: list[dict[str, Any]], source_status: dict[str, Any]) -> None:
+def write_outputs(records: list[dict[str, Any]], source_status: dict[str, Any], baseline_meta: dict[str, Any] | None = None) -> None:
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     records.sort(key=lambda r: (r.get("first_seen", ""), r.get("published_date", ""), r.get("relevance_score", 0)), reverse=True)
     payload = {
@@ -942,10 +1039,11 @@ def write_outputs(records: list[dict[str, Any]], source_status: dict[str, Any]) 
         "publisher_coverage": coverage_audit(records),
         "source_status": source_status,
         "search_vocabulary": SEARCH_TERMS,
+        "baseline": baseline_meta or {"completed": False},
         "notes": {
             "publisher_coverage": "Crossref is the publisher-metadata backbone; OpenAlex, Europe PMC, Semantic Scholar and DOAJ add independent redundancy. A 'no recent hit' publisher status means no matching seagrass paper is currently in the retained database, not that the publisher was excluded.",
             "study_locations": "Map locations are inferred only from explicit place names in title/abstract text unless an optional AI study_location is present. Author affiliation countries are not treated as study sites.",
-            "first_seen": "The date this Radar first discovered the record. This can differ from formal publication date because indexes ingest metadata at different times.",
+            "first_seen": "The date this Radar first discovered the record. Baseline-import records are excluded from NEW TODAY counts. Later discoveries are classified as new publications or recently indexed older papers.",
         },
     }
     PAPERS_FILE.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
@@ -959,12 +1057,31 @@ def main() -> int:
     parser.add_argument("--no-ai", action="store_true", help="Disable optional OpenAI summaries for this run")
     args = parser.parse_args()
 
-    existing = load_existing()
+    existing_payload = load_existing_payload()
+    existing = existing_payload.get("papers", [])
+    baseline_meta = existing_payload.get("baseline") if isinstance(existing_payload.get("baseline"), dict) else {}
+
     if args.demo:
-        records = deduplicate([*existing, *demo_records()])
-        write_outputs(records, {"Demo": {"ok": True, "records": len(records), "message": "Demo mode"}})
+        records = deduplicate(demo_records())
+        write_outputs(records, {"Demo": {"ok": True, "records": len(records), "message": "Demo mode"}}, {"completed": False, "demo": True})
         log(f"Demo complete: {len(records)} records")
         return 0
+
+    demo_count = sum(1 for r in existing if is_demo_record(r))
+    if demo_count:
+        log(f"Removing {demo_count} starter/demo records before the real harvest")
+    existing = [r for r in existing if not is_demo_record(r)]
+
+    # Any installation that predates V3 has no baseline marker. The first V3 run
+    # converts the current real database into a baseline so hundreds of historical
+    # records do not appear as "NEW TODAY". Fresh installations do the same after
+    # their first successful harvest.
+    first_real_run = not bool(baseline_meta.get("completed"))
+    if first_real_run and existing:
+        log(f"V3 baseline: marking {len(existing)} existing real records as baseline history")
+        for rec in existing:
+            rec["baseline_import"] = True
+            rec["discovery_type"] = "baseline"
 
     start = TODAY - timedelta(days=RETRIEVAL_LOOKBACK_DAYS)
     source_status: dict[str, Any] = {}
@@ -991,17 +1108,32 @@ def main() -> int:
             source_status[name] = {"ok": False, "records": 0, "seconds": round(time.time() - t0, 1), "error": str(exc)}
             log(f"{name}: FAILED but continuing: {exc}")
 
-    # Existing records are loaded first so their first_seen date survives merges.
     combined = deduplicate([*existing, *harvested])
     combined = [r for r in combined if int(r.get("relevance_score") or 0) >= MIN_RELEVANCE_SCORE]
     combined = filter_retention(combined)
 
+    if first_real_run:
+        for rec in combined:
+            rec["baseline_import"] = True
+            rec["discovery_type"] = "baseline"
+        baseline_meta = {
+            "completed": True,
+            "completed_at": NOW_ISO,
+            "paper_count": len(combined),
+            "note": "Initial real database imported as baseline; baseline records are not counted as newly discovered.",
+        }
+        log(f"V3 baseline complete: {len(combined)} real papers stored as baseline")
+    else:
+        refresh_discovery_types(combined)
+
     if not args.no_ai:
         ai_enrich(combined)
 
-    write_outputs(combined, source_status)
-    new_count = sum(1 for r in combined if r.get("first_seen") == TODAY.isoformat())
-    log(f"Done: {len(combined)} retained papers; {new_count} first seen today")
+    write_outputs(combined, source_status, baseline_meta)
+    new_today = sum(1 for r in combined if likely_new(r))
+    new_pubs_today = sum(1 for r in combined if likely_new(r) and r.get("discovery_type") == "new_publication")
+    indexed_today = sum(1 for r in combined if likely_new(r) and r.get("discovery_type") == "recently_indexed")
+    log(f"Done: {len(combined)} retained papers; {new_today} new discoveries today ({new_pubs_today} new publications, {indexed_today} recently indexed older papers)")
     return 0
 
 
