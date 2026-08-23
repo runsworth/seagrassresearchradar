@@ -1,38 +1,38 @@
 {
-  "generated_at": "2026-08-22T12:29:14+00:00",
+  "generated_at": "2026-08-23T05:45:49+00:00",
   "window_days": 7,
-  "new_papers": 48,
-  "newly_discovered": 0,
+  "new_papers": 51,
+  "newly_discovered": 19,
   "theme_counts": {
-    "Conservation & management": 15,
+    "Conservation & management": 14,
     "Biodiversity & ecology": 13,
-    "Mapping & remote sensing": 9,
-    "Fisheries & fauna": 9,
-    "Physiology & productivity": 9,
-    "Water quality & nutrients": 9,
-    "Climate & heat": 8,
+    "Mapping & remote sensing": 10,
+    "Fisheries & fauna": 10,
+    "General seagrass science": 10,
+    "Climate & heat": 9,
+    "Water quality & nutrients": 8,
+    "Genetics & genomics": 8,
+    "Physiology & productivity": 8,
     "Restoration": 7,
     "Social & economic": 7,
-    "General seagrass science": 7,
-    "Genetics & genomics": 7,
-    "Blue carbon": 6,
+    "Blue carbon": 5,
     "Biogeochemistry": 4,
-    "Microbiome & disease": 2,
-    "Pollution & contaminants": 1
+    "Microbiome & disease": 3,
+    "Pollution & contaminants": 2
   },
   "publisher_counts": {
-    "Elsevier": 10,
-    "Other / independent": 7,
-    "European Organization for Nuclear Research": 6,
+    "Elsevier": 11,
+    "Other / independent": 9,
+    "European Organization for Nuclear Research": 7,
     "University of Southampton": 5,
-    "Springer Nature": 3,
+    "Figshare (United Kingdom)": 2,
     "Taylor & Francis": 2,
+    "Multidisciplinary Digital Publishing Institute": 2,
+    "Springer Nature": 2,
     "Lomonosov Moscow State University": 1,
     "Institute of Paleobiology PAS": 1,
     "GJESM Publisher": 1,
-    "MDPI": 1,
-    "Inter-Research": 1,
-    "Copernicus": 1
+    "Inter-Research": 1
   },
   "top_papers": [
     {
@@ -59,6 +59,25 @@
       "why_it_matters": ""
     },
     {
+      "uid": "10.5281/zenodo.22037602",
+      "title": "Dataset: Bibliometric Analysis of Seagrass–Microplastic Research, 2018–2025",
+      "authors": [
+        "Mardatillah Z",
+        "Rohani Ambo‐Rappe"
+      ],
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "publisher_group": "European Organization for Nuclear Research",
+      "published_date": "2026-08-21",
+      "first_seen": "2026-08-23",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.5281/zenodo.22037602",
+      "themes": [
+        "Pollution & contaminants"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
       "uid": "10.21203/rs.3.rs-9784196/v1",
       "title": "Chloroplast genome assembly of Thalassia testudinum from the Caribbean Sea, and its evolutionary analysis with related genera",
       "authors": [
@@ -67,9 +86,15 @@
         "Fuentes DAV",
         "Batista RA",
         "Vicéns RER",
-        "Marrero ÁRN"
+        "Marrero ÁRN",
+        "Abner J. Colón Colón",
+        "Gerardo Laureano Rosario",
+        "Dariel A. Vázquez Fuentes",
+        "Rosalinda Aybar Batista",
+        "Ramón E. Rivera Vicéns",
+        "Ángel R. Núñez Marrero"
       ],
-      "journal": "",
+      "journal": "Research Square",
       "publisher_group": "Other / independent",
       "published_date": "2026-08-21",
       "first_seen": "2026-08-22",
@@ -78,6 +103,7 @@
       "themes": [
         "Biodiversity & ecology",
         "Conservation & management",
+        "General seagrass science",
         "Genetics & genomics"
       ],
       "ai_summary": "",
@@ -181,6 +207,7 @@
       "url": "https://doi.org/10.1007/s00248-026-02863-7",
       "themes": [
         "Conservation & management",
+        "General seagrass science",
         "Restoration"
       ],
       "ai_summary": "",
@@ -274,37 +301,6 @@
         "Fisheries & fauna",
         "Social & economic",
         "Water quality & nutrients"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.1002/nzm2.70067",
-      "title": "Remote Sensing With Machine Learning to Monitor Seagrass Meadows: Long‐Term Trends in Tauranga Harbour, New Zealand",
-      "authors": [
-        "Zhanchao Shao",
-        "Karin R. Bryan",
-        "Sanne Martha Vaassen",
-        "Conrad A. Pilditch",
-        "Brooke Ellis-Smith",
-        "Josie Crawshaw",
-        "Sanne M. Vaassen",
-        "Brooke Ellis‐Smith",
-        "Josie A. Crawshaw"
-      ],
-      "journal": "New Zealand Journal of Marine and Freshwater Research",
-      "publisher_group": "Taylor & Francis",
-      "published_date": "2026-08-20",
-      "first_seen": "2026-08-22",
-      "discovery_type": "baseline",
-      "url": "https://doi.org/10.1002/nzm2.70067",
-      "themes": [
-        "Biodiversity & ecology",
-        "Climate & heat",
-        "Conservation & management",
-        "Genetics & genomics",
-        "Mapping & remote sensing",
-        "Restoration"
       ],
       "ai_summary": "",
       "why_it_matters": ""
