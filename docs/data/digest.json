@@ -1,38 +1,38 @@
 {
-  "generated_at": "2026-08-23T05:45:49+00:00",
+  "generated_at": "2026-08-24T05:54:24+00:00",
   "window_days": 7,
   "new_papers": 51,
-  "newly_discovered": 19,
+  "newly_discovered": 92,
   "theme_counts": {
-    "Conservation & management": 14,
+    "Conservation & management": 15,
     "Biodiversity & ecology": 13,
-    "Mapping & remote sensing": 10,
+    "Climate & heat": 11,
+    "Restoration": 10,
     "Fisheries & fauna": 10,
     "General seagrass science": 10,
-    "Climate & heat": 9,
+    "Mapping & remote sensing": 9,
+    "Physiology & productivity": 9,
     "Water quality & nutrients": 8,
     "Genetics & genomics": 8,
-    "Physiology & productivity": 8,
-    "Restoration": 7,
-    "Social & economic": 7,
-    "Blue carbon": 5,
+    "Social & economic": 6,
     "Biogeochemistry": 4,
+    "Blue carbon": 4,
     "Microbiome & disease": 3,
-    "Pollution & contaminants": 2
+    "Pollution & contaminants": 1
   },
   "publisher_counts": {
     "Elsevier": 11,
     "Other / independent": 9,
-    "European Organization for Nuclear Research": 7,
+    "European Organization for Nuclear Research": 5,
     "University of Southampton": 5,
+    "Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung": 2,
     "Figshare (United Kingdom)": 2,
     "Taylor & Francis": 2,
     "Multidisciplinary Digital Publishing Institute": 2,
     "Springer Nature": 2,
     "Lomonosov Moscow State University": 1,
     "Institute of Paleobiology PAS": 1,
-    "GJESM Publisher": 1,
-    "Inter-Research": 1
+    "GJESM Publisher": 1
   },
   "top_papers": [
     {
