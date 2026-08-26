@@ -1,38 +1,38 @@
 {
-  "generated_at": "2026-08-25T05:48:15+00:00",
+  "generated_at": "2026-08-26T05:50:55+00:00",
   "window_days": 7,
-  "new_papers": 45,
-  "newly_discovered": 238,
+  "new_papers": 38,
+  "newly_discovered": 311,
   "theme_counts": {
-    "Biodiversity & ecology": 11,
-    "Conservation & management": 11,
-    "General seagrass science": 10,
+    "Conservation & management": 10,
+    "Biodiversity & ecology": 10,
+    "Physiology & productivity": 9,
     "Fisheries & fauna": 9,
-    "Mapping & remote sensing": 8,
-    "Physiology & productivity": 8,
-    "Water quality & nutrients": 7,
-    "Climate & heat": 7,
+    "Climate & heat": 8,
+    "Mapping & remote sensing": 7,
     "Restoration": 7,
+    "General seagrass science": 6,
+    "Water quality & nutrients": 6,
     "Genetics & genomics": 5,
     "Social & economic": 4,
-    "Biogeochemistry": 4,
-    "Blue carbon": 3,
+    "Biogeochemistry": 3,
+    "Blue carbon": 2,
     "Microbiome & disease": 2,
     "Pollution & contaminants": 1
   },
   "publisher_counts": {
     "Elsevier": 11,
-    "Other / independent": 8,
-    "University of Southampton": 5,
-    "Springer Nature": 2,
+    "Other / independent": 7,
+    "Springer Nature": 3,
     "Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung": 2,
     "European Organization for Nuclear Research": 2,
     "Taylor & Francis": 2,
     "Multidisciplinary Digital Publishing Institute": 2,
-    "Wiley": 1,
     "Middle East Technical University": 1,
     "Figshare (United Kingdom)": 1,
-    "Lomonosov Moscow State University": 1
+    "Lomonosov Moscow State University": 1,
+    "Institute of Paleobiology PAS": 1,
+    "GJESM Publisher": 1
   },
   "top_papers": [
     {
@@ -87,27 +87,6 @@
       "why_it_matters": ""
     },
     {
-      "uid": "10.4121/8447f98e-e6e8-40ac-a71c-081a4fa6c1cb.v1",
-      "title": "Data underlying the publication: Ammonium uptake plasticity and allocation trade-offs may shape invasion potential of Halophila stipulacea in the Caribbean",
-      "authors": [
-        "Fee O. H. Smulders",
-        "D Varadharajan",
-        "M.J.A. Christianen",
-        "J. Arie Vonk"
-      ],
-      "journal": "4TU.ResearchData",
-      "publisher_group": "4TU.ResearchData",
-      "published_date": "2026-08-18",
-      "first_seen": "2026-08-22",
-      "discovery_type": "baseline",
-      "url": "https://doi.org/10.4121/8447f98e-e6e8-40ac-a71c-081a4fa6c1cb.v1",
-      "themes": [
-        "General seagrass science"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
       "uid": "10.1016/j.gecco.2026.e04287",
       "title": "Feeding patterns of Dugong dugon at hyper-urbanised coastal tropical seagrass meadows",
       "authors": [
@@ -135,6 +114,26 @@
         "Genetics & genomics",
         "Physiology & productivity",
         "Water quality & nutrients"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.5194/egusphere-2026-4232-rc1",
+      "title": "Comment on egusphere-2026-4232",
+      "authors": [
+        "Kayleigh E. Granville",
+        "Peter Berg"
+      ],
+      "journal": "",
+      "publisher_group": "Other / independent",
+      "published_date": "2026-08-24",
+      "first_seen": "2026-08-26",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.5194/egusphere-2026-4232-rc1",
+      "themes": [
+        "Blue carbon",
+        "Physiology & productivity"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -186,32 +185,6 @@
         "Conservation & management",
         "General seagrass science",
         "Restoration"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.5194/egusphere-2026-4778",
-      "title": "Seasonal methane and nitrous oxide exchange in a sandy coastal eelgrass meadow",
-      "authors": [
-        "Gry Frederiksberg",
-        "Marianna Lanari",
-        "Anaïs Richard",
-        "Pere Masqué",
-        "Erik Kristensen",
-        "Cintia Organo Quintana"
-      ],
-      "journal": "",
-      "publisher_group": "Other / independent",
-      "published_date": "2026-08-18",
-      "first_seen": "2026-08-22",
-      "discovery_type": "baseline",
-      "url": "https://doi.org/10.5194/egusphere-2026-4778",
-      "themes": [
-        "Biogeochemistry",
-        "Blue carbon",
-        "Climate & heat",
-        "Physiology & productivity"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -292,6 +265,26 @@
       "url": "https://doi.org/10.1016/j.atmosenv.2026.122195",
       "themes": [
         "Social & economic"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.14710/jmr.v15i3.52726",
+      "title": "Pertumbuhan Daun dan Produksi Bunga Lamun Enhalus acoroides dan Thalassia hemprichii Di Perairan Pulau Dompak",
+      "authors": [
+        "Kelvin Imaniar Yoenky",
+        "Jelita Rahma Hidayati",
+        "Aditya Hikmat Nugraha"
+      ],
+      "journal": "Journal of Marine Research",
+      "publisher_group": "Institute of Research and Community Services Diponegoro University (LPPM UNDIP)",
+      "published_date": "2026-08-19",
+      "first_seen": "2026-08-22",
+      "discovery_type": "baseline",
+      "url": "https://doi.org/10.14710/jmr.v15i3.52726",
+      "themes": [
+        "General seagrass science"
       ],
       "ai_summary": "",
       "why_it_matters": ""
