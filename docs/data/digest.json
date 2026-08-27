@@ -1,38 +1,38 @@
 {
-  "generated_at": "2026-08-26T05:50:55+00:00",
+  "generated_at": "2026-08-27T16:31:11+00:00",
   "window_days": 7,
-  "new_papers": 38,
-  "newly_discovered": 311,
+  "new_papers": 43,
+  "newly_discovered": 402,
   "theme_counts": {
-    "Conservation & management": 10,
-    "Biodiversity & ecology": 10,
-    "Physiology & productivity": 9,
-    "Fisheries & fauna": 9,
-    "Climate & heat": 8,
+    "Climate & heat": 15,
+    "Conservation & management": 14,
+    "Physiology & productivity": 14,
+    "Biodiversity & ecology": 12,
+    "Fisheries & fauna": 11,
+    "Restoration": 9,
+    "Biogeochemistry": 7,
     "Mapping & remote sensing": 7,
-    "Restoration": 7,
+    "Genetics & genomics": 7,
     "General seagrass science": 6,
     "Water quality & nutrients": 6,
-    "Genetics & genomics": 5,
+    "Microbiome & disease": 4,
+    "Blue carbon": 4,
     "Social & economic": 4,
-    "Biogeochemistry": 3,
-    "Blue carbon": 2,
-    "Microbiome & disease": 2,
-    "Pollution & contaminants": 1
+    "Pollution & contaminants": 2
   },
   "publisher_counts": {
-    "Elsevier": 11,
-    "Other / independent": 7,
-    "Springer Nature": 3,
+    "Elsevier": 12,
+    "Other / independent": 10,
+    "European Organization for Nuclear Research": 3,
+    "Figshare (United Kingdom)": 2,
+    "Springer Nature": 2,
     "Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung": 2,
-    "European Organization for Nuclear Research": 2,
     "Taylor & Francis": 2,
-    "Multidisciplinary Digital Publishing Institute": 2,
-    "Middle East Technical University": 1,
-    "Figshare (United Kingdom)": 1,
+    "Inter-Research": 2,
+    "Oxford University Press": 1,
+    "Royal Society": 1,
     "Lomonosov Moscow State University": 1,
-    "Institute of Paleobiology PAS": 1,
-    "GJESM Publisher": 1
+    "Institute of Paleobiology PAS": 1
   },
   "top_papers": [
     {
@@ -169,27 +169,6 @@
       "why_it_matters": ""
     },
     {
-      "uid": "10.1007/s00248-026-02863-7",
-      "title": "A Parasite in Paradise: Marinomyxa halophilae Infects Halophila decipiens and Halophila hawaiiana, With Observations of Infected Fruits",
-      "authors": [
-        "M. L. Weaver",
-        "Mikinley Weaver"
-      ],
-      "journal": "Microbial Ecology",
-      "publisher_group": "Springer Nature",
-      "published_date": "2026-08-19",
-      "first_seen": "2026-08-22",
-      "discovery_type": "baseline",
-      "url": "https://doi.org/10.1007/s00248-026-02863-7",
-      "themes": [
-        "Conservation & management",
-        "General seagrass science",
-        "Restoration"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
       "uid": "13d83b41bf327d23805b",
       "title": "Seagrasses (Zosteraceae And Ruppiaceae) In Russia: Distribution, Diversity, Prospects For Further Research",
       "authors": [
@@ -270,21 +249,54 @@
       "why_it_matters": ""
     },
     {
-      "uid": "10.14710/jmr.v15i3.52726",
-      "title": "Pertumbuhan Daun dan Produksi Bunga Lamun Enhalus acoroides dan Thalassia hemprichii Di Perairan Pulau Dompak",
+      "uid": "10.3354/dao03930",
+      "title": "Whole plant disease severity is associated with reduced polyphenolic concentrations in lesioned but not green tissue in eelgrass Zostera marina",
       "authors": [
-        "Kelvin Imaniar Yoenky",
-        "Jelita Rahma Hidayati",
-        "Aditya Hikmat Nugraha"
+        "Naomi A Murray",
+        "Katherine DuBois",
+        "John J Stachowicz",
+        "Naomi Murray",
+        "J. Stachowicz"
       ],
-      "journal": "Journal of Marine Research",
-      "publisher_group": "Institute of Research and Community Services Diponegoro University (LPPM UNDIP)",
-      "published_date": "2026-08-19",
+      "journal": "Diseases of Aquatic Organisms",
+      "publisher_group": "Inter-Research",
+      "published_date": "2026-08-27",
       "first_seen": "2026-08-22",
       "discovery_type": "baseline",
-      "url": "https://doi.org/10.14710/jmr.v15i3.52726",
+      "url": "https://doi.org/10.3354/dao03930",
       "themes": [
-        "General seagrass science"
+        "Genetics & genomics",
+        "Microbiome & disease"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.1093/femsre/fuag044",
+      "title": "From holobionts to habitats: opportunities and limitations of microbiome-assisted restoration strategies of marine ecosystem engineers",
+      "authors": [
+        "Sofie Peeters",
+        "Chloé Stévenne",
+        "H Julia van Duijnhoven",
+        "Marcellina Rola",
+        "Manuela Quiroga-Pérez",
+        "Aschwin H Engelen",
+        "Gerard Muyzer",
+        "Pedro R Frade",
+        "Olivier De Clerck"
+      ],
+      "journal": "FEMS Microbiology Reviews",
+      "publisher_group": "Oxford University Press",
+      "published_date": "2026-08-26",
+      "first_seen": "2026-08-27",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.1093/femsre/fuag044",
+      "themes": [
+        "Climate & heat",
+        "Conservation & management",
+        "Microbiome & disease",
+        "Physiology & productivity",
+        "Restoration"
       ],
       "ai_summary": "",
       "why_it_matters": ""
