@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-29T11:39:54+00:00",
+  "generated_at": "2026-08-30T10:29:19+00:00",
   "window_days": 7,
-  "new_papers": 33,
-  "newly_discovered": 499,
+  "new_papers": 36,
+  "newly_discovered": 519,
   "theme_counts": {
-    "Physiology & productivity": 11,
-    "Conservation & management": 9,
+    "Physiology & productivity": 12,
+    "Conservation & management": 11,
     "Climate & heat": 9,
+    "Biodiversity & ecology": 8,
     "Restoration": 8,
-    "Fisheries & fauna": 7,
+    "Fisheries & fauna": 8,
+    "General seagrass science": 7,
     "Mapping & remote sensing": 7,
-    "Biodiversity & ecology": 6,
-    "General seagrass science": 6,
+    "Social & economic": 4,
     "Water quality & nutrients": 4,
     "Genetics & genomics": 4,
     "Biogeochemistry": 3,
-    "Social & economic": 3,
     "Microbiome & disease": 2,
     "Blue carbon": 2
   },
   "publisher_counts": {
     "Elsevier": 13,
-    "Other / independent": 4,
+    "Other / independent": 6,
     "Springer Nature": 3,
-    "Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung": 2,
+    "Figshare (United Kingdom)": 2,
+    "Universitas Gadjah Mada": 1,
+    "Wiley": 1,
     "Global Biodiversity Information Facility": 1,
     "European Organization for Nuclear Research": 1,
     "Oxford University Press": 1,
     "Cornell University": 1,
-    "Figshare (United Kingdom)": 1,
     "Lomonosov Moscow State University": 1,
-    "Institute of Paleobiology PAS": 1,
-    "Taylor & Francis": 1
+    "Institute of Paleobiology PAS": 1
   },
   "top_papers": [
     {
@@ -239,41 +239,41 @@
       "why_it_matters": ""
     },
     {
-      "uid": "10.1594/pangaea.996146",
-      "title": "Spatial (point) data of restored seagrass planted in North Wales between 2023–2024 by Project Seagrass",
+      "uid": "10.5194/egusphere-2026-2159-ac2",
+      "title": "Reply on RC3",
       "authors": [
-        "Oliver Robert Thomas",
-        "Richard K F Unsworth"
+        "Max L. E. Gräfnings"
       ],
-      "journal": "Publishing Network for Geoscientific and Environmental Data (PANGAEA) (Alfred Wegener Institute for Polar and Marine Research)",
-      "publisher_group": "Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung",
-      "published_date": "2026-08-22",
-      "first_seen": "2026-08-24",
+      "journal": "",
+      "publisher_group": "Other / independent",
+      "published_date": "2026-08-25",
+      "first_seen": "2026-08-27",
       "discovery_type": "new_publication",
-      "url": "https://doi.org/10.1594/pangaea.996146",
+      "url": "https://doi.org/10.5194/egusphere-2026-2159-ac2",
       "themes": [
+        "Biogeochemistry",
         "Climate & heat",
-        "Restoration"
+        "Physiology & productivity"
       ],
       "ai_summary": "",
       "why_it_matters": ""
     },
     {
-      "uid": "10.1594/pangaea.996144",
-      "title": "Spatial (polygon) data of restored seagrass planted in North Wales between 2023–2024 by Project Seagrass",
+      "uid": "10.5194/egusphere-2026-2159-ac1",
+      "title": "Reply on RC2",
       "authors": [
-        "Oliver Robert Thomas",
-        "Richard K F Unsworth"
+        "Max L. E. Gräfnings"
       ],
-      "journal": "Publishing Network for Geoscientific and Environmental Data (PANGAEA) (Alfred Wegener Institute for Polar and Marine Research)",
-      "publisher_group": "Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung",
-      "published_date": "2026-08-22",
-      "first_seen": "2026-08-24",
+      "journal": "",
+      "publisher_group": "Other / independent",
+      "published_date": "2026-08-25",
+      "first_seen": "2026-08-27",
       "discovery_type": "new_publication",
-      "url": "https://doi.org/10.1594/pangaea.996144",
+      "url": "https://doi.org/10.5194/egusphere-2026-2159-ac1",
       "themes": [
+        "Biogeochemistry",
         "Climate & heat",
-        "Restoration"
+        "Physiology & productivity"
       ],
       "ai_summary": "",
       "why_it_matters": ""
