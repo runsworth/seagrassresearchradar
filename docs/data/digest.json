@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-30T10:29:19+00:00",
+  "generated_at": "2026-08-31T11:36:33+00:00",
   "window_days": 7,
-  "new_papers": 36,
-  "newly_discovered": 519,
+  "new_papers": 40,
+  "newly_discovered": 513,
   "theme_counts": {
+    "Conservation & management": 12,
     "Physiology & productivity": 12,
-    "Conservation & management": 11,
-    "Climate & heat": 9,
-    "Biodiversity & ecology": 8,
+    "Climate & heat": 11,
+    "Biodiversity & ecology": 9,
+    "Mapping & remote sensing": 8,
+    "General seagrass science": 8,
     "Restoration": 8,
     "Fisheries & fauna": 8,
-    "General seagrass science": 7,
-    "Mapping & remote sensing": 7,
+    "Water quality & nutrients": 5,
+    "Biogeochemistry": 4,
     "Social & economic": 4,
-    "Water quality & nutrients": 4,
     "Genetics & genomics": 4,
-    "Biogeochemistry": 3,
     "Microbiome & disease": 2,
     "Blue carbon": 2
   },
   "publisher_counts": {
     "Elsevier": 13,
-    "Other / independent": 6,
-    "Springer Nature": 3,
+    "Other / independent": 7,
+    "Springer Nature": 4,
+    "European Organization for Nuclear Research": 2,
     "Figshare (United Kingdom)": 2,
+    "Higher Institute of Science and Technology, Regdaleen": 1,
     "Universitas Gadjah Mada": 1,
     "Wiley": 1,
     "Global Biodiversity Information Facility": 1,
-    "European Organization for Nuclear Research": 1,
     "Oxford University Press": 1,
     "Cornell University": 1,
-    "Lomonosov Moscow State University": 1,
-    "Institute of Paleobiology PAS": 1
+    "Lomonosov Moscow State University": 1
   },
   "top_papers": [
     {
@@ -87,6 +87,24 @@
       "why_it_matters": ""
     },
     {
+      "uid": "10.5281/zenodo.22177318",
+      "title": "Eelgrass Structural State Is Associated with Climate- and Terrain-Dependent Coastal Thermal Sensitivity A multi-scale open-data analysis of Zostera marina thermal microclimates, natural structural loss, bathymetry, predictive validation, and global scenario projection",
+      "authors": [
+        "Osuke Doijiri"
+      ],
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "publisher_group": "European Organization for Nuclear Research",
+      "published_date": "2026-08-30",
+      "first_seen": "2026-08-31",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.5281/zenodo.22177318",
+      "themes": [
+        "Climate & heat"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
       "uid": "13d83b41bf327d23805b",
       "title": "Seagrasses (Zosteraceae And Ruppiaceae) In Russia: Distribution, Diversity, Prospects For Further Research",
       "authors": [
@@ -134,6 +152,30 @@
       "why_it_matters": ""
     },
     {
+      "uid": "10.13140/rg.2.2.14857.40809",
+      "title": "Iseradication of non-native seagrass Halophila stipulacea beneficial for invaded native seagrass medows?",
+      "authors": [
+        "Francesca Necci",
+        "Andrea Toso",
+        "Emanuele Mancini",
+        "Luigi Musco",
+        "Stefano Piraino",
+        "Laura Tamburello",
+        "Paolo D'ambrosio"
+      ],
+      "journal": "",
+      "publisher_group": "Other / independent",
+      "published_date": "2026-08-30",
+      "first_seen": "2026-08-31",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.13140/rg.2.2.14857.40809",
+      "themes": [
+        "General seagrass science"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
       "uid": "10.3354/dao03930",
       "title": "Whole plant disease severity is associated with reduced polyphenolic concentrations in lesioned but not green tissue in eelgrass Zostera marina",
       "authors": [
@@ -142,7 +184,10 @@
         "John J Stachowicz",
         "Naomi Murray",
         "J. Stachowicz",
-        "Naomi A. Murray"
+        "Naomi A. Murray",
+        "Murray NA",
+        "DuBois K",
+        "Stachowicz JJ"
       ],
       "journal": "Diseases of Aquatic Organisms",
       "publisher_group": "Inter-Research",
@@ -234,46 +279,6 @@
       "url": "https://doi.org/10.1016/j.coastaleng.2026.105144",
       "themes": [
         "General seagrass science"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.5194/egusphere-2026-2159-ac2",
-      "title": "Reply on RC3",
-      "authors": [
-        "Max L. E. Gräfnings"
-      ],
-      "journal": "",
-      "publisher_group": "Other / independent",
-      "published_date": "2026-08-25",
-      "first_seen": "2026-08-27",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.5194/egusphere-2026-2159-ac2",
-      "themes": [
-        "Biogeochemistry",
-        "Climate & heat",
-        "Physiology & productivity"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.5194/egusphere-2026-2159-ac1",
-      "title": "Reply on RC2",
-      "authors": [
-        "Max L. E. Gräfnings"
-      ],
-      "journal": "",
-      "publisher_group": "Other / independent",
-      "published_date": "2026-08-25",
-      "first_seen": "2026-08-27",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.5194/egusphere-2026-2159-ac1",
-      "themes": [
-        "Biogeochemistry",
-        "Climate & heat",
-        "Physiology & productivity"
       ],
       "ai_summary": "",
       "why_it_matters": ""
