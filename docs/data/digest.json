@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-31T11:36:33+00:00",
+  "generated_at": "2026-09-01T10:07:37+00:00",
   "window_days": 7,
-  "new_papers": 40,
-  "newly_discovered": 513,
+  "new_papers": 50,
+  "newly_discovered": 494,
   "theme_counts": {
-    "Conservation & management": 12,
+    "Conservation & management": 15,
+    "Fisheries & fauna": 12,
     "Physiology & productivity": 12,
+    "General seagrass science": 11,
     "Climate & heat": 11,
-    "Biodiversity & ecology": 9,
-    "Mapping & remote sensing": 8,
-    "General seagrass science": 8,
-    "Restoration": 8,
-    "Fisheries & fauna": 8,
-    "Water quality & nutrients": 5,
-    "Biogeochemistry": 4,
-    "Social & economic": 4,
-    "Genetics & genomics": 4,
-    "Microbiome & disease": 2,
+    "Biodiversity & ecology": 10,
+    "Restoration": 9,
+    "Mapping & remote sensing": 9,
+    "Water quality & nutrients": 8,
+    "Social & economic": 6,
+    "Genetics & genomics": 6,
+    "Biogeochemistry": 6,
+    "Microbiome & disease": 4,
     "Blue carbon": 2
   },
   "publisher_counts": {
-    "Elsevier": 13,
-    "Other / independent": 7,
-    "Springer Nature": 4,
-    "European Organization for Nuclear Research": 2,
+    "Elsevier": 18,
+    "Other / independent": 8,
+    "Springer Nature": 5,
+    "European Organization for Nuclear Research": 3,
     "Figshare (United Kingdom)": 2,
+    "Edtech Publishers (OPC) Private Limited": 1,
+    "American Chemical Society (ACS)": 1,
     "Higher Institute of Science and Technology, Regdaleen": 1,
     "Universitas Gadjah Mada": 1,
     "Wiley": 1,
     "Global Biodiversity Information Facility": 1,
-    "Oxford University Press": 1,
-    "Cornell University": 1,
-    "Lomonosov Moscow State University": 1
+    "Oxford University Press": 1
   },
   "top_papers": [
     {
@@ -62,26 +62,6 @@
         "Genetics & genomics",
         "Physiology & productivity",
         "Water quality & nutrients"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.5194/egusphere-2026-4232-rc1",
-      "title": "Comment on egusphere-2026-4232",
-      "authors": [
-        "Kayleigh E. Granville",
-        "Peter Berg"
-      ],
-      "journal": "",
-      "publisher_group": "Other / independent",
-      "published_date": "2026-08-24",
-      "first_seen": "2026-08-26",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.5194/egusphere-2026-4232-rc1",
-      "themes": [
-        "Blue carbon",
-        "Physiology & productivity"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -122,6 +102,61 @@
       "url": "https://ges.rgo.ru/jour/article/view/4463",
       "themes": [
         "Mapping & remote sensing"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.1016/j.ecss.2026.109958",
+      "title": "Invasion of Spartina alterniflora reshapes sediment nitrogen fixation process in native Zostera japonica seagrass beds",
+      "authors": [
+        "Lin Yang",
+        "Xinju Huang",
+        "Shaojie Zhu",
+        "Zhimin Song",
+        "Xin Wang",
+        "Zheng Liu",
+        "Qianqian Zhang",
+        "Zhihai Zhong",
+        "Jianmin Zhao",
+        "Hui Shi",
+        "Xiaoli Zhang"
+      ],
+      "journal": "Estuarine, Coastal and Shelf Science",
+      "publisher_group": "Elsevier",
+      "published_date": "2026-09-01",
+      "first_seen": "2026-08-22",
+      "discovery_type": "baseline",
+      "url": "https://doi.org/10.1016/j.ecss.2026.109958",
+      "themes": [
+        "Biogeochemistry",
+        "Water quality & nutrients"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.1021/acs.est.6c07975",
+      "title": "Seagrass and Macroalgae Detritus Drive Distinct Methane Production Dynamics and Microbial Succession in Coastal Sediments",
+      "authors": [
+        "Guiyuan Dai",
+        "Xiaogang Chen",
+        "Peiyuan Zhu",
+        "Guangchao Zhuang",
+        "Feng Ju",
+        "Ling Li"
+      ],
+      "journal": "Environmental Science & Technology",
+      "publisher_group": "American Chemical Society (ACS)",
+      "published_date": "2026-08-26",
+      "first_seen": "2026-09-01",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.1021/acs.est.6c07975",
+      "themes": [
+        "Biogeochemistry",
+        "Blue carbon",
+        "Microbiome & disease",
+        "Water quality & nutrients"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -171,6 +206,30 @@
       "url": "https://doi.org/10.13140/rg.2.2.14857.40809",
       "themes": [
         "General seagrass science"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.1016/j.ecss.2026.109934",
+      "title": "High-resolution species distribution modelling to guide eelgrass (Zostera marina) management",
+      "authors": [
+        "Sanjina Upadhyay Stæhr",
+        "Cordula Göke",
+        "Andreas Michael Holbach",
+        "Peter Anton Upadhyay Stæhr",
+        "Dorte Krause-Jensen",
+        "Mihailo Azhar",
+        "Jacob Carstensen"
+      ],
+      "journal": "Estuarine, Coastal and Shelf Science",
+      "publisher_group": "Elsevier",
+      "published_date": "2026-09-01",
+      "first_seen": "2026-09-01",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.1016/j.ecss.2026.109934",
+      "themes": [
+        "Conservation & management"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -227,58 +286,6 @@
         "Climate & heat",
         "Conservation & management",
         "Mapping & remote sensing"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.1093/femsre/fuag044",
-      "title": "From holobionts to habitats: opportunities and limitations of microbiome-assisted restoration strategies of marine ecosystem engineers",
-      "authors": [
-        "S. Peeters",
-        "Chloé Stevenne",
-        "H Julia van Duijnhoven",
-        "Marcellina Rola",
-        "Manuela Quiroga-Pérez",
-        "Aschwin H Engelen",
-        "Gerard Muyzer",
-        "Pedro R. Frade",
-        "Olivier De Clerck",
-        "Sofie Peeters",
-        "Chloé Stévenne",
-        "Pedro R Frade"
-      ],
-      "journal": "FEMS Microbiology Reviews",
-      "publisher_group": "Oxford University Press",
-      "published_date": "2026-08-26",
-      "first_seen": "2026-08-27",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.1093/femsre/fuag044",
-      "themes": [
-        "Climate & heat",
-        "Conservation & management",
-        "Microbiome & disease",
-        "Physiology & productivity",
-        "Restoration"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.1016/j.coastaleng.2026.105144",
-      "title": "Quantifying the wave attenuation of hybrid seagrass-reef structures – An experimental study",
-      "authors": [
-        "Xihang Xu",
-        "M. Salauddin"
-      ],
-      "journal": "Coastal Engineering",
-      "publisher_group": "Elsevier",
-      "published_date": "2026-08-26",
-      "first_seen": "2026-08-27",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.1016/j.coastaleng.2026.105144",
-      "themes": [
-        "General seagrass science"
       ],
       "ai_summary": "",
       "why_it_matters": ""
