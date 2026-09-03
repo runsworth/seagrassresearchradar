@@ -1,40 +1,71 @@
 {
-  "generated_at": "2026-09-02T09:38:19+00:00",
+  "generated_at": "2026-09-03T09:51:24+00:00",
   "window_days": 7,
-  "new_papers": 48,
-  "newly_discovered": 413,
+  "new_papers": 52,
+  "newly_discovered": 449,
   "theme_counts": {
-    "Conservation & management": 17,
-    "Fisheries & fauna": 12,
-    "Biodiversity & ecology": 12,
+    "Conservation & management": 21,
+    "Fisheries & fauna": 15,
+    "Biodiversity & ecology": 14,
+    "Restoration": 13,
+    "Water quality & nutrients": 12,
+    "Mapping & remote sensing": 10,
     "General seagrass science": 10,
-    "Restoration": 10,
-    "Water quality & nutrients": 10,
+    "Climate & heat": 8,
+    "Genetics & genomics": 8,
     "Physiology & productivity": 8,
-    "Genetics & genomics": 7,
-    "Mapping & remote sensing": 7,
-    "Social & economic": 6,
-    "Climate & heat": 6,
-    "Microbiome & disease": 5,
-    "Biogeochemistry": 3,
-    "Pollution & contaminants": 1,
-    "Blue carbon": 1
+    "Social & economic": 7,
+    "Microbiome & disease": 4,
+    "Blue carbon": 2,
+    "Biogeochemistry": 2,
+    "Pollution & contaminants": 1
   },
   "publisher_counts": {
-    "Elsevier": 19,
-    "Other / independent": 7,
+    "Elsevier": 18,
+    "Other / independent": 9,
     "Springer Nature": 3,
-    "European Organization for Nuclear Research": 3,
-    "Frontiers": 1,
+    "Murdoch University": 2,
+    "Figshare (United Kingdom)": 2,
+    "Frontiers": 2,
+    "European Organization for Nuclear Research": 2,
+    "Visagaa Publishing House": 1,
+    "Peter the Great St. Petersburg Polytechnic University": 1,
     "Royal Society": 1,
     "Edtech Publishers (OPC) Private Limited": 1,
-    "American Chemical Society (ACS)": 1,
-    "Higher Institute of Science and Technology, Regdaleen": 1,
-    "Universitas Gadjah Mada": 1,
-    "Figshare (United Kingdom)": 1,
-    "Wiley": 1
+    "Higher Institute of Science and Technology, Regdaleen": 1
   },
   "top_papers": [
+    {
+      "uid": "10.3389/fcosc.2026.1974641",
+      "title": "Editorial: Global conservation of vulnerable, threatened and endangered seagrass",
+      "authors": [
+        "Mike van Keulen",
+        "Brooke K. Sullivan",
+        "Fred Short",
+        "Fred T. Short"
+      ],
+      "journal": "Frontiers in Conservation Science",
+      "publisher_group": "Frontiers",
+      "published_date": "2026-09-02",
+      "first_seen": "2026-09-02",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.3389/fcosc.2026.1974641",
+      "themes": [
+        "Biodiversity & ecology",
+        "Blue carbon",
+        "Climate & heat",
+        "Conservation & management",
+        "Fisheries & fauna",
+        "Genetics & genomics",
+        "Mapping & remote sensing",
+        "Physiology & productivity",
+        "Restoration",
+        "Social & economic",
+        "Water quality & nutrients"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
     {
       "uid": "10.1016/j.gecco.2026.e04287",
       "title": "Feeding patterns of Dugong dugon at hyper-urbanised coastal tropical seagrass meadows",
@@ -108,6 +139,31 @@
       "why_it_matters": ""
     },
     {
+      "uid": "10.53365/nrfhh/224624",
+      "title": "Occurrence of mycorrhizal spores and phosphate solubilizing potential of rhizosphere mycoflora of seagrass Thalassia hemprechii (Ehrenb.) Asch.",
+      "authors": [
+        "Arumugam Radjasegarin",
+        "T Suganya",
+        "E Pazhani",
+        "N Azhagusundari",
+        "G Jayanthi",
+        "G Amalan Rabert",
+        "V Santhi"
+      ],
+      "journal": "Natural Resources for Human Health",
+      "publisher_group": "Visagaa Publishing House",
+      "published_date": "2026-09-02",
+      "first_seen": "2026-09-03",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.53365/nrfhh/224624",
+      "themes": [
+        "Microbiome & disease",
+        "Water quality & nutrients"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
       "uid": "10.1016/j.ecss.2026.109958",
       "title": "Invasion of Spartina alterniflora reshapes sediment nitrogen fixation process in native Zostera japonica seagrass beds",
       "authors": [
@@ -131,32 +187,6 @@
       "url": "https://doi.org/10.1016/j.ecss.2026.109958",
       "themes": [
         "Biogeochemistry",
-        "Water quality & nutrients"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.1021/acs.est.6c07975",
-      "title": "Seagrass and Macroalgae Detritus Drive Distinct Methane Production Dynamics and Microbial Succession in Coastal Sediments",
-      "authors": [
-        "Guiyuan Dai",
-        "Xiaogang Chen",
-        "Peiyuan Zhu",
-        "Guangchao Zhuang",
-        "Feng Ju",
-        "Ling Li"
-      ],
-      "journal": "Environmental Science & Technology",
-      "publisher_group": "American Chemical Society (ACS)",
-      "published_date": "2026-08-26",
-      "first_seen": "2026-09-01",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.1021/acs.est.6c07975",
-      "themes": [
-        "Biogeochemistry",
-        "Blue carbon",
-        "Microbiome & disease",
         "Water quality & nutrients"
       ],
       "ai_summary": "",
@@ -258,35 +288,6 @@
       "themes": [
         "Genetics & genomics",
         "Microbiome & disease"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.5194/isprs-archives-l-4-w1-2026-347-2026",
-      "title": "Feasibility to detect rapid change and disappearance of seagrass: Lessons from nearly 80 years of vegetation change in the Ako, Seto Inland Sea, Japan",
-      "authors": [
-        "Takehisa Yamakita",
-        "Yoji Igarashi",
-        "Akira Eto",
-        "Ken Ishida",
-        "Masaaki Iiyama",
-        "T. Yamakita",
-        "Y. Igarashi",
-        "A. Eto",
-        "K. Ishida",
-        "M. Iiyama"
-      ],
-      "journal": "The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
-      "publisher_group": "Copernicus",
-      "published_date": "2026-08-29",
-      "first_seen": "2026-08-22",
-      "discovery_type": "baseline",
-      "url": "https://doi.org/10.5194/isprs-archives-l-4-w1-2026-347-2026",
-      "themes": [
-        "Climate & heat",
-        "Conservation & management",
-        "Mapping & remote sensing"
       ],
       "ai_summary": "",
       "why_it_matters": ""
