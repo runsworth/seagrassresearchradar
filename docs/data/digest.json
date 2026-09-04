@@ -1,38 +1,38 @@
 {
-  "generated_at": "2026-09-03T09:51:24+00:00",
+  "generated_at": "2026-09-04T09:40:23+00:00",
   "window_days": 7,
-  "new_papers": 52,
-  "newly_discovered": 449,
+  "new_papers": 54,
+  "newly_discovered": 396,
   "theme_counts": {
-    "Conservation & management": 21,
-    "Fisheries & fauna": 15,
-    "Biodiversity & ecology": 14,
+    "Conservation & management": 26,
+    "Fisheries & fauna": 18,
+    "Water quality & nutrients": 15,
+    "Biodiversity & ecology": 15,
     "Restoration": 13,
-    "Water quality & nutrients": 12,
-    "Mapping & remote sensing": 10,
-    "General seagrass science": 10,
-    "Climate & heat": 8,
-    "Genetics & genomics": 8,
-    "Physiology & productivity": 8,
+    "Mapping & remote sensing": 11,
+    "General seagrass science": 9,
+    "Physiology & productivity": 9,
+    "Climate & heat": 7,
+    "Genetics & genomics": 7,
     "Social & economic": 7,
-    "Microbiome & disease": 4,
-    "Blue carbon": 2,
-    "Biogeochemistry": 2,
+    "Biogeochemistry": 5,
+    "Blue carbon": 3,
+    "Microbiome & disease": 3,
     "Pollution & contaminants": 1
   },
   "publisher_counts": {
     "Elsevier": 18,
-    "Other / independent": 9,
+    "Other / independent": 8,
+    "Biological and Chemical Oceanography Data Management Office": 3,
     "Springer Nature": 3,
     "Murdoch University": 2,
     "Figshare (United Kingdom)": 2,
     "Frontiers": 2,
     "European Organization for Nuclear Research": 2,
+    "MDPI": 1,
+    "Brill": 1,
     "Visagaa Publishing House": 1,
-    "Peter the Great St. Petersburg Polytechnic University": 1,
-    "Royal Society": 1,
-    "Edtech Publishers (OPC) Private Limited": 1,
-    "Higher Institute of Science and Technology, Regdaleen": 1
+    "Peter the Great St. Petersburg Polytechnic University": 1
   },
   "top_papers": [
     {
@@ -193,6 +193,58 @@
       "why_it_matters": ""
     },
     {
+      "uid": "10.26008/1912/bco-dmo.1006527.1",
+      "title": "Seagrass and macroalgae surveys of St. Andrew Bay and St. Joseph Bay, Florida from May to Jul 2023",
+      "authors": [
+        "Stephanie K. Archer",
+        "Elizabeth W. Stoner",
+        "Elizabeth Whitman",
+        "Ellis Johnson",
+        "Katherine Schlachter",
+        "Brodie McPherson"
+      ],
+      "journal": "Biological and Chemical Oceanography Data Management Office",
+      "publisher_group": "Biological and Chemical Oceanography Data Management Office",
+      "published_date": "2026-09-02",
+      "first_seen": "2026-09-04",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.26008/1912/bco-dmo.1006527.1",
+      "themes": [
+        "Fisheries & fauna",
+        "Water quality & nutrients",
+        "Conservation & management",
+        "Biogeochemistry"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.26008/1912/bco-dmo.1006664.1",
+      "title": "Propeller scar damage recorded in seagrass bed surveys in St. Andrew Bay and St. Joseph Bay, Florida from May to Jul 2023",
+      "authors": [
+        "Stephanie K. Archer",
+        "Elizabeth W. Stoner",
+        "Elizabeth Whitman",
+        "Ellis Johnson",
+        "Katherine Schlachter",
+        "Brodie McPherson"
+      ],
+      "journal": "Biological and Chemical Oceanography Data Management Office",
+      "publisher_group": "Biological and Chemical Oceanography Data Management Office",
+      "published_date": "2026-08-31",
+      "first_seen": "2026-09-04",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.26008/1912/bco-dmo.1006664.1",
+      "themes": [
+        "Fisheries & fauna",
+        "Water quality & nutrients",
+        "Conservation & management",
+        "Biogeochemistry"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
       "uid": "10.1016/j.atmosenv.2026.122195",
       "title": "Evaluation of Biogenic Volatile Organic Compound fluxes from a temperate seagrass species, Zostera marina",
       "authors": [
@@ -237,57 +289,6 @@
       "url": "https://doi.org/10.13140/rg.2.2.14857.40809",
       "themes": [
         "General seagrass science"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.1016/j.ecss.2026.109934",
-      "title": "High-resolution species distribution modelling to guide eelgrass (Zostera marina) management",
-      "authors": [
-        "Sanjina Upadhyay Stæhr",
-        "Cordula Göke",
-        "Andreas Michael Holbach",
-        "Peter Anton Upadhyay Stæhr",
-        "Dorte Krause-Jensen",
-        "Mihailo Azhar",
-        "Jacob Carstensen"
-      ],
-      "journal": "Estuarine, Coastal and Shelf Science",
-      "publisher_group": "Elsevier",
-      "published_date": "2026-09-01",
-      "first_seen": "2026-09-01",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.1016/j.ecss.2026.109934",
-      "themes": [
-        "Conservation & management"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.3354/dao03930",
-      "title": "Whole plant disease severity is associated with reduced polyphenolic concentrations in lesioned but not green tissue in eelgrass Zostera marina",
-      "authors": [
-        "Naomi A Murray",
-        "Katherine DuBois",
-        "John J Stachowicz",
-        "Naomi Murray",
-        "J. Stachowicz",
-        "Naomi A. Murray",
-        "Murray NA",
-        "DuBois K",
-        "Stachowicz JJ"
-      ],
-      "journal": "Diseases of Aquatic Organisms",
-      "publisher_group": "Inter-Research",
-      "published_date": "2026-08-27",
-      "first_seen": "2026-08-22",
-      "discovery_type": "baseline",
-      "url": "https://doi.org/10.3354/dao03930",
-      "themes": [
-        "Genetics & genomics",
-        "Microbiome & disease"
       ],
       "ai_summary": "",
       "why_it_matters": ""
