@@ -1,38 +1,38 @@
 {
-  "generated_at": "2026-09-04T09:40:23+00:00",
+  "generated_at": "2026-09-05T09:05:55+00:00",
   "window_days": 7,
-  "new_papers": 54,
-  "newly_discovered": 396,
+  "new_papers": 60,
+  "newly_discovered": 375,
   "theme_counts": {
-    "Conservation & management": 26,
-    "Fisheries & fauna": 18,
+    "Conservation & management": 27,
+    "Fisheries & fauna": 17,
+    "Biodiversity & ecology": 16,
     "Water quality & nutrients": 15,
-    "Biodiversity & ecology": 15,
-    "Restoration": 13,
-    "Mapping & remote sensing": 11,
-    "General seagrass science": 9,
-    "Physiology & productivity": 9,
-    "Climate & heat": 7,
-    "Genetics & genomics": 7,
-    "Social & economic": 7,
+    "Restoration": 14,
+    "Mapping & remote sensing": 12,
+    "General seagrass science": 11,
+    "Climate & heat": 10,
+    "Physiology & productivity": 10,
+    "Social & economic": 9,
+    "Genetics & genomics": 8,
+    "Blue carbon": 6,
+    "Microbiome & disease": 5,
     "Biogeochemistry": 5,
-    "Blue carbon": 3,
-    "Microbiome & disease": 3,
     "Pollution & contaminants": 1
   },
   "publisher_counts": {
-    "Elsevier": 18,
-    "Other / independent": 8,
-    "Biological and Chemical Oceanography Data Management Office": 3,
+    "Elsevier": 20,
+    "Other / independent": 7,
+    "Multidisciplinary Digital Publishing Institute": 3,
+    "European Organization for Nuclear Research": 3,
     "Springer Nature": 3,
-    "Murdoch University": 2,
     "Figshare (United Kingdom)": 2,
+    "Biological and Chemical Oceanography Data Management Office": 2,
+    "Murdoch University": 2,
     "Frontiers": 2,
-    "European Organization for Nuclear Research": 2,
-    "MDPI": 1,
-    "Brill": 1,
-    "Visagaa Publishing House": 1,
-    "Peter the Great St. Petersburg Polytechnic University": 1
+    "Cold Spring Harbor Laboratory": 1,
+    "Global Biodiversity Information Facility": 1,
+    "Annual Reviews": 1
   },
   "top_papers": [
     {
@@ -117,6 +117,38 @@
       "why_it_matters": ""
     },
     {
+      "uid": "10.3390/su18179104",
+      "title": "Natural Capital Accounting for Mediterranean Seagrass Restoration Across Pilot Sites",
+      "authors": [
+        "David Álvarez García",
+        "Enrique Alarcón Álvarez",
+        "Sofía Zerbarini",
+        "Ana Gabriela Rosales Díaz",
+        "Rosa Anna Mascolo",
+        "Barbara La Porta",
+        "Tiziano Bacci",
+        "Alessio Capriolo",
+        "David Alvarez Garcia",
+        "Enrique Alvarez Garcia",
+        "Sofia Zerbarini"
+      ],
+      "journal": "Sustainability",
+      "publisher_group": "Multidisciplinary Digital Publishing Institute",
+      "published_date": "2026-09-04",
+      "first_seen": "2026-09-05",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.3390/su18179104",
+      "themes": [
+        "Biodiversity & ecology",
+        "Blue carbon",
+        "Climate & heat",
+        "Restoration",
+        "Social & economic"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
       "uid": "13d83b41bf327d23805b",
       "title": "Seagrasses (Zosteraceae And Ruppiaceae) In Russia: Distribution, Diversity, Prospects For Further Research",
       "authors": [
@@ -148,7 +180,8 @@
         "N Azhagusundari",
         "G Jayanthi",
         "G Amalan Rabert",
-        "V Santhi"
+        "V Santhi",
+        "R. Arumugam"
       ],
       "journal": "Natural Resources for Human Health",
       "publisher_group": "Visagaa Publishing House",
@@ -193,6 +226,50 @@
       "why_it_matters": ""
     },
     {
+      "uid": "10.36813/jplb.10.2.123-141",
+      "title": "Potensi stok dan nilai ekonomi karbon ekosistem lamun di Desa Tanjung Sungkai, Kabupaten Kotabaru",
+      "authors": [
+        "Aprizal Junaidi",
+        "Gatot Yulianto",
+        "Niken Tunjung Murti Pratiwi",
+        "Novi Susetyo Adi"
+      ],
+      "journal": "Jurnal Pengelolaan Lingkungan Berkelanjutan (Journal of Environmental Sustainability Management)",
+      "publisher_group": "Other / independent",
+      "published_date": "2026-08-29",
+      "first_seen": "2026-09-05",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.36813/jplb.10.2.123-141",
+      "themes": [
+        "Conservation & management"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.64898/2026.09.01.748668",
+      "title": "Monitoring seagrass meadow health using coastal bird fecal fatty acid biomarkers",
+      "authors": [
+        "David A. Gold",
+        "Christopher Mulligan",
+        "Gold D",
+        "Mulligan C"
+      ],
+      "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "publisher_group": "Cold Spring Harbor Laboratory",
+      "published_date": "2026-09-03",
+      "first_seen": "2026-09-05",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.64898/2026.09.01.748668",
+      "themes": [
+        "Biodiversity & ecology",
+        "Blue carbon",
+        "Microbiome & disease"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
       "uid": "10.26008/1912/bco-dmo.1006527.1",
       "title": "Seagrass and macroalgae surveys of St. Andrew Bay and St. Joseph Bay, Florida from May to Jul 2023",
       "authors": [
@@ -210,85 +287,10 @@
       "discovery_type": "new_publication",
       "url": "https://doi.org/10.26008/1912/bco-dmo.1006527.1",
       "themes": [
-        "Fisheries & fauna",
-        "Water quality & nutrients",
+        "Biogeochemistry",
         "Conservation & management",
-        "Biogeochemistry"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.26008/1912/bco-dmo.1006664.1",
-      "title": "Propeller scar damage recorded in seagrass bed surveys in St. Andrew Bay and St. Joseph Bay, Florida from May to Jul 2023",
-      "authors": [
-        "Stephanie K. Archer",
-        "Elizabeth W. Stoner",
-        "Elizabeth Whitman",
-        "Ellis Johnson",
-        "Katherine Schlachter",
-        "Brodie McPherson"
-      ],
-      "journal": "Biological and Chemical Oceanography Data Management Office",
-      "publisher_group": "Biological and Chemical Oceanography Data Management Office",
-      "published_date": "2026-08-31",
-      "first_seen": "2026-09-04",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.26008/1912/bco-dmo.1006664.1",
-      "themes": [
         "Fisheries & fauna",
-        "Water quality & nutrients",
-        "Conservation & management",
-        "Biogeochemistry"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.1016/j.atmosenv.2026.122195",
-      "title": "Evaluation of Biogenic Volatile Organic Compound fluxes from a temperate seagrass species, Zostera marina",
-      "authors": [
-        "A. Saunier",
-        "J. Kammer",
-        "M. Rocco",
-        "S. Coquin",
-        "E. Ormeno",
-        "H. Wortham",
-        "C. Fernandez",
-        "E. Ormeño"
-      ],
-      "journal": "Atmospheric Environment",
-      "publisher_group": "Elsevier",
-      "published_date": "2026-10-01",
-      "first_seen": "2026-08-22",
-      "discovery_type": "baseline",
-      "url": "https://doi.org/10.1016/j.atmosenv.2026.122195",
-      "themes": [
-        "Social & economic"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.13140/rg.2.2.14857.40809",
-      "title": "Iseradication of non-native seagrass Halophila stipulacea beneficial for invaded native seagrass medows?",
-      "authors": [
-        "Francesca Necci",
-        "Andrea Toso",
-        "Emanuele Mancini",
-        "Luigi Musco",
-        "Stefano Piraino",
-        "Laura Tamburello",
-        "Paolo D'ambrosio"
-      ],
-      "journal": "",
-      "publisher_group": "Other / independent",
-      "published_date": "2026-08-30",
-      "first_seen": "2026-08-31",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.13140/rg.2.2.14857.40809",
-      "themes": [
-        "General seagrass science"
+        "Water quality & nutrients"
       ],
       "ai_summary": "",
       "why_it_matters": ""
