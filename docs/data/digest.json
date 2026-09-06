@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-09-05T09:05:55+00:00",
+  "generated_at": "2026-09-06T09:26:55+00:00",
   "window_days": 7,
-  "new_papers": 60,
-  "newly_discovered": 375,
+  "new_papers": 58,
+  "newly_discovered": 386,
   "theme_counts": {
-    "Conservation & management": 27,
+    "Conservation & management": 26,
+    "Biodiversity & ecology": 17,
     "Fisheries & fauna": 17,
-    "Biodiversity & ecology": 16,
-    "Water quality & nutrients": 15,
+    "Water quality & nutrients": 16,
     "Restoration": 14,
-    "Mapping & remote sensing": 12,
     "General seagrass science": 11,
-    "Climate & heat": 10,
-    "Physiology & productivity": 10,
+    "Physiology & productivity": 11,
+    "Mapping & remote sensing": 11,
+    "Climate & heat": 9,
     "Social & economic": 9,
     "Genetics & genomics": 8,
     "Blue carbon": 6,
     "Microbiome & disease": 5,
     "Biogeochemistry": 5,
-    "Pollution & contaminants": 1
+    "Pollution & contaminants": 2
   },
   "publisher_counts": {
     "Elsevier": 20,
-    "Other / independent": 7,
+    "Other / independent": 6,
     "Multidisciplinary Digital Publishing Institute": 3,
     "European Organization for Nuclear Research": 3,
     "Springer Nature": 3,
@@ -93,6 +93,40 @@
         "Fisheries & fauna",
         "Genetics & genomics",
         "Physiology & productivity",
+        "Water quality & nutrients"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.1016/j.marpolbul.2026.120312",
+      "title": "Analysis on ecological status and degradation factors of Halophila beccarii seagrass beds in Huachang Bay, Hainan.",
+      "authors": [
+        "Fu M",
+        "Wang H",
+        "Fu G",
+        "Long Y",
+        "Zhang D",
+        "Lu X",
+        "Miao Fu",
+        "Hongbing Wang",
+        "Guowei Fu",
+        "Yue Long",
+        "Daheng Zhang",
+        "Xiangyang Lu"
+      ],
+      "journal": "Marine pollution bulletin",
+      "publisher_group": "Elsevier",
+      "published_date": "2026-09-04",
+      "first_seen": "2026-09-05",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.1016/j.marpolbul.2026.120312",
+      "themes": [
+        "Biodiversity & ecology",
+        "Conservation & management",
+        "General seagrass science",
+        "Physiology & productivity",
+        "Pollution & contaminants",
         "Water quality & nutrients"
       ],
       "ai_summary": "",
@@ -221,27 +255,6 @@
       "themes": [
         "Biogeochemistry",
         "Water quality & nutrients"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.36813/jplb.10.2.123-141",
-      "title": "Potensi stok dan nilai ekonomi karbon ekosistem lamun di Desa Tanjung Sungkai, Kabupaten Kotabaru",
-      "authors": [
-        "Aprizal Junaidi",
-        "Gatot Yulianto",
-        "Niken Tunjung Murti Pratiwi",
-        "Novi Susetyo Adi"
-      ],
-      "journal": "Jurnal Pengelolaan Lingkungan Berkelanjutan (Journal of Environmental Sustainability Management)",
-      "publisher_group": "Other / independent",
-      "published_date": "2026-08-29",
-      "first_seen": "2026-09-05",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.36813/jplb.10.2.123-141",
-      "themes": [
-        "Conservation & management"
       ],
       "ai_summary": "",
       "why_it_matters": ""
