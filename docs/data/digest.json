@@ -1,38 +1,38 @@
 {
-  "generated_at": "2026-09-06T09:26:55+00:00",
+  "generated_at": "2026-09-07T10:20:00+00:00",
   "window_days": 7,
-  "new_papers": 58,
-  "newly_discovered": 386,
+  "new_papers": 57,
+  "newly_discovered": 379,
   "theme_counts": {
-    "Conservation & management": 26,
-    "Biodiversity & ecology": 17,
+    "Conservation & management": 27,
+    "Biodiversity & ecology": 18,
+    "Water quality & nutrients": 17,
     "Fisheries & fauna": 17,
-    "Water quality & nutrients": 16,
-    "Restoration": 14,
-    "General seagrass science": 11,
-    "Physiology & productivity": 11,
+    "Restoration": 15,
+    "Physiology & productivity": 12,
     "Mapping & remote sensing": 11,
-    "Climate & heat": 9,
-    "Social & economic": 9,
+    "Social & economic": 10,
+    "General seagrass science": 9,
+    "Blue carbon": 8,
+    "Climate & heat": 8,
     "Genetics & genomics": 8,
-    "Blue carbon": 6,
-    "Microbiome & disease": 5,
-    "Biogeochemistry": 5,
-    "Pollution & contaminants": 2
+    "Microbiome & disease": 6,
+    "Biogeochemistry": 6,
+    "Pollution & contaminants": 3
   },
   "publisher_counts": {
-    "Elsevier": 20,
-    "Other / independent": 6,
+    "Elsevier": 21,
+    "Other / independent": 5,
     "Multidisciplinary Digital Publishing Institute": 3,
-    "European Organization for Nuclear Research": 3,
     "Springer Nature": 3,
+    "Wiley": 2,
     "Figshare (United Kingdom)": 2,
+    "European Organization for Nuclear Research": 2,
     "Biological and Chemical Oceanography Data Management Office": 2,
     "Murdoch University": 2,
     "Frontiers": 2,
     "Cold Spring Harbor Laboratory": 1,
-    "Global Biodiversity Information Facility": 1,
-    "Annual Reviews": 1
+    "Global Biodiversity Information Facility": 1
   },
   "top_papers": [
     {
@@ -128,24 +128,6 @@
         "Physiology & productivity",
         "Pollution & contaminants",
         "Water quality & nutrients"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.5281/zenodo.22177318",
-      "title": "Eelgrass Structural State Is Associated with Climate- and Terrain-Dependent Coastal Thermal Sensitivity A multi-scale open-data analysis of Zostera marina thermal microclimates, natural structural loss, bathymetry, predictive validation, and global scenario projection",
-      "authors": [
-        "Osuke Doijiri"
-      ],
-      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
-      "publisher_group": "European Organization for Nuclear Research",
-      "published_date": "2026-08-30",
-      "first_seen": "2026-08-31",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.5281/zenodo.22177318",
-      "themes": [
-        "Climate & heat"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -299,6 +281,32 @@
       "first_seen": "2026-09-04",
       "discovery_type": "new_publication",
       "url": "https://doi.org/10.26008/1912/bco-dmo.1006527.1",
+      "themes": [
+        "Biogeochemistry",
+        "Conservation & management",
+        "Fisheries & fauna",
+        "Water quality & nutrients"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.26008/1912/bco-dmo.1006664.1",
+      "title": "Propeller scar damage recorded in seagrass bed surveys in St. Andrew Bay and St. Joseph Bay, Florida from May to Jul 2023",
+      "authors": [
+        "Stephanie K. Archer",
+        "Elizabeth W. Stoner",
+        "Elizabeth Whitman",
+        "Ellis Johnson",
+        "Katherine Schlachter",
+        "Brodie McPherson"
+      ],
+      "journal": "Biological and Chemical Oceanography Data Management Office",
+      "publisher_group": "Biological and Chemical Oceanography Data Management Office",
+      "published_date": "2026-08-31",
+      "first_seen": "2026-09-04",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.26008/1912/bco-dmo.1006664.1",
       "themes": [
         "Biogeochemistry",
         "Conservation & management",
