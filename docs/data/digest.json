@@ -1,38 +1,38 @@
 {
-  "generated_at": "2026-09-08T09:42:24+00:00",
+  "generated_at": "2026-09-09T09:47:03+00:00",
   "window_days": 7,
-  "new_papers": 62,
-  "newly_discovered": 449,
+  "new_papers": 35,
+  "newly_discovered": 476,
   "theme_counts": {
-    "Conservation & management": 26,
-    "Biodiversity & ecology": 21,
-    "Fisheries & fauna": 18,
-    "Restoration": 18,
-    "Water quality & nutrients": 16,
-    "Physiology & productivity": 13,
-    "General seagrass science": 12,
-    "Genetics & genomics": 10,
-    "Social & economic": 10,
-    "Mapping & remote sensing": 10,
-    "Blue carbon": 8,
+    "Biodiversity & ecology": 12,
+    "Fisheries & fauna": 10,
+    "Restoration": 10,
+    "Conservation & management": 10,
+    "Physiology & productivity": 9,
+    "Social & economic": 9,
+    "Water quality & nutrients": 9,
     "Microbiome & disease": 7,
-    "Climate & heat": 7,
-    "Biogeochemistry": 4,
-    "Pollution & contaminants": 4
+    "General seagrass science": 7,
+    "Genetics & genomics": 6,
+    "Mapping & remote sensing": 6,
+    "Blue carbon": 5,
+    "Climate & heat": 4,
+    "Biogeochemistry": 3,
+    "Pollution & contaminants": 2
   },
   "publisher_counts": {
-    "Elsevier": 24,
-    "Other / independent": 6,
-    "Springer Nature": 3,
-    "Figshare (United Kingdom)": 3,
+    "Elsevier": 10,
+    "Other / independent": 4,
     "European Organization for Nuclear Research": 3,
-    "Frontiers": 3,
     "Multidisciplinary Digital Publishing Institute": 3,
-    "Wiley": 2,
-    "Murdoch University": 2,
+    "Figshare (United Kingdom)": 2,
+    "Springer Nature": 1,
     "Inter-Research": 1,
+    "Wiley": 1,
     "Cold Spring Harbor Laboratory": 1,
-    "Global Biodiversity Information Facility": 1
+    "Global Biodiversity Information Facility": 1,
+    "Annual Reviews": 1,
+    "Biological and Chemical Oceanography Data Management Office": 1
   },
   "top_papers": [
     {
@@ -61,38 +61,6 @@
         "Physiology & productivity",
         "Restoration",
         "Social & economic",
-        "Water quality & nutrients"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.1016/j.gecco.2026.e04287",
-      "title": "Feeding patterns of Dugong dugon at hyper-urbanised coastal tropical seagrass meadows",
-      "authors": [
-        "Sirius Zheng Hui Ng",
-        "Tessa Ching Lee",
-        "Norman B. Mohamad K. Mohamad",
-        "Yalini Mohan Rajkumar",
-        "Yan Xiang Ow",
-        "Zeehan Jaafar",
-        "S. H. Ng",
-        "Tessa C. Lee",
-        "Norman B Mohamad K Mohamad",
-        "Y. Ow",
-        "Z. Jaafar"
-      ],
-      "journal": "Global Ecology and Conservation",
-      "publisher_group": "Elsevier",
-      "published_date": "2026-09-01",
-      "first_seen": "2026-08-22",
-      "discovery_type": "baseline",
-      "url": "https://doi.org/10.1016/j.gecco.2026.e04287",
-      "themes": [
-        "Conservation & management",
-        "Fisheries & fauna",
-        "Genetics & genomics",
-        "Physiology & productivity",
         "Water quality & nutrients"
       ],
       "ai_summary": "",
@@ -213,42 +181,14 @@
       "why_it_matters": ""
     },
     {
-      "uid": "10.1016/j.ecss.2026.109958",
-      "title": "Invasion of Spartina alterniflora reshapes sediment nitrogen fixation process in native Zostera japonica seagrass beds",
-      "authors": [
-        "Lin Yang",
-        "Xinju Huang",
-        "Shaojie Zhu",
-        "Zhimin Song",
-        "Xin Wang",
-        "Zheng Liu",
-        "Qianqian Zhang",
-        "Zhihai Zhong",
-        "Jianmin Zhao",
-        "Hui Shi",
-        "Xiaoli Zhang"
-      ],
-      "journal": "Estuarine, Coastal and Shelf Science",
-      "publisher_group": "Elsevier",
-      "published_date": "2026-09-01",
-      "first_seen": "2026-08-22",
-      "discovery_type": "baseline",
-      "url": "https://doi.org/10.1016/j.ecss.2026.109958",
-      "themes": [
-        "Biogeochemistry",
-        "Water quality & nutrients"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
       "uid": "10.64898/2026.09.01.748668",
       "title": "Monitoring seagrass meadow health using coastal bird fecal fatty acid biomarkers",
       "authors": [
         "David A. Gold",
         "Christopher Mulligan",
         "Gold D",
-        "Mulligan C"
+        "Mulligan C",
+        "Gold DA"
       ],
       "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
       "publisher_group": "Cold Spring Harbor Laboratory",
@@ -291,29 +231,70 @@
       "why_it_matters": ""
     },
     {
-      "uid": "10.1016/j.jap.2026.100023",
-      "title": "A Scoping Review of Seagrass Meadows as Foundation Ecosystems Linking Biodiversity, Carbon Sequestration and Coastal Resilience",
+      "uid": "10.1016/j.atmosenv.2026.122195",
+      "title": "Evaluation of Biogenic Volatile Organic Compound fluxes from a temperate seagrass species, Zostera marina",
       "authors": [
-        "Ajit Kumar",
-        "Akshatha Soratur",
-        "Sumit Kumar",
-        "Ankit Sarkar",
-        "Balu Alagar Venmathi Maran"
+        "A. Saunier",
+        "J. Kammer",
+        "M. Rocco",
+        "S. Coquin",
+        "E. Ormeno",
+        "H. Wortham",
+        "C. Fernandez",
+        "E. Ormeño"
       ],
-      "journal": "Journal of Aquatic Plants",
+      "journal": "Atmospheric Environment",
       "publisher_group": "Elsevier",
-      "published_date": "2026-09-01",
-      "first_seen": "2026-09-07",
+      "published_date": "2026-10-01",
+      "first_seen": "2026-08-22",
+      "discovery_type": "baseline",
+      "url": "https://doi.org/10.1016/j.atmosenv.2026.122195",
+      "themes": [
+        "Social & economic"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.5281/zenodo.22551196",
+      "title": "Root-associated fungal communities of the seagrass Zostera marina reflect restoration stage",
+      "authors": [
+        "John D. Taylor"
+      ],
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "publisher_group": "European Organization for Nuclear Research",
+      "published_date": "2026-09-06",
+      "first_seen": "2026-09-08",
       "discovery_type": "new_publication",
-      "url": "https://doi.org/10.1016/j.jap.2026.100023",
+      "url": "https://doi.org/10.5281/zenodo.22551196",
       "themes": [
         "Biodiversity & ecology",
-        "Blue carbon",
-        "Climate & heat",
+        "Microbiome & disease",
+        "Restoration",
+        "Water quality & nutrients"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.1016/j.gecco.2026.e04378",
+      "title": "First molecular confirmation of Zostera marina from the Romanian Black Sea coast based on ITS barcoding",
+      "authors": [
+        "Adrian Teacă",
+        "Selma Menabit",
+        "Tatiana Begun"
+      ],
+      "journal": "Global Ecology and Conservation",
+      "publisher_group": "Elsevier",
+      "published_date": "2026-10-01",
+      "first_seen": "2026-08-22",
+      "discovery_type": "baseline",
+      "url": "https://doi.org/10.1016/j.gecco.2026.e04378",
+      "themes": [
         "Conservation & management",
-        "Fisheries & fauna",
-        "Pollution & contaminants",
-        "Restoration"
+        "General seagrass science",
+        "Genetics & genomics",
+        "Mapping & remote sensing"
       ],
       "ai_summary": "",
       "why_it_matters": ""
