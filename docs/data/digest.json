@@ -1,71 +1,40 @@
 {
-  "generated_at": "2026-09-09T09:47:03+00:00",
+  "generated_at": "2026-09-10T09:45:39+00:00",
   "window_days": 7,
-  "new_papers": 35,
-  "newly_discovered": 476,
+  "new_papers": 38,
+  "newly_discovered": 437,
   "theme_counts": {
-    "Biodiversity & ecology": 12,
+    "Biodiversity & ecology": 13,
+    "Conservation & management": 12,
+    "Physiology & productivity": 10,
     "Fisheries & fauna": 10,
     "Restoration": 10,
-    "Conservation & management": 10,
-    "Physiology & productivity": 9,
-    "Social & economic": 9,
-    "Water quality & nutrients": 9,
+    "Mapping & remote sensing": 8,
+    "Social & economic": 8,
+    "Water quality & nutrients": 7,
     "Microbiome & disease": 7,
-    "General seagrass science": 7,
-    "Genetics & genomics": 6,
-    "Mapping & remote sensing": 6,
-    "Blue carbon": 5,
-    "Climate & heat": 4,
+    "Climate & heat": 5,
+    "General seagrass science": 5,
+    "Genetics & genomics": 5,
+    "Blue carbon": 4,
     "Biogeochemistry": 3,
     "Pollution & contaminants": 2
   },
   "publisher_counts": {
     "Elsevier": 10,
-    "Other / independent": 4,
-    "European Organization for Nuclear Research": 3,
+    "Other / independent": 7,
+    "European Organization for Nuclear Research": 5,
     "Multidisciplinary Digital Publishing Institute": 3,
     "Figshare (United Kingdom)": 2,
-    "Springer Nature": 1,
+    "PNAS / NAS": 1,
+    "Center for Open Science": 1,
     "Inter-Research": 1,
     "Wiley": 1,
     "Cold Spring Harbor Laboratory": 1,
     "Global Biodiversity Information Facility": 1,
-    "Annual Reviews": 1,
-    "Biological and Chemical Oceanography Data Management Office": 1
+    "Annual Reviews": 1
   },
   "top_papers": [
-    {
-      "uid": "10.3389/fcosc.2026.1974641",
-      "title": "Editorial: Global conservation of vulnerable, threatened and endangered seagrass",
-      "authors": [
-        "Mike van Keulen",
-        "Brooke K. Sullivan",
-        "Fred Short",
-        "Fred T. Short"
-      ],
-      "journal": "Frontiers in Conservation Science",
-      "publisher_group": "Frontiers",
-      "published_date": "2026-09-02",
-      "first_seen": "2026-09-02",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.3389/fcosc.2026.1974641",
-      "themes": [
-        "Biodiversity & ecology",
-        "Blue carbon",
-        "Climate & heat",
-        "Conservation & management",
-        "Fisheries & fauna",
-        "Genetics & genomics",
-        "Mapping & remote sensing",
-        "Physiology & productivity",
-        "Restoration",
-        "Social & economic",
-        "Water quality & nutrients"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
     {
       "uid": "10.1016/j.marpolbul.2026.120312",
       "title": "Analysis on ecological status and degradation factors of Halophila beccarii seagrass beds in Huachang Bay, Hainan.",
@@ -133,6 +102,26 @@
       "why_it_matters": ""
     },
     {
+      "uid": "10.17605/osf.io/ztqyc",
+      "title": "SEAGRAMMAR: a pre-registered framework, evaluation protocol and sealed benchmark for predicting bacterial biotransformation of seagrass metabolites",
+      "authors": [
+        "Huong T. Pham"
+      ],
+      "journal": "Open Science Framework",
+      "publisher_group": "Center for Open Science",
+      "published_date": "2026-09-07",
+      "first_seen": "2026-09-10",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.17605/osf.io/ztqyc",
+      "themes": [
+        "Restoration",
+        "Microbiome & disease",
+        "Social & economic"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
       "uid": "13d83b41bf327d23805b",
       "title": "Seagrasses (Zosteraceae And Ruppiaceae) In Russia: Distribution, Diversity, Prospects For Further Research",
       "authors": [
@@ -150,32 +139,6 @@
       "url": "https://ges.rgo.ru/jour/article/view/4463",
       "themes": [
         "Mapping & remote sensing"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.53365/nrfhh/224624",
-      "title": "Occurrence of mycorrhizal spores and phosphate solubilizing potential of rhizosphere mycoflora of seagrass Thalassia hemprechii (Ehrenb.) Asch.",
-      "authors": [
-        "Arumugam Radjasegarin",
-        "T Suganya",
-        "E Pazhani",
-        "N Azhagusundari",
-        "G Jayanthi",
-        "G Amalan Rabert",
-        "V Santhi",
-        "R. Arumugam"
-      ],
-      "journal": "Natural Resources for Human Health",
-      "publisher_group": "Visagaa Publishing House",
-      "published_date": "2026-09-02",
-      "first_seen": "2026-09-03",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.53365/nrfhh/224624",
-      "themes": [
-        "Microbiome & disease",
-        "Water quality & nutrients"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -200,32 +163,6 @@
         "Biodiversity & ecology",
         "Blue carbon",
         "Microbiome & disease"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.26008/1912/bco-dmo.1006527.1",
-      "title": "Seagrass and macroalgae surveys of St. Andrew Bay and St. Joseph Bay, Florida from May to Jul 2023",
-      "authors": [
-        "Stephanie K. Archer",
-        "Elizabeth W. Stoner",
-        "Elizabeth Whitman",
-        "Ellis Johnson",
-        "Katherine Schlachter",
-        "Brodie McPherson"
-      ],
-      "journal": "Biological and Chemical Oceanography Data Management Office",
-      "publisher_group": "Biological and Chemical Oceanography Data Management Office",
-      "published_date": "2026-09-02",
-      "first_seen": "2026-09-04",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.26008/1912/bco-dmo.1006527.1",
-      "themes": [
-        "Biogeochemistry",
-        "Conservation & management",
-        "Fisheries & fauna",
-        "Water quality & nutrients"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -272,6 +209,52 @@
         "Microbiome & disease",
         "Restoration",
         "Water quality & nutrients"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.17031/6a16d4038df2a",
+      "title": "2021 Natural England Subtidal Seagrass Survey of Solent Maritime SAC",
+      "authors": [
+        "Natural England Marine Data Manager"
+      ],
+      "journal": "Marine Biological Association",
+      "publisher_group": "Other / independent",
+      "published_date": "2026-09-08",
+      "first_seen": "2026-09-10",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.17031/6a16d4038df2a",
+      "themes": [
+        "Conservation & management"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.1016/j.marenvres.2026.108394",
+      "title": "Boat traffic influences fish biophony in protected Mediterranean seagrass meadows: evidence supporting the need for acoustic refugia",
+      "authors": [
+        "Morello Giuseppe",
+        "G. La Manna",
+        "Moro Merella Mariangela",
+        "Crobu Alessia",
+        "Ceccherelli Giulia",
+        "Sara Gianluca",
+        "La Manna Gabriella",
+        "Sarà Gianluca"
+      ],
+      "journal": "Marine Environmental Research",
+      "publisher_group": "Elsevier",
+      "published_date": "2026-09-04",
+      "first_seen": "2026-09-05",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.1016/j.marenvres.2026.108394",
+      "themes": [
+        "Biodiversity & ecology",
+        "Conservation & management",
+        "Fisheries & fauna",
+        "Mapping & remote sensing"
       ],
       "ai_summary": "",
       "why_it_matters": ""
