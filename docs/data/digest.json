@@ -1,38 +1,38 @@
 {
-  "generated_at": "2026-09-10T09:45:39+00:00",
+  "generated_at": "2026-09-11T09:42:27+00:00",
   "window_days": 7,
-  "new_papers": 38,
-  "newly_discovered": 437,
+  "new_papers": 35,
+  "newly_discovered": 405,
   "theme_counts": {
-    "Biodiversity & ecology": 13,
-    "Conservation & management": 12,
-    "Physiology & productivity": 10,
+    "Biodiversity & ecology": 12,
+    "Conservation & management": 11,
+    "Physiology & productivity": 11,
     "Fisheries & fauna": 10,
-    "Restoration": 10,
-    "Mapping & remote sensing": 8,
-    "Social & economic": 8,
-    "Water quality & nutrients": 7,
-    "Microbiome & disease": 7,
-    "Climate & heat": 5,
+    "Social & economic": 9,
+    "Restoration": 9,
+    "Mapping & remote sensing": 6,
+    "Water quality & nutrients": 6,
     "General seagrass science": 5,
-    "Genetics & genomics": 5,
+    "Microbiome & disease": 5,
     "Blue carbon": 4,
-    "Biogeochemistry": 3,
+    "Genetics & genomics": 4,
+    "Climate & heat": 3,
+    "Biogeochemistry": 2,
     "Pollution & contaminants": 2
   },
   "publisher_counts": {
-    "Elsevier": 10,
+    "Elsevier": 11,
     "Other / independent": 7,
-    "European Organization for Nuclear Research": 5,
-    "Multidisciplinary Digital Publishing Institute": 3,
+    "European Organization for Nuclear Research": 4,
     "Figshare (United Kingdom)": 2,
+    "Multidisciplinary Digital Publishing Institute": 2,
+    "Hasanuddin University": 1,
     "PNAS / NAS": 1,
     "Center for Open Science": 1,
     "Inter-Research": 1,
     "Wiley": 1,
-    "Cold Spring Harbor Laboratory": 1,
-    "Global Biodiversity Information Facility": 1,
-    "Annual Reviews": 1
+    "Lomonosov Moscow State University": 1,
+    "Institute of Paleobiology PAS": 1
   },
   "top_papers": [
     {
@@ -114,8 +114,8 @@
       "discovery_type": "new_publication",
       "url": "https://doi.org/10.17605/osf.io/ztqyc",
       "themes": [
-        "Restoration",
         "Microbiome & disease",
+        "Restoration",
         "Social & economic"
       ],
       "ai_summary": "",
@@ -139,30 +139,6 @@
       "url": "https://ges.rgo.ru/jour/article/view/4463",
       "themes": [
         "Mapping & remote sensing"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.64898/2026.09.01.748668",
-      "title": "Monitoring seagrass meadow health using coastal bird fecal fatty acid biomarkers",
-      "authors": [
-        "David A. Gold",
-        "Christopher Mulligan",
-        "Gold D",
-        "Mulligan C",
-        "Gold DA"
-      ],
-      "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
-      "publisher_group": "Cold Spring Harbor Laboratory",
-      "published_date": "2026-09-03",
-      "first_seen": "2026-09-05",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.64898/2026.09.01.748668",
-      "themes": [
-        "Biodiversity & ecology",
-        "Blue carbon",
-        "Microbiome & disease"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -242,7 +218,13 @@
         "Ceccherelli Giulia",
         "Sara Gianluca",
         "La Manna Gabriella",
-        "Sarà Gianluca"
+        "Sarà Gianluca",
+        "Giuseppe M",
+        "Gabriella M",
+        "Mariangela MM",
+        "Alessia C",
+        "Giulia C",
+        "Gianluca S"
       ],
       "journal": "Marine Environmental Research",
       "publisher_group": "Elsevier",
@@ -278,6 +260,35 @@
         "General seagrass science",
         "Genetics & genomics",
         "Mapping & remote sensing"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.1039/d6ra06219a",
+      "title": "Green-synthesized silver nanoparticles from fresh and waste Posidonia oceanica extracts: characterization and evaluation of antibacterial, cytotoxic activity against HCT-116 cells, and ecotoxicological properties.",
+      "authors": [
+        "Boucetta S",
+        "Boucetta RN",
+        "Mahmoud E",
+        "Laib I",
+        "Boudjellab ZE",
+        "Lakikza I",
+        "Aouni SI",
+        "Seyhaneyildiz Can Ş",
+        "Benguerba Y",
+        "Farouk A"
+      ],
+      "journal": "RSC advances",
+      "publisher_group": "Other / independent",
+      "published_date": "2026-09-07",
+      "first_seen": "2026-09-09",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.1039/d6ra06219a",
+      "themes": [
+        "Microbiome & disease",
+        "Physiology & productivity",
+        "Social & economic"
       ],
       "ai_summary": "",
       "why_it_matters": ""
