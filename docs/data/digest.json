@@ -1,106 +1,40 @@
 {
-  "generated_at": "2026-09-11T09:42:27+00:00",
+  "generated_at": "2026-09-12T09:22:41+00:00",
   "window_days": 7,
-  "new_papers": 35,
-  "newly_discovered": 405,
+  "new_papers": 46,
+  "newly_discovered": 414,
   "theme_counts": {
+    "Physiology & productivity": 13,
+    "Conservation & management": 13,
     "Biodiversity & ecology": 12,
-    "Conservation & management": 11,
-    "Physiology & productivity": 11,
     "Fisheries & fauna": 10,
+    "General seagrass science": 9,
     "Social & economic": 9,
-    "Restoration": 9,
-    "Mapping & remote sensing": 6,
-    "Water quality & nutrients": 6,
-    "General seagrass science": 5,
-    "Microbiome & disease": 5,
-    "Blue carbon": 4,
-    "Genetics & genomics": 4,
-    "Climate & heat": 3,
-    "Biogeochemistry": 2,
+    "Mapping & remote sensing": 8,
+    "Restoration": 7,
+    "Climate & heat": 6,
+    "Microbiome & disease": 6,
+    "Genetics & genomics": 6,
+    "Blue carbon": 5,
+    "Water quality & nutrients": 4,
+    "Biogeochemistry": 3,
     "Pollution & contaminants": 2
   },
   "publisher_counts": {
     "Elsevier": 11,
-    "Other / independent": 7,
-    "European Organization for Nuclear Research": 4,
+    "Other / independent": 9,
+    "Global Biodiversity Information Facility": 6,
+    "European Organization for Nuclear Research": 5,
     "Figshare (United Kingdom)": 2,
-    "Multidisciplinary Digital Publishing Institute": 2,
+    "Alexandru Ioan Cuza University": 1,
+    "Multidisciplinary Digital Publishing Institute": 1,
+    "Springer Nature": 1,
+    "Karelian Research Centre of RAS": 1,
     "Hasanuddin University": 1,
     "PNAS / NAS": 1,
-    "Center for Open Science": 1,
-    "Inter-Research": 1,
-    "Wiley": 1,
-    "Lomonosov Moscow State University": 1,
-    "Institute of Paleobiology PAS": 1
+    "Center for Open Science": 1
   },
   "top_papers": [
-    {
-      "uid": "10.1016/j.marpolbul.2026.120312",
-      "title": "Analysis on ecological status and degradation factors of Halophila beccarii seagrass beds in Huachang Bay, Hainan.",
-      "authors": [
-        "Fu M",
-        "Wang H",
-        "Fu G",
-        "Long Y",
-        "Zhang D",
-        "Lu X",
-        "Miao Fu",
-        "Hongbing Wang",
-        "Guowei Fu",
-        "Yue Long",
-        "Daheng Zhang",
-        "Xiangyang Lu"
-      ],
-      "journal": "Marine pollution bulletin",
-      "publisher_group": "Elsevier",
-      "published_date": "2026-09-04",
-      "first_seen": "2026-09-05",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.1016/j.marpolbul.2026.120312",
-      "themes": [
-        "Biodiversity & ecology",
-        "Conservation & management",
-        "General seagrass science",
-        "Physiology & productivity",
-        "Pollution & contaminants",
-        "Water quality & nutrients"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.3390/su18179104",
-      "title": "Natural Capital Accounting for Mediterranean Seagrass Restoration Across Pilot Sites",
-      "authors": [
-        "David Álvarez García",
-        "Enrique Alarcón Álvarez",
-        "Sofía Zerbarini",
-        "Ana Gabriela Rosales Díaz",
-        "Rosa Anna Mascolo",
-        "Barbara La Porta",
-        "Tiziano Bacci",
-        "Alessio Capriolo",
-        "David Alvarez Garcia",
-        "Enrique Alvarez Garcia",
-        "Sofia Zerbarini"
-      ],
-      "journal": "Sustainability",
-      "publisher_group": "Multidisciplinary Digital Publishing Institute",
-      "published_date": "2026-09-04",
-      "first_seen": "2026-09-05",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.3390/su18179104",
-      "themes": [
-        "Biodiversity & ecology",
-        "Blue carbon",
-        "Climate & heat",
-        "Restoration",
-        "Social & economic"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
     {
       "uid": "10.17605/osf.io/ztqyc",
       "title": "SEAGRAMMAR: a pre-registered framework, evaluation protocol and sealed benchmark for predicting bacterial biotransformation of seagrass metabolites",
@@ -208,40 +142,6 @@
       "why_it_matters": ""
     },
     {
-      "uid": "10.1016/j.marenvres.2026.108394",
-      "title": "Boat traffic influences fish biophony in protected Mediterranean seagrass meadows: evidence supporting the need for acoustic refugia",
-      "authors": [
-        "Morello Giuseppe",
-        "G. La Manna",
-        "Moro Merella Mariangela",
-        "Crobu Alessia",
-        "Ceccherelli Giulia",
-        "Sara Gianluca",
-        "La Manna Gabriella",
-        "Sarà Gianluca",
-        "Giuseppe M",
-        "Gabriella M",
-        "Mariangela MM",
-        "Alessia C",
-        "Giulia C",
-        "Gianluca S"
-      ],
-      "journal": "Marine Environmental Research",
-      "publisher_group": "Elsevier",
-      "published_date": "2026-09-04",
-      "first_seen": "2026-09-05",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.1016/j.marenvres.2026.108394",
-      "themes": [
-        "Biodiversity & ecology",
-        "Conservation & management",
-        "Fisheries & fauna",
-        "Mapping & remote sensing"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
       "uid": "10.1016/j.gecco.2026.e04378",
       "title": "First molecular confirmation of Zostera marina from the Romanian Black Sea coast based on ITS barcoding",
       "authors": [
@@ -289,6 +189,69 @@
         "Microbiome & disease",
         "Physiology & productivity",
         "Social & economic"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.17076/bg2330",
+      "title": "Epiphytic and epilithic diatoms in Laspinskaya Bay (Crimea, the Black Sea)",
+      "authors": [
+        "Широян Армине Георгиевна",
+        "Анна Владимировна Бондаренко",
+        "Рябушко Лариса Ивановна",
+        "Armine Shiroyan",
+        "Larisa Ryabushko"
+      ],
+      "journal": "Proceedings of the Karelian Research Centre of the Russian Academy of Sciences",
+      "publisher_group": "Karelian Research Centre of RAS",
+      "published_date": "2026-09-07",
+      "first_seen": "2026-09-12",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.17076/bg2330",
+      "themes": [
+        "Pollution & contaminants"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.5281/zenodo.22660602",
+      "title": "Seawater temperature across depths in a shallow coastal bay at Kristineberg Marine Research Station, Swedish Skagerrak coast, 2025",
+      "authors": [
+        "Elena Tamarit",
+        "León Green"
+      ],
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "publisher_group": "European Organization for Nuclear Research",
+      "published_date": "2026-09-08",
+      "first_seen": "2026-09-10",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.5281/zenodo.22660602",
+      "themes": [
+        "Climate & heat",
+        "Fisheries & fauna",
+        "Mapping & remote sensing",
+        "Restoration"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.4202/app.01272.2025",
+      "title": "Seagrass-associated Middle Miocene brachiopods from the Central Paratethys, with description of a new species of Bronnothyris",
+      "authors": [
+        "Alfréd Dulai"
+      ],
+      "journal": "Acta Palaeontologica Polonica",
+      "publisher_group": "Institute of Paleobiology PAS",
+      "published_date": "2026-12-01",
+      "first_seen": "2026-08-22",
+      "discovery_type": "baseline",
+      "url": "https://doi.org/10.4202/app.01272.2025",
+      "themes": [
+        "Biodiversity & ecology",
+        "Fisheries & fauna"
       ],
       "ai_summary": "",
       "why_it_matters": ""
