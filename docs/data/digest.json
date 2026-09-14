@@ -1,38 +1,38 @@
 {
-  "generated_at": "2026-09-13T10:18:01+00:00",
+  "generated_at": "2026-09-14T10:40:40+00:00",
   "window_days": 7,
-  "new_papers": 47,
-  "newly_discovered": 378,
+  "new_papers": 49,
+  "newly_discovered": 346,
   "theme_counts": {
+    "Conservation & management": 16,
     "Biodiversity & ecology": 14,
-    "Conservation & management": 14,
+    "Fisheries & fauna": 12,
     "Physiology & productivity": 12,
-    "Fisheries & fauna": 11,
+    "Social & economic": 10,
     "General seagrass science": 10,
-    "Social & economic": 9,
-    "Mapping & remote sensing": 8,
-    "Restoration": 7,
+    "Mapping & remote sensing": 9,
     "Climate & heat": 7,
-    "Genetics & genomics": 7,
     "Blue carbon": 6,
-    "Microbiome & disease": 6,
+    "Genetics & genomics": 6,
+    "Restoration": 5,
+    "Microbiome & disease": 5,
+    "Biogeochemistry": 3,
     "Water quality & nutrients": 3,
-    "Pollution & contaminants": 2,
-    "Biogeochemistry": 2
+    "Pollution & contaminants": 2
   },
   "publisher_counts": {
-    "Elsevier": 12,
-    "Other / independent": 9,
-    "Global Biodiversity Information Facility": 6,
-    "European Organization for Nuclear Research": 5,
+    "Elsevier": 13,
+    "Global Biodiversity Information Facility": 7,
+    "Other / independent": 7,
+    "European Organization for Nuclear Research": 4,
+    "Figshare (United Kingdom)": 3,
     "Taylor & Francis": 2,
-    "Figshare (United Kingdom)": 2,
+    "Environmental Data Initiative": 1,
     "Alexandru Ioan Cuza University": 1,
     "Multidisciplinary Digital Publishing Institute": 1,
     "Springer Nature": 1,
-    "Karelian Research Centre of RAS": 1,
-    "Hasanuddin University": 1,
-    "PNAS / NAS": 1
+    "Cold Spring Harbor Laboratory": 1,
+    "Karelian Research Centre of RAS": 1
   },
   "top_papers": [
     {
@@ -78,6 +78,26 @@
       "why_it_matters": ""
     },
     {
+      "uid": "10.6084/m9.figshare.33416947",
+      "title": "Data and code supporting a paired resurvey of seagrass-associated biodiversity in the north-western Sea of Marmara (2014–2025)",
+      "authors": [
+        "M. Levent Artüz",
+        "O. Bülent Artüz"
+      ],
+      "journal": "Figshare",
+      "publisher_group": "Figshare (United Kingdom)",
+      "published_date": "2026-09-12",
+      "first_seen": "2026-09-14",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.6084/m9.figshare.33416947",
+      "themes": [
+        "Biodiversity & ecology",
+        "Fisheries & fauna"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
       "uid": "10.1016/j.atmosenv.2026.122195",
       "title": "Evaluation of Biogenic Volatile Organic Compound fluxes from a temperate seagrass species, Zostera marina",
       "authors": [
@@ -98,27 +118,6 @@
       "url": "https://doi.org/10.1016/j.atmosenv.2026.122195",
       "themes": [
         "Social & economic"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.5281/zenodo.22551196",
-      "title": "Root-associated fungal communities of the seagrass Zostera marina reflect restoration stage",
-      "authors": [
-        "John D. Taylor"
-      ],
-      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
-      "publisher_group": "European Organization for Nuclear Research",
-      "published_date": "2026-09-06",
-      "first_seen": "2026-09-08",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.5281/zenodo.22551196",
-      "themes": [
-        "Biodiversity & ecology",
-        "Microbiome & disease",
-        "Restoration",
-        "Water quality & nutrients"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -177,7 +176,17 @@
         "Aouni SI",
         "Seyhaneyildiz Can Ş",
         "Benguerba Y",
-        "Farouk A"
+        "Farouk A",
+        "S. Boucetta",
+        "Radja Nada Boucetta",
+        "Engy Mahmoud",
+        "I. Laib",
+        "Z. Boudjellab",
+        "Imane Lakikza",
+        "Saoussen Imene Aouni",
+        "Şafak Seyhaneyıldız Can",
+        "Y. Benguerba",
+        "A. Farouk"
       ],
       "journal": "RSC advances",
       "publisher_group": "Other / independent",
