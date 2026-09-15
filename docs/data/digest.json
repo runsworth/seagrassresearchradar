@@ -1,56 +1,85 @@
 {
-  "generated_at": "2026-09-14T10:40:40+00:00",
+  "generated_at": "2026-09-15T10:05:30+00:00",
   "window_days": 7,
-  "new_papers": 49,
-  "newly_discovered": 346,
+  "new_papers": 48,
+  "newly_discovered": 421,
   "theme_counts": {
-    "Conservation & management": 16,
-    "Biodiversity & ecology": 14,
-    "Fisheries & fauna": 12,
+    "Conservation & management": 17,
+    "Biodiversity & ecology": 15,
     "Physiology & productivity": 12,
-    "Social & economic": 10,
+    "Fisheries & fauna": 11,
+    "Mapping & remote sensing": 10,
     "General seagrass science": 10,
-    "Mapping & remote sensing": 9,
-    "Climate & heat": 7,
-    "Blue carbon": 6,
+    "Climate & heat": 9,
+    "Social & economic": 7,
+    "Restoration": 6,
     "Genetics & genomics": 6,
-    "Restoration": 5,
-    "Microbiome & disease": 5,
-    "Biogeochemistry": 3,
-    "Water quality & nutrients": 3,
+    "Blue carbon": 6,
+    "Biogeochemistry": 4,
+    "Water quality & nutrients": 4,
+    "Microbiome & disease": 3,
     "Pollution & contaminants": 2
   },
   "publisher_counts": {
     "Elsevier": 13,
-    "Global Biodiversity Information Facility": 7,
     "Other / independent": 7,
-    "European Organization for Nuclear Research": 4,
-    "Figshare (United Kingdom)": 3,
+    "Global Biodiversity Information Facility": 7,
+    "European Organization for Nuclear Research": 3,
+    "Springer Nature": 2,
+    "Multidisciplinary Digital Publishing Institute": 2,
+    "Figshare (United Kingdom)": 2,
     "Taylor & Francis": 2,
+    "Oxford University Press": 1,
+    "Macquarie University": 1,
     "Environmental Data Initiative": 1,
-    "Alexandru Ioan Cuza University": 1,
-    "Multidisciplinary Digital Publishing Institute": 1,
-    "Springer Nature": 1,
-    "Cold Spring Harbor Laboratory": 1,
-    "Karelian Research Centre of RAS": 1
+    "Alexandru Ioan Cuza University": 1
   },
   "top_papers": [
     {
-      "uid": "10.17605/osf.io/ztqyc",
-      "title": "SEAGRAMMAR: a pre-registered framework, evaluation protocol and sealed benchmark for predicting bacterial biotransformation of seagrass metabolites",
+      "uid": "10.1093/conphys/coag071",
+      "title": "Biochemical parameters as early indicators of seagrass transplant’s health",
       "authors": [
-        "Huong T. Pham"
+        "Alize Deguette",
+        "Filipe Parreira",
+        "Rui Santos",
+        "Isabel Barrote",
+        "João Silva"
       ],
-      "journal": "Open Science Framework",
-      "publisher_group": "Center for Open Science",
-      "published_date": "2026-09-07",
-      "first_seen": "2026-09-10",
+      "journal": "Conservation Physiology",
+      "publisher_group": "Oxford University Press",
+      "published_date": "2026-09-14",
+      "first_seen": "2026-09-15",
       "discovery_type": "new_publication",
-      "url": "https://doi.org/10.17605/osf.io/ztqyc",
+      "url": "https://doi.org/10.1093/conphys/coag071",
       "themes": [
-        "Microbiome & disease",
         "Restoration",
-        "Social & economic"
+        "Physiology & productivity"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.25949/33495448",
+      "title": "Above- and belowground interactions: linking microbial communities and seagrass performance under anthropogenic stress",
+      "authors": [
+        "Luke Walker"
+      ],
+      "journal": "Macquarie University",
+      "publisher_group": "Macquarie University",
+      "published_date": "2026-09-14",
+      "first_seen": "2026-09-15",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.25949/33495448",
+      "themes": [
+        "Biodiversity & ecology",
+        "Biogeochemistry",
+        "Climate & heat",
+        "Conservation & management",
+        "Microbiome & disease",
+        "Physiology & productivity",
+        "Pollution & contaminants",
+        "Restoration",
+        "Water quality & nutrients"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -164,67 +193,6 @@
       "why_it_matters": ""
     },
     {
-      "uid": "10.1039/d6ra06219a",
-      "title": "Green-synthesized silver nanoparticles from fresh and waste Posidonia oceanica extracts: characterization and evaluation of antibacterial, cytotoxic activity against HCT-116 cells, and ecotoxicological properties.",
-      "authors": [
-        "Boucetta S",
-        "Boucetta RN",
-        "Mahmoud E",
-        "Laib I",
-        "Boudjellab ZE",
-        "Lakikza I",
-        "Aouni SI",
-        "Seyhaneyildiz Can Ş",
-        "Benguerba Y",
-        "Farouk A",
-        "S. Boucetta",
-        "Radja Nada Boucetta",
-        "Engy Mahmoud",
-        "I. Laib",
-        "Z. Boudjellab",
-        "Imane Lakikza",
-        "Saoussen Imene Aouni",
-        "Şafak Seyhaneyıldız Can",
-        "Y. Benguerba",
-        "A. Farouk"
-      ],
-      "journal": "RSC advances",
-      "publisher_group": "Other / independent",
-      "published_date": "2026-09-07",
-      "first_seen": "2026-09-09",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.1039/d6ra06219a",
-      "themes": [
-        "Microbiome & disease",
-        "Physiology & productivity",
-        "Social & economic"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.17076/bg2330",
-      "title": "Epiphytic and epilithic diatoms in Laspinskaya Bay (Crimea, the Black Sea)",
-      "authors": [
-        "Широян Армине Георгиевна",
-        "Анна Владимировна Бондаренко",
-        "Рябушко Лариса Ивановна",
-        "Armine Shiroyan",
-        "Larisa Ryabushko"
-      ],
-      "journal": "Proceedings of the Karelian Research Centre of the Russian Academy of Sciences",
-      "publisher_group": "Karelian Research Centre of RAS",
-      "published_date": "2026-09-07",
-      "first_seen": "2026-09-12",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.17076/bg2330",
-      "themes": [
-        "Pollution & contaminants"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
       "uid": "10.5281/zenodo.22660602",
       "title": "Seawater temperature across depths in a shallow coastal bay at Kristineberg Marine Research Station, Swedish Skagerrak coast, 2025",
       "authors": [
@@ -261,6 +229,26 @@
       "themes": [
         "Biodiversity & ecology",
         "Fisheries & fauna"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.1016/j.aquabot.2026.104042",
+      "title": "Expanded records of seagrass distribution and biomass across the Tuamotu Archipelago and Society Islands, French Polynesia",
+      "authors": [
+        "Daniel Gorman",
+        "Inês Leal",
+        "I. Leal"
+      ],
+      "journal": "Aquatic Botany",
+      "publisher_group": "Elsevier",
+      "published_date": "2026-11-01",
+      "first_seen": "2026-08-22",
+      "discovery_type": "baseline",
+      "url": "https://doi.org/10.1016/j.aquabot.2026.104042",
+      "themes": [
+        "Physiology & productivity"
       ],
       "ai_summary": "",
       "why_it_matters": ""
