@@ -1,38 +1,38 @@
 {
-  "generated_at": "2026-09-15T10:05:30+00:00",
+  "generated_at": "2026-09-16T09:58:05+00:00",
   "window_days": 7,
-  "new_papers": 48,
-  "newly_discovered": 421,
+  "new_papers": 44,
+  "newly_discovered": 437,
   "theme_counts": {
-    "Conservation & management": 17,
-    "Biodiversity & ecology": 15,
-    "Physiology & productivity": 12,
-    "Fisheries & fauna": 11,
-    "Mapping & remote sensing": 10,
-    "General seagrass science": 10,
-    "Climate & heat": 9,
+    "Conservation & management": 15,
+    "Biodiversity & ecology": 14,
+    "Physiology & productivity": 11,
+    "Mapping & remote sensing": 9,
+    "General seagrass science": 9,
+    "Fisheries & fauna": 9,
+    "Climate & heat": 8,
     "Social & economic": 7,
     "Restoration": 6,
-    "Genetics & genomics": 6,
-    "Blue carbon": 6,
-    "Biogeochemistry": 4,
-    "Water quality & nutrients": 4,
-    "Microbiome & disease": 3,
+    "Genetics & genomics": 5,
+    "Blue carbon": 5,
+    "Biogeochemistry": 3,
+    "Water quality & nutrients": 3,
+    "Microbiome & disease": 2,
     "Pollution & contaminants": 2
   },
   "publisher_counts": {
-    "Elsevier": 13,
-    "Other / independent": 7,
+    "Elsevier": 11,
     "Global Biodiversity Information Facility": 7,
-    "European Organization for Nuclear Research": 3,
+    "Other / independent": 6,
     "Springer Nature": 2,
     "Multidisciplinary Digital Publishing Institute": 2,
     "Figshare (United Kingdom)": 2,
     "Taylor & Francis": 2,
+    "European Organization for Nuclear Research": 2,
+    "MDPI": 1,
     "Oxford University Press": 1,
     "Macquarie University": 1,
-    "Environmental Data Initiative": 1,
-    "Alexandru Ioan Cuza University": 1
+    "Environmental Data Initiative": 1
   },
   "top_papers": [
     {
@@ -43,7 +43,12 @@
         "Filipe Parreira",
         "Rui Santos",
         "Isabel Barrote",
-        "João Silva"
+        "João Silva",
+        "Deguette A",
+        "Parreira F",
+        "Santos R",
+        "Barrote I",
+        "Silva J"
       ],
       "journal": "Conservation Physiology",
       "publisher_group": "Oxford University Press",
@@ -52,8 +57,8 @@
       "discovery_type": "new_publication",
       "url": "https://doi.org/10.1093/conphys/coag071",
       "themes": [
-        "Restoration",
-        "Physiology & productivity"
+        "Physiology & productivity",
+        "Restoration"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -152,24 +157,6 @@
       "why_it_matters": ""
     },
     {
-      "uid": "10.17031/6a16d4038df2a",
-      "title": "2021 Natural England Subtidal Seagrass Survey of Solent Maritime SAC",
-      "authors": [
-        "Natural England Marine Data Manager"
-      ],
-      "journal": "Marine Biological Association",
-      "publisher_group": "Other / independent",
-      "published_date": "2026-09-08",
-      "first_seen": "2026-09-10",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.17031/6a16d4038df2a",
-      "themes": [
-        "Conservation & management"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
       "uid": "10.1016/j.gecco.2026.e04378",
       "title": "First molecular confirmation of Zostera marina from the Romanian Black Sea coast based on ITS barcoding",
       "authors": [
@@ -188,28 +175,6 @@
         "General seagrass science",
         "Genetics & genomics",
         "Mapping & remote sensing"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.5281/zenodo.22660602",
-      "title": "Seawater temperature across depths in a shallow coastal bay at Kristineberg Marine Research Station, Swedish Skagerrak coast, 2025",
-      "authors": [
-        "Elena Tamarit",
-        "León Green"
-      ],
-      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
-      "publisher_group": "European Organization for Nuclear Research",
-      "published_date": "2026-09-08",
-      "first_seen": "2026-09-10",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.5281/zenodo.22660602",
-      "themes": [
-        "Climate & heat",
-        "Fisheries & fauna",
-        "Mapping & remote sensing",
-        "Restoration"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -249,6 +214,56 @@
       "url": "https://doi.org/10.1016/j.aquabot.2026.104042",
       "themes": [
         "Physiology & productivity"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.1016/j.ecss.2026.109993",
+      "title": "Mercury, carbon and nitrogen accumulation in mangrove and seagrass sediments of an impacted tropical estuary",
+      "authors": [
+        "Tiago Passos",
+        "Roberto Barcellos",
+        "Luciana Santos",
+        "Ana Maria da Silva",
+        "Juliano Soares",
+        "Christian J. Sanders"
+      ],
+      "journal": "Estuarine, Coastal and Shelf Science",
+      "publisher_group": "Elsevier",
+      "published_date": "2026-10-01",
+      "first_seen": "2026-08-22",
+      "discovery_type": "baseline",
+      "url": "https://doi.org/10.1016/j.ecss.2026.109993",
+      "themes": [
+        "Water quality & nutrients"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.1016/j.ecss.2026.109968",
+      "title": "Comparing beam trawl sampling and eDNA metabarcoding for assessing fish diversity in turbid tropical seagrass habitats",
+      "authors": [
+        "Darcy E. Philpott",
+        "Joseph D. DiBattista",
+        "Michael A. Rasheed",
+        "Laura A. Missen",
+        "Robert G. Coles",
+        "Cecilia Villacorta-Rath",
+        "Paul H. York",
+        "R.G. Coles",
+        "C. Villacorta-Rath",
+        "P. H. York"
+      ],
+      "journal": "Estuarine, Coastal and Shelf Science",
+      "publisher_group": "Elsevier",
+      "published_date": "2026-10-01",
+      "first_seen": "2026-08-22",
+      "discovery_type": "baseline",
+      "url": "https://doi.org/10.1016/j.ecss.2026.109968",
+      "themes": [
+        "Fisheries & fauna"
       ],
       "ai_summary": "",
       "why_it_matters": ""
