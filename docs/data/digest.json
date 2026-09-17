@@ -1,40 +1,65 @@
 {
-  "generated_at": "2026-09-16T09:58:05+00:00",
+  "generated_at": "2026-09-17T09:59:47+00:00",
   "window_days": 7,
-  "new_papers": 44,
-  "newly_discovered": 437,
+  "new_papers": 47,
+  "newly_discovered": 392,
   "theme_counts": {
-    "Conservation & management": 15,
-    "Biodiversity & ecology": 14,
-    "Physiology & productivity": 11,
-    "Mapping & remote sensing": 9,
-    "General seagrass science": 9,
+    "Biodiversity & ecology": 16,
+    "Conservation & management": 14,
+    "Climate & heat": 9,
     "Fisheries & fauna": 9,
-    "Climate & heat": 8,
+    "Physiology & productivity": 9,
+    "General seagrass science": 9,
+    "Restoration": 9,
+    "Mapping & remote sensing": 8,
     "Social & economic": 7,
-    "Restoration": 6,
-    "Genetics & genomics": 5,
-    "Blue carbon": 5,
+    "Genetics & genomics": 6,
+    "Blue carbon": 6,
+    "Water quality & nutrients": 5,
     "Biogeochemistry": 3,
-    "Water quality & nutrients": 3,
     "Microbiome & disease": 2,
     "Pollution & contaminants": 2
   },
   "publisher_counts": {
     "Elsevier": 11,
+    "Other / independent": 7,
     "Global Biodiversity Information Facility": 7,
-    "Other / independent": 6,
-    "Springer Nature": 2,
-    "Multidisciplinary Digital Publishing Institute": 2,
-    "Figshare (United Kingdom)": 2,
+    "Multidisciplinary Digital Publishing Institute": 3,
+    "Springer Nature": 3,
+    "Figshare (United Kingdom)": 3,
     "Taylor & Francis": 2,
-    "European Organization for Nuclear Research": 2,
+    "European Organization for Nuclear Research": 1,
+    "Cornell University": 1,
     "MDPI": 1,
     "Oxford University Press": 1,
-    "Macquarie University": 1,
-    "Environmental Data Initiative": 1
+    "Macquarie University": 1
   },
   "top_papers": [
+    {
+      "uid": "10.5281/zenodo.22758830",
+      "title": "Sediment and Below Ground Carbon of Lower Chesapeake Bay Seagrass Meadows",
+      "authors": [
+        "Alyson Hall",
+        "Grace D. Molino",
+        "Serina S. Wittyngham",
+        "Caitlin Sughrue",
+        "Matthew L. Kirwan",
+        "Robert J. Orth",
+        "Christopher J. Patrick"
+      ],
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "publisher_group": "European Organization for Nuclear Research",
+      "published_date": "2026-09-15",
+      "first_seen": "2026-09-17",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.5281/zenodo.22758830",
+      "themes": [
+        "Blue carbon",
+        "Physiology & productivity"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
     {
       "uid": "10.1093/conphys/coag071",
       "title": "Biochemical parameters as early indicators of seagrass transplant’s health",
@@ -48,7 +73,9 @@
         "Parreira F",
         "Santos R",
         "Barrote I",
-        "Silva J"
+        "Silva J",
+        "Alizé Deguette",
+        "I. Barrote"
       ],
       "journal": "Conservation Physiology",
       "publisher_group": "Oxford University Press",
@@ -85,6 +112,57 @@
         "Pollution & contaminants",
         "Restoration",
         "Water quality & nutrients"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.17615/5pxc-8526",
+      "title": "A Pleistocene legacy structures variation in modern seagrass ecosystems",
+      "authors": [
+        "Stewart T. Schultz",
+        "Masahiro Nakaoka",
+        "Britas Klemens Eriksson",
+        "Mary I. O’Connor",
+        "Robert J. Orth",
+        "Per‐Olav Moksnes",
+        "J. Emmett Duffy",
+        "Jonathan S. Lefcheck",
+        "Erik E. Sotka",
+        "John N. Griffin",
+        "Nessa E. O’Connor",
+        "Pamela L. Reynolds",
+        "John J. Stachowicz",
+        "Jørn Olsen",
+        "F. Joel Fodrie",
+        "Bradley J. Peterson",
+        "Johan Eklöf",
+        "Mathieu Cusson",
+        "Katrin Reiss",
+        "Kevin A. Hovel",
+        "Aschwin H. Engelen",
+        "Katharyn E. Boyer",
+        "Richard Unsworth",
+        "Christoffer Boström",
+        "Masakazu Hori",
+        "Clara M. Hereu",
+        "J P Richardson",
+        "Henning Reiss",
+        "Pablo Jorgensen",
+        "Fiona Tomás"
+      ],
+      "journal": "UNC Libraries",
+      "publisher_group": "Other / independent",
+      "published_date": "2026-09-16",
+      "first_seen": "2026-09-17",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.17615/5pxc-8526",
+      "themes": [
+        "Climate & heat",
+        "Fisheries & fauna",
+        "Biodiversity & ecology",
+        "Genetics & genomics",
+        "Physiology & productivity"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -214,56 +292,6 @@
       "url": "https://doi.org/10.1016/j.aquabot.2026.104042",
       "themes": [
         "Physiology & productivity"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.1016/j.ecss.2026.109993",
-      "title": "Mercury, carbon and nitrogen accumulation in mangrove and seagrass sediments of an impacted tropical estuary",
-      "authors": [
-        "Tiago Passos",
-        "Roberto Barcellos",
-        "Luciana Santos",
-        "Ana Maria da Silva",
-        "Juliano Soares",
-        "Christian J. Sanders"
-      ],
-      "journal": "Estuarine, Coastal and Shelf Science",
-      "publisher_group": "Elsevier",
-      "published_date": "2026-10-01",
-      "first_seen": "2026-08-22",
-      "discovery_type": "baseline",
-      "url": "https://doi.org/10.1016/j.ecss.2026.109993",
-      "themes": [
-        "Water quality & nutrients"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.1016/j.ecss.2026.109968",
-      "title": "Comparing beam trawl sampling and eDNA metabarcoding for assessing fish diversity in turbid tropical seagrass habitats",
-      "authors": [
-        "Darcy E. Philpott",
-        "Joseph D. DiBattista",
-        "Michael A. Rasheed",
-        "Laura A. Missen",
-        "Robert G. Coles",
-        "Cecilia Villacorta-Rath",
-        "Paul H. York",
-        "R.G. Coles",
-        "C. Villacorta-Rath",
-        "P. H. York"
-      ],
-      "journal": "Estuarine, Coastal and Shelf Science",
-      "publisher_group": "Elsevier",
-      "published_date": "2026-10-01",
-      "first_seen": "2026-08-22",
-      "discovery_type": "baseline",
-      "url": "https://doi.org/10.1016/j.ecss.2026.109968",
-      "themes": [
-        "Fisheries & fauna"
       ],
       "ai_summary": "",
       "why_it_matters": ""
