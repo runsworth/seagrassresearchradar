@@ -1,38 +1,38 @@
 {
-  "generated_at": "2026-09-17T09:59:47+00:00",
+  "generated_at": "2026-09-18T09:46:35+00:00",
   "window_days": 7,
-  "new_papers": 47,
-  "newly_discovered": 392,
+  "new_papers": 42,
+  "newly_discovered": 507,
   "theme_counts": {
-    "Biodiversity & ecology": 16,
-    "Conservation & management": 14,
-    "Climate & heat": 9,
+    "Biodiversity & ecology": 15,
+    "Climate & heat": 12,
+    "Conservation & management": 11,
+    "Restoration": 11,
+    "Blue carbon": 9,
     "Fisheries & fauna": 9,
     "Physiology & productivity": 9,
-    "General seagrass science": 9,
-    "Restoration": 9,
     "Mapping & remote sensing": 8,
-    "Social & economic": 7,
-    "Genetics & genomics": 6,
-    "Blue carbon": 6,
-    "Water quality & nutrients": 5,
+    "Social & economic": 6,
+    "Water quality & nutrients": 6,
+    "General seagrass science": 5,
+    "Genetics & genomics": 4,
     "Biogeochemistry": 3,
     "Microbiome & disease": 2,
     "Pollution & contaminants": 2
   },
   "publisher_counts": {
-    "Elsevier": 11,
-    "Other / independent": 7,
-    "Global Biodiversity Information Facility": 7,
-    "Multidisciplinary Digital Publishing Institute": 3,
-    "Springer Nature": 3,
-    "Figshare (United Kingdom)": 3,
+    "Elsevier": 10,
+    "Figshare (United Kingdom)": 6,
+    "Other / independent": 6,
+    "Inter-Research": 3,
+    "Multidisciplinary Digital Publishing Institute": 2,
+    "Springer Nature": 2,
     "Taylor & Francis": 2,
+    "AI Access Foundation": 1,
+    "University of Washington": 1,
     "European Organization for Nuclear Research": 1,
-    "Cornell University": 1,
     "MDPI": 1,
-    "Oxford University Press": 1,
-    "Macquarie University": 1
+    "Oxford University Press": 1
   },
   "top_papers": [
     {
@@ -56,6 +56,27 @@
       "themes": [
         "Blue carbon",
         "Physiology & productivity"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.1093/jxb/erag264",
+      "title": "The impact of the CO2 fertilization effect in seagrasses: a comparative perspective with terrestrial plants",
+      "authors": [
+        "Katie M. Watson",
+        "Watson KM"
+      ],
+      "journal": "Journal of Experimental Botany",
+      "publisher_group": "Other / independent",
+      "published_date": "2026-09-16",
+      "first_seen": "2026-09-18",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.1093/jxb/erag264",
+      "themes": [
+        "Blue carbon",
+        "Climate & heat",
+        "Restoration"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -117,6 +138,30 @@
       "why_it_matters": ""
     },
     {
+      "uid": "10.3354/meps15240",
+      "title": "Effects of water clarity and seasonal temperature on Halodule wrightii persistence at its northern range extent (USA, western Atlantic)",
+      "authors": [
+        "Madison Ann Lytle",
+        "W. Judson Kenworthy",
+        "Jessie C. Jarvis",
+        "Madison A. Lytle",
+        "W. Kenworthy",
+        "J. Jarvis"
+      ],
+      "journal": "Marine Ecology Progress Series",
+      "publisher_group": "Inter-Research",
+      "published_date": "2026-09-17",
+      "first_seen": "2026-08-22",
+      "discovery_type": "baseline",
+      "url": "https://doi.org/10.3354/meps15240",
+      "themes": [
+        "Climate & heat",
+        "Water quality & nutrients"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
       "uid": "10.17615/5pxc-8526",
       "title": "A Pleistocene legacy structures variation in modern seagrass ecosystems",
       "authors": [
@@ -158,9 +203,9 @@
       "discovery_type": "new_publication",
       "url": "https://doi.org/10.17615/5pxc-8526",
       "themes": [
+        "Biodiversity & ecology",
         "Climate & heat",
         "Fisheries & fauna",
-        "Biodiversity & ecology",
         "Genetics & genomics",
         "Physiology & productivity"
       ],
@@ -185,6 +230,24 @@
       "url": "https://ges.rgo.ru/jour/article/view/4463",
       "themes": [
         "Mapping & remote sensing"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.6084/m9.figshare.33889717.v1",
+      "title": "Real-world Zostera marina geography and a candidate coastal atmospheric chemical signature: analysis-ready data and geographic-placebo results",
+      "authors": [
+        "Osuke Doijiri"
+      ],
+      "journal": "Figshare",
+      "publisher_group": "Figshare (United Kingdom)",
+      "published_date": "2026-09-17",
+      "first_seen": "2026-09-18",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.6084/m9.figshare.33889717.v1",
+      "themes": [
+        "Biogeochemistry"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -230,68 +293,6 @@
       "url": "https://doi.org/10.1016/j.atmosenv.2026.122195",
       "themes": [
         "Social & economic"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.1016/j.gecco.2026.e04378",
-      "title": "First molecular confirmation of Zostera marina from the Romanian Black Sea coast based on ITS barcoding",
-      "authors": [
-        "Adrian Teacă",
-        "Selma Menabit",
-        "Tatiana Begun"
-      ],
-      "journal": "Global Ecology and Conservation",
-      "publisher_group": "Elsevier",
-      "published_date": "2026-10-01",
-      "first_seen": "2026-08-22",
-      "discovery_type": "baseline",
-      "url": "https://doi.org/10.1016/j.gecco.2026.e04378",
-      "themes": [
-        "Conservation & management",
-        "General seagrass science",
-        "Genetics & genomics",
-        "Mapping & remote sensing"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.4202/app.01272.2025",
-      "title": "Seagrass-associated Middle Miocene brachiopods from the Central Paratethys, with description of a new species of Bronnothyris",
-      "authors": [
-        "Alfréd Dulai"
-      ],
-      "journal": "Acta Palaeontologica Polonica",
-      "publisher_group": "Institute of Paleobiology PAS",
-      "published_date": "2026-12-01",
-      "first_seen": "2026-08-22",
-      "discovery_type": "baseline",
-      "url": "https://doi.org/10.4202/app.01272.2025",
-      "themes": [
-        "Biodiversity & ecology",
-        "Fisheries & fauna"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.1016/j.aquabot.2026.104042",
-      "title": "Expanded records of seagrass distribution and biomass across the Tuamotu Archipelago and Society Islands, French Polynesia",
-      "authors": [
-        "Daniel Gorman",
-        "Inês Leal",
-        "I. Leal"
-      ],
-      "journal": "Aquatic Botany",
-      "publisher_group": "Elsevier",
-      "published_date": "2026-11-01",
-      "first_seen": "2026-08-22",
-      "discovery_type": "baseline",
-      "url": "https://doi.org/10.1016/j.aquabot.2026.104042",
-      "themes": [
-        "Physiology & productivity"
       ],
       "ai_summary": "",
       "why_it_matters": ""
