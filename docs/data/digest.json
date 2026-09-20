@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-09-19T09:31:48+00:00",
+  "generated_at": "2026-09-20T09:49:18+00:00",
   "window_days": 7,
-  "new_papers": 42,
-  "newly_discovered": 579,
+  "new_papers": 41,
+  "newly_discovered": 634,
   "theme_counts": {
-    "Biodiversity & ecology": 14,
+    "Biodiversity & ecology": 13,
     "Climate & heat": 12,
-    "Restoration": 11,
     "Conservation & management": 11,
-    "Fisheries & fauna": 10,
+    "Restoration": 11,
+    "Fisheries & fauna": 9,
     "Blue carbon": 8,
     "Physiology & productivity": 8,
     "General seagrass science": 7,
     "Mapping & remote sensing": 7,
-    "Water quality & nutrients": 7,
     "Social & economic": 7,
+    "Water quality & nutrients": 7,
     "Genetics & genomics": 5,
     "Microbiome & disease": 3,
     "Biogeochemistry": 3,
@@ -23,7 +23,7 @@
   "publisher_counts": {
     "Elsevier": 9,
     "Other / independent": 8,
-    "Figshare (United Kingdom)": 6,
+    "Figshare (United Kingdom)": 5,
     "Inter-Research": 3,
     "Multidisciplinary Digital Publishing Institute": 2,
     "Springer Nature": 2,
@@ -271,21 +271,26 @@
       "why_it_matters": ""
     },
     {
-      "uid": "10.6084/m9.figshare.33416947",
-      "title": "Data and code supporting a paired resurvey of seagrass-associated biodiversity in the north-western Sea of Marmara (2014–2025)",
+      "uid": "10.1016/j.atmosenv.2026.122195",
+      "title": "Evaluation of Biogenic Volatile Organic Compound fluxes from a temperate seagrass species, Zostera marina",
       "authors": [
-        "M. Levent Artüz",
-        "O. Bülent Artüz"
+        "A. Saunier",
+        "J. Kammer",
+        "M. Rocco",
+        "S. Coquin",
+        "E. Ormeno",
+        "H. Wortham",
+        "C. Fernandez",
+        "E. Ormeño"
       ],
-      "journal": "Figshare",
-      "publisher_group": "Figshare (United Kingdom)",
-      "published_date": "2026-09-12",
-      "first_seen": "2026-09-14",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.6084/m9.figshare.33416947",
+      "journal": "Atmospheric Environment",
+      "publisher_group": "Elsevier",
+      "published_date": "2026-10-01",
+      "first_seen": "2026-08-22",
+      "discovery_type": "baseline",
+      "url": "https://doi.org/10.1016/j.atmosenv.2026.122195",
       "themes": [
-        "Biodiversity & ecology",
-        "Fisheries & fauna"
+        "Social & economic"
       ],
       "ai_summary": "",
       "why_it_matters": ""
