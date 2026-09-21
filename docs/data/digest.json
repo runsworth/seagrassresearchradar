@@ -1,38 +1,38 @@
 {
-  "generated_at": "2026-09-20T09:49:18+00:00",
+  "generated_at": "2026-09-21T10:44:54+00:00",
   "window_days": 7,
-  "new_papers": 41,
-  "newly_discovered": 634,
+  "new_papers": 44,
+  "newly_discovered": 720,
   "theme_counts": {
-    "Biodiversity & ecology": 13,
-    "Climate & heat": 12,
+    "Biodiversity & ecology": 14,
+    "Climate & heat": 14,
+    "Restoration": 12,
     "Conservation & management": 11,
-    "Restoration": 11,
+    "Physiology & productivity": 10,
+    "Blue carbon": 9,
     "Fisheries & fauna": 9,
-    "Blue carbon": 8,
-    "Physiology & productivity": 8,
+    "Water quality & nutrients": 8,
     "General seagrass science": 7,
     "Mapping & remote sensing": 7,
     "Social & economic": 7,
-    "Water quality & nutrients": 7,
     "Genetics & genomics": 5,
+    "Biogeochemistry": 4,
     "Microbiome & disease": 3,
-    "Biogeochemistry": 3,
     "Pollution & contaminants": 2
   },
   "publisher_counts": {
-    "Elsevier": 9,
+    "Elsevier": 10,
     "Other / independent": 8,
     "Figshare (United Kingdom)": 5,
     "Inter-Research": 3,
+    "Wiley": 2,
     "Multidisciplinary Digital Publishing Institute": 2,
     "Springer Nature": 2,
     "Taylor & Francis": 2,
-    "Wiley": 1,
+    "Copernicus": 1,
     "AI Access Foundation": 1,
     "University of Washington": 1,
-    "European Organization for Nuclear Research": 1,
-    "MDPI": 1
+    "European Organization for Nuclear Research": 1
   },
   "top_papers": [
     {
@@ -77,6 +77,38 @@
         "Blue carbon",
         "Climate & heat",
         "Restoration"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.5194/bg-23-6599-2026",
+      "title": "Landscape- and site-scale spatial variability of blue carbon stocks and fluxes in tropical seagrass meadows",
+      "authors": [
+        "Naima Iram",
+        "Kiah Eng Lim",
+        "Muhammad Ariq Khalingga",
+        "Pierre Taillardat",
+        "Sheryl Chan Si Ern",
+        "Lian Pin Koh",
+        "Daniel A. Friess",
+        "N. Iram",
+        "K. E. Lim",
+        "M. A. Khalingga",
+        "P. Taillardat",
+        "S. C. Si Ern",
+        "L. P. Koh",
+        "D. A. Friess"
+      ],
+      "journal": "Biogeosciences",
+      "publisher_group": "Copernicus",
+      "published_date": "2026-09-21",
+      "first_seen": "2026-09-21",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.5194/bg-23-6599-2026",
+      "themes": [
+        "Blue carbon",
+        "Climate & heat"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -141,7 +173,8 @@
       "uid": "10.1111/2041-210x.70396",
       "title": "A validated 3D point‐cloud analysis workflow for the creation of seagrass canopy height models",
       "authors": [
-        "Daniele Ventura"
+        "Daniele Ventura",
+        "D. Ventura"
       ],
       "journal": "Methods in Ecology and Evolution",
       "publisher_group": "Wiley",
@@ -266,31 +299,6 @@
       "url": "https://doi.org/10.6084/m9.figshare.33889717.v1",
       "themes": [
         "Biogeochemistry"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.1016/j.atmosenv.2026.122195",
-      "title": "Evaluation of Biogenic Volatile Organic Compound fluxes from a temperate seagrass species, Zostera marina",
-      "authors": [
-        "A. Saunier",
-        "J. Kammer",
-        "M. Rocco",
-        "S. Coquin",
-        "E. Ormeno",
-        "H. Wortham",
-        "C. Fernandez",
-        "E. Ormeño"
-      ],
-      "journal": "Atmospheric Environment",
-      "publisher_group": "Elsevier",
-      "published_date": "2026-10-01",
-      "first_seen": "2026-08-22",
-      "discovery_type": "baseline",
-      "url": "https://doi.org/10.1016/j.atmosenv.2026.122195",
-      "themes": [
-        "Social & economic"
       ],
       "ai_summary": "",
       "why_it_matters": ""
