@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-09-23T09:59:37+00:00",
+  "generated_at": "2026-09-24T10:02:31+00:00",
   "window_days": 7,
-  "new_papers": 47,
-  "newly_discovered": 815,
+  "new_papers": 43,
+  "newly_discovered": 774,
   "theme_counts": {
-    "Biodiversity & ecology": 15,
-    "Climate & heat": 14,
-    "Fisheries & fauna": 12,
+    "Conservation & management": 15,
+    "Biodiversity & ecology": 13,
+    "Climate & heat": 12,
     "Physiology & productivity": 12,
-    "Restoration": 12,
-    "Conservation & management": 12,
     "Blue carbon": 12,
-    "Mapping & remote sensing": 10,
-    "Water quality & nutrients": 9,
-    "General seagrass science": 8,
-    "Social & economic": 6,
+    "Fisheries & fauna": 11,
+    "Restoration": 10,
+    "Mapping & remote sensing": 9,
+    "General seagrass science": 7,
+    "Water quality & nutrients": 7,
+    "Microbiome & disease": 5,
+    "Biogeochemistry": 5,
     "Genetics & genomics": 5,
-    "Biogeochemistry": 4,
-    "Microbiome & disease": 3,
+    "Social & economic": 5,
     "Pollution & contaminants": 1
   },
   "publisher_counts": {
     "Elsevier": 11,
-    "Other / independent": 7,
+    "Other / independent": 5,
     "Figshare (United Kingdom)": 5,
     "Springer Nature": 4,
-    "European Organization for Nuclear Research": 4,
+    "European Organization for Nuclear Research": 3,
     "Inter-Research": 3,
     "Wiley": 2,
     "Taylor & Francis": 2,
@@ -76,7 +76,8 @@
         "Daniel Gorman",
         "Lauren Mukheibir",
         "Keisha Desmond",
-        "Simone Strydom"
+        "Simone Strydom",
+        "S. Strydom"
       ],
       "journal": "Biodiversity and Conservation",
       "publisher_group": "Springer Nature",
@@ -93,22 +94,25 @@
       "why_it_matters": ""
     },
     {
-      "uid": "10.1093/jxb/erag264",
-      "title": "The impact of the CO2 fertilization effect in seagrasses: a comparative perspective with terrestrial plants",
+      "uid": "10.21203/rs.3.rs-10743839/v1",
+      "title": "Flowering effort, phenology, and morphology in intertidal seagrass (Zostera marina) vary along a temperature gradient within a Northeast Pacific estuary",
       "authors": [
-        "Katie M. Watson",
-        "Watson KM"
+        "Breitkreutz L",
+        "Helms A",
+        "Mueller R",
+        "Tomas F"
       ],
-      "journal": "Journal of Experimental Botany",
+      "journal": "",
       "publisher_group": "Other / independent",
-      "published_date": "2026-09-16",
-      "first_seen": "2026-09-18",
+      "published_date": "2026-09-23",
+      "first_seen": "2026-09-24",
       "discovery_type": "new_publication",
-      "url": "https://doi.org/10.1093/jxb/erag264",
+      "url": "https://doi.org/10.21203/rs.3.rs-10743839/v1",
       "themes": [
-        "Blue carbon",
+        "Restoration",
         "Climate & heat",
-        "Restoration"
+        "Physiology & productivity",
+        "Conservation & management"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -130,7 +134,8 @@
         "P. Taillardat",
         "S. C. Si Ern",
         "L. P. Koh",
-        "D. A. Friess"
+        "D. A. Friess",
+        "D. Friess"
       ],
       "journal": "Biogeosciences",
       "publisher_group": "Copernicus",
@@ -184,57 +189,6 @@
       "themes": [
         "Climate & heat",
         "Water quality & nutrients"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.17615/5pxc-8526",
-      "title": "A Pleistocene legacy structures variation in modern seagrass ecosystems",
-      "authors": [
-        "Stewart T. Schultz",
-        "Masahiro Nakaoka",
-        "Britas Klemens Eriksson",
-        "Mary I. O’Connor",
-        "Robert J. Orth",
-        "Per‐Olav Moksnes",
-        "J. Emmett Duffy",
-        "Jonathan S. Lefcheck",
-        "Erik E. Sotka",
-        "John N. Griffin",
-        "Nessa E. O’Connor",
-        "Pamela L. Reynolds",
-        "John J. Stachowicz",
-        "Jørn Olsen",
-        "F. Joel Fodrie",
-        "Bradley J. Peterson",
-        "Johan Eklöf",
-        "Mathieu Cusson",
-        "Katrin Reiss",
-        "Kevin A. Hovel",
-        "Aschwin H. Engelen",
-        "Katharyn E. Boyer",
-        "Richard Unsworth",
-        "Christoffer Boström",
-        "Masakazu Hori",
-        "Clara M. Hereu",
-        "J P Richardson",
-        "Henning Reiss",
-        "Pablo Jorgensen",
-        "Fiona Tomás"
-      ],
-      "journal": "UNC Libraries",
-      "publisher_group": "Other / independent",
-      "published_date": "2026-09-16",
-      "first_seen": "2026-09-17",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.17615/5pxc-8526",
-      "themes": [
-        "Biodiversity & ecology",
-        "Climate & heat",
-        "Fisheries & fauna",
-        "Genetics & genomics",
-        "Physiology & productivity"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -307,6 +261,31 @@
         "Fisheries & fauna",
         "General seagrass science",
         "Water quality & nutrients"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.1016/j.atmosenv.2026.122195",
+      "title": "Evaluation of Biogenic Volatile Organic Compound fluxes from a temperate seagrass species, Zostera marina",
+      "authors": [
+        "A. Saunier",
+        "J. Kammer",
+        "M. Rocco",
+        "S. Coquin",
+        "E. Ormeno",
+        "H. Wortham",
+        "C. Fernandez",
+        "E. Ormeño"
+      ],
+      "journal": "Atmospheric Environment",
+      "publisher_group": "Elsevier",
+      "published_date": "2026-10-01",
+      "first_seen": "2026-08-22",
+      "discovery_type": "baseline",
+      "url": "https://doi.org/10.1016/j.atmosenv.2026.122195",
+      "themes": [
+        "Social & economic"
       ],
       "ai_summary": "",
       "why_it_matters": ""
