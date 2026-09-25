@@ -1,36 +1,36 @@
 {
-  "generated_at": "2026-09-24T10:02:31+00:00",
+  "generated_at": "2026-09-25T10:12:32+00:00",
   "window_days": 7,
-  "new_papers": 43,
-  "newly_discovered": 774,
+  "new_papers": 39,
+  "newly_discovered": 799,
   "theme_counts": {
-    "Conservation & management": 15,
-    "Biodiversity & ecology": 13,
-    "Climate & heat": 12,
-    "Physiology & productivity": 12,
-    "Blue carbon": 12,
-    "Fisheries & fauna": 11,
-    "Restoration": 10,
+    "Biodiversity & ecology": 11,
+    "Conservation & management": 11,
+    "Physiology & productivity": 10,
     "Mapping & remote sensing": 9,
+    "Blue carbon": 9,
+    "Restoration": 8,
+    "Fisheries & fauna": 8,
     "General seagrass science": 7,
-    "Water quality & nutrients": 7,
-    "Microbiome & disease": 5,
-    "Biogeochemistry": 5,
-    "Genetics & genomics": 5,
-    "Social & economic": 5,
+    "Genetics & genomics": 7,
+    "Climate & heat": 7,
+    "Water quality & nutrients": 5,
+    "Biogeochemistry": 3,
+    "Microbiome & disease": 3,
+    "Social & economic": 3,
     "Pollution & contaminants": 1
   },
   "publisher_counts": {
-    "Elsevier": 11,
+    "Elsevier": 12,
+    "Springer Nature": 5,
     "Other / independent": 5,
-    "Figshare (United Kingdom)": 5,
-    "Springer Nature": 4,
-    "European Organization for Nuclear Research": 3,
-    "Inter-Research": 3,
+    "European Organization for Nuclear Research": 4,
     "Wiley": 2,
     "Taylor & Francis": 2,
+    "American Society for Microbiology": 1,
     "Nan Yang Academy of Sciences Pte Ltd": 1,
     "MDPI": 1,
+    "Figshare (United Kingdom)": 1,
     "George A. Smathers Libraries": 1,
     "Copernicus": 1
   },
@@ -100,19 +100,23 @@
         "Breitkreutz L",
         "Helms A",
         "Mueller R",
-        "Tomas F"
+        "Tomas F",
+        "Lara Breitkreutz",
+        "Alicia Helms",
+        "Ryan Mueller",
+        "Fiona Tomás"
       ],
-      "journal": "",
+      "journal": "Research Square",
       "publisher_group": "Other / independent",
       "published_date": "2026-09-23",
       "first_seen": "2026-09-24",
       "discovery_type": "new_publication",
       "url": "https://doi.org/10.21203/rs.3.rs-10743839/v1",
       "themes": [
-        "Restoration",
         "Climate & heat",
+        "Conservation & management",
         "Physiology & productivity",
-        "Conservation & management"
+        "Restoration"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -170,30 +174,6 @@
       "why_it_matters": ""
     },
     {
-      "uid": "10.3354/meps15240",
-      "title": "Effects of water clarity and seasonal temperature on Halodule wrightii persistence at its northern range extent (USA, western Atlantic)",
-      "authors": [
-        "Madison Ann Lytle",
-        "W. Judson Kenworthy",
-        "Jessie C. Jarvis",
-        "Madison A. Lytle",
-        "W. Kenworthy",
-        "J. Jarvis"
-      ],
-      "journal": "Marine Ecology Progress Series",
-      "publisher_group": "Inter-Research",
-      "published_date": "2026-09-17",
-      "first_seen": "2026-08-22",
-      "discovery_type": "baseline",
-      "url": "https://doi.org/10.3354/meps15240",
-      "themes": [
-        "Climate & heat",
-        "Water quality & nutrients"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
       "uid": "13d83b41bf327d23805b",
       "title": "Seagrasses (Zosteraceae And Ruppiaceae) In Russia: Distribution, Diversity, Prospects For Further Research",
       "authors": [
@@ -216,19 +196,49 @@
       "why_it_matters": ""
     },
     {
-      "uid": "10.6084/m9.figshare.33889717.v1",
-      "title": "Real-world Zostera marina geography and a candidate coastal atmospheric chemical signature: analysis-ready data and geographic-placebo results",
+      "uid": "10.1007/s10661-026-15961-3",
+      "title": "Trace metal distribution in seawater, brown algae, and seagrasses from Guanahacabibes National Park, Cuba",
       "authors": [
-        "Osuke Doijiri"
+        "Juan J. Piña Leyte-Vidal",
+        "Javier Ernesto Vilasó-Cadre",
+        "Iván Alejandro Reyes-Domínguez",
+        "Lázaro Márquez-Llauger",
+        "Felipe de Jesús Barraza-García",
+        "Sergio Díaz-Castañón",
+        "Rodrigo Rodríguez",
+        "Julia Azanza Ricardo"
       ],
-      "journal": "Figshare",
-      "publisher_group": "Figshare (United Kingdom)",
-      "published_date": "2026-09-17",
-      "first_seen": "2026-09-18",
+      "journal": "Environmental Monitoring and Assessment",
+      "publisher_group": "Springer Nature",
+      "published_date": "2026-09-24",
+      "first_seen": "2026-09-25",
       "discovery_type": "new_publication",
-      "url": "https://doi.org/10.6084/m9.figshare.33889717.v1",
+      "url": "https://doi.org/10.1007/s10661-026-15961-3",
       "themes": [
-        "Biogeochemistry"
+        "General seagrass science"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.21203/rs.3.rs-10611218/v1",
+      "title": "How do environments and reproductive systems affect the genetic diversity of seagrasses ?",
+      "authors": [
+        "Jun Chen",
+        "Xinyue Teng",
+        "Pan Li",
+        "Ruirui Fu",
+        "Xinjie Jin",
+        "Martin Lascoux"
+      ],
+      "journal": "Research Square",
+      "publisher_group": "Other / independent",
+      "published_date": "2026-09-22",
+      "first_seen": "2026-09-25",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.21203/rs.3.rs-10611218/v1",
+      "themes": [
+        "Genetics & genomics"
       ],
       "ai_summary": "",
       "why_it_matters": ""
