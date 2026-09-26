@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-25T10:12:32+00:00",
+  "generated_at": "2026-09-26T09:52:27+00:00",
   "window_days": 7,
-  "new_papers": 39,
-  "newly_discovered": 799,
+  "new_papers": 40,
+  "newly_discovered": 715,
   "theme_counts": {
+    "Physiology & productivity": 12,
+    "Conservation & management": 12,
+    "Blue carbon": 11,
     "Biodiversity & ecology": 11,
-    "Conservation & management": 11,
-    "Physiology & productivity": 10,
+    "Restoration": 10,
     "Mapping & remote sensing": 9,
-    "Blue carbon": 9,
-    "Restoration": 8,
+    "Genetics & genomics": 8,
+    "Climate & heat": 8,
     "Fisheries & fauna": 8,
-    "General seagrass science": 7,
-    "Genetics & genomics": 7,
-    "Climate & heat": 7,
+    "General seagrass science": 5,
     "Water quality & nutrients": 5,
     "Biogeochemistry": 3,
     "Microbiome & disease": 3,
@@ -21,18 +21,18 @@
     "Pollution & contaminants": 1
   },
   "publisher_counts": {
-    "Elsevier": 12,
+    "Elsevier": 14,
     "Springer Nature": 5,
-    "Other / independent": 5,
     "European Organization for Nuclear Research": 4,
-    "Wiley": 2,
+    "Other / independent": 4,
+    "Figshare (United Kingdom)": 2,
     "Taylor & Francis": 2,
     "American Society for Microbiology": 1,
     "Nan Yang Academy of Sciences Pte Ltd": 1,
     "MDPI": 1,
-    "Figshare (United Kingdom)": 1,
     "George A. Smathers Libraries": 1,
-    "Copernicus": 1
+    "Copernicus": 1,
+    "Wiley": 1
   },
   "top_papers": [
     {
@@ -50,7 +50,10 @@
         "Laura Alexander",
         "Madeline Payne",
         "Nadya Gutierrez",
-        "Fredrick Joel Fodrie"
+        "Fredrick Joel Fodrie",
+        "Abigail K. Poray",
+        "James William Morley",
+        "Laura W. Alexander"
       ],
       "journal": "Research Square",
       "publisher_group": "Other / independent",
@@ -155,25 +158,6 @@
       "why_it_matters": ""
     },
     {
-      "uid": "10.1111/2041-210x.70396",
-      "title": "A validated 3D point‐cloud analysis workflow for the creation of seagrass canopy height models",
-      "authors": [
-        "Daniele Ventura",
-        "D. Ventura"
-      ],
-      "journal": "Methods in Ecology and Evolution",
-      "publisher_group": "Wiley",
-      "published_date": "2026-09-18",
-      "first_seen": "2026-09-19",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.1111/2041-210x.70396",
-      "themes": [
-        "General seagrass science"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
       "uid": "13d83b41bf327d23805b",
       "title": "Seagrasses (Zosteraceae And Ruppiaceae) In Russia: Distribution, Diversity, Prospects For Further Research",
       "authors": [
@@ -206,7 +190,10 @@
         "Felipe de Jesús Barraza-García",
         "Sergio Díaz-Castañón",
         "Rodrigo Rodríguez",
-        "Julia Azanza Ricardo"
+        "Julia Azanza Ricardo",
+        "J. J. Piña-Leyte-Vidal",
+        "J. Vilasó-Cadre",
+        "I. Reyes-Domínguez"
       ],
       "journal": "Environmental Monitoring and Assessment",
       "publisher_group": "Springer Nature",
@@ -271,6 +258,33 @@
         "Fisheries & fauna",
         "General seagrass science",
         "Water quality & nutrients"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.1016/j.envexpbot.2026.106465",
+      "title": "Contrasting thermal histories modulate",
+      "authors": [
+        "Faustino Scarcelli",
+        "Silvia Mazzuca",
+        "Daniela Oliva",
+        "Pietro Giovannelli",
+        "Silvestro Greco",
+        "Amalia Piro"
+      ],
+      "journal": "Environmental and Experimental Botany",
+      "publisher_group": "Elsevier",
+      "published_date": "2026-10-01",
+      "first_seen": "2026-08-22",
+      "discovery_type": "baseline",
+      "url": "https://doi.org/10.1016/j.envexpbot.2026.106465",
+      "themes": [
+        "Climate & heat",
+        "Conservation & management",
+        "Genetics & genomics",
+        "Physiology & productivity",
+        "Restoration"
       ],
       "ai_summary": "",
       "why_it_matters": ""
