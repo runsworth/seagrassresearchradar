@@ -1,38 +1,38 @@
 {
-  "generated_at": "2026-09-26T09:52:27+00:00",
+  "generated_at": "2026-09-27T10:33:39+00:00",
   "window_days": 7,
-  "new_papers": 40,
-  "newly_discovered": 715,
+  "new_papers": 48,
+  "newly_discovered": 626,
   "theme_counts": {
-    "Physiology & productivity": 12,
-    "Conservation & management": 12,
-    "Blue carbon": 11,
-    "Biodiversity & ecology": 11,
-    "Restoration": 10,
-    "Mapping & remote sensing": 9,
+    "Conservation & management": 16,
+    "Restoration": 14,
+    "Physiology & productivity": 13,
+    "Blue carbon": 13,
+    "Biodiversity & ecology": 12,
+    "Climate & heat": 10,
+    "Fisheries & fauna": 10,
+    "Mapping & remote sensing": 10,
+    "General seagrass science": 9,
     "Genetics & genomics": 8,
-    "Climate & heat": 8,
-    "Fisheries & fauna": 8,
-    "General seagrass science": 5,
-    "Water quality & nutrients": 5,
-    "Biogeochemistry": 3,
-    "Microbiome & disease": 3,
-    "Social & economic": 3,
-    "Pollution & contaminants": 1
+    "Water quality & nutrients": 7,
+    "Microbiome & disease": 4,
+    "Social & economic": 4,
+    "Biogeochemistry": 4,
+    "Pollution & contaminants": 2
   },
   "publisher_counts": {
-    "Elsevier": 14,
+    "Elsevier": 16,
+    "European Organization for Nuclear Research": 5,
+    "Other / independent": 5,
     "Springer Nature": 5,
-    "European Organization for Nuclear Research": 4,
-    "Other / independent": 4,
+    "Global Biodiversity Information Facility": 4,
     "Figshare (United Kingdom)": 2,
     "Taylor & Francis": 2,
     "American Society for Microbiology": 1,
     "Nan Yang Academy of Sciences Pte Ltd": 1,
     "MDPI": 1,
     "George A. Smathers Libraries": 1,
-    "Copernicus": 1,
-    "Wiley": 1
+    "Copernicus": 1
   },
   "top_papers": [
     {
@@ -107,7 +107,8 @@
         "Lara Breitkreutz",
         "Alicia Helms",
         "Ryan Mueller",
-        "Fiona Tomás"
+        "Fiona Tomás",
+        "Alicia R. Helms"
       ],
       "journal": "Research Square",
       "publisher_group": "Other / independent",
@@ -153,6 +154,33 @@
       "themes": [
         "Blue carbon",
         "Climate & heat"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.1016/j.envexpbot.2026.106465",
+      "title": "Contrasting thermal histories modulate",
+      "authors": [
+        "Faustino Scarcelli",
+        "Silvia Mazzuca",
+        "Daniela Oliva",
+        "Pietro Giovannelli",
+        "Silvestro Greco",
+        "Amalia Piro"
+      ],
+      "journal": "Environmental and Experimental Botany",
+      "publisher_group": "Elsevier",
+      "published_date": "2026-10-01",
+      "first_seen": "2026-08-22",
+      "discovery_type": "baseline",
+      "url": "https://doi.org/10.1016/j.envexpbot.2026.106465",
+      "themes": [
+        "Climate & heat",
+        "Conservation & management",
+        "Genetics & genomics",
+        "Physiology & productivity",
+        "Restoration"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -258,33 +286,6 @@
         "Fisheries & fauna",
         "General seagrass science",
         "Water quality & nutrients"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.1016/j.envexpbot.2026.106465",
-      "title": "Contrasting thermal histories modulate",
-      "authors": [
-        "Faustino Scarcelli",
-        "Silvia Mazzuca",
-        "Daniela Oliva",
-        "Pietro Giovannelli",
-        "Silvestro Greco",
-        "Amalia Piro"
-      ],
-      "journal": "Environmental and Experimental Botany",
-      "publisher_group": "Elsevier",
-      "published_date": "2026-10-01",
-      "first_seen": "2026-08-22",
-      "discovery_type": "baseline",
-      "url": "https://doi.org/10.1016/j.envexpbot.2026.106465",
-      "themes": [
-        "Climate & heat",
-        "Conservation & management",
-        "Genetics & genomics",
-        "Physiology & productivity",
-        "Restoration"
       ],
       "ai_summary": "",
       "why_it_matters": ""
