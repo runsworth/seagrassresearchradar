@@ -1,76 +1,40 @@
 {
-  "generated_at": "2026-09-27T10:33:39+00:00",
+  "generated_at": "2026-09-28T11:42:10+00:00",
   "window_days": 7,
-  "new_papers": 48,
-  "newly_discovered": 626,
+  "new_papers": 51,
+  "newly_discovered": 570,
   "theme_counts": {
-    "Conservation & management": 16,
-    "Restoration": 14,
-    "Physiology & productivity": 13,
+    "Conservation & management": 18,
+    "Restoration": 15,
     "Blue carbon": 13,
-    "Biodiversity & ecology": 12,
-    "Climate & heat": 10,
-    "Fisheries & fauna": 10,
-    "Mapping & remote sensing": 10,
+    "Physiology & productivity": 13,
+    "Biodiversity & ecology": 13,
+    "Climate & heat": 11,
+    "Mapping & remote sensing": 11,
+    "Fisheries & fauna": 11,
     "General seagrass science": 9,
     "Genetics & genomics": 8,
     "Water quality & nutrients": 7,
-    "Microbiome & disease": 4,
-    "Social & economic": 4,
+    "Microbiome & disease": 5,
+    "Social & economic": 5,
     "Biogeochemistry": 4,
-    "Pollution & contaminants": 2
+    "Pollution & contaminants": 3
   },
   "publisher_counts": {
     "Elsevier": 16,
-    "European Organization for Nuclear Research": 5,
+    "Springer Nature": 7,
     "Other / independent": 5,
-    "Springer Nature": 5,
     "Global Biodiversity Information Facility": 4,
+    "European Organization for Nuclear Research": 4,
+    "Wiley": 3,
     "Figshare (United Kingdom)": 2,
     "Taylor & Francis": 2,
     "American Society for Microbiology": 1,
     "Nan Yang Academy of Sciences Pte Ltd": 1,
     "MDPI": 1,
-    "George A. Smathers Libraries": 1,
-    "Copernicus": 1
+    "George A. Smathers Libraries": 1
   },
   "top_papers": [
-    {
-      "uid": "10.21203/rs.3.rs-10925299/v1",
-      "title": "Positive interactions between bivalves and seagrass may facilitate an ecosystem-based approach to habitat conservation",
-      "authors": [
-        "Poray A",
-        "Morley J",
-        "Alexander L",
-        "Payne M",
-        "Gutierrez N",
-        "Fodrie J",
-        "Abigail Poray",
-        "James Morley",
-        "Laura Alexander",
-        "Madeline Payne",
-        "Nadya Gutierrez",
-        "Fredrick Joel Fodrie",
-        "Abigail K. Poray",
-        "James William Morley",
-        "Laura W. Alexander"
-      ],
-      "journal": "Research Square",
-      "publisher_group": "Other / independent",
-      "published_date": "2026-09-20",
-      "first_seen": "2026-09-22",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.21203/rs.3.rs-10925299/v1",
-      "themes": [
-        "Climate & heat",
-        "Conservation & management",
-        "Physiology & productivity",
-        "Restoration",
-        "Water quality & nutrients"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
     {
       "uid": "10.1007/s10531-026-03473-y",
       "title": "Structural attributes of dominant seagrass species modulate invertebrate assemblages within the Shark Bay world Heritage Area",
@@ -311,6 +275,25 @@
       "url": "https://doi.org/10.1016/j.atmosenv.2026.122195",
       "themes": [
         "Social & economic"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.48580/d3v83.v80",
+      "title": "Two new species of the genus Daptonema Cobb, 1920 (Nematoda: Xyalidae) found in the monospecific Halophila ovalis patches within an intertidal mixed-species seagrass bed on the coast of the Andaman Sea, Thailand",
+      "authors": [
+        "Chittima Aryuthaka",
+        "Kenji Kito"
+      ],
+      "journal": "The Catalogue of Life",
+      "publisher_group": "Global Biodiversity Information Facility",
+      "published_date": "2026-09-26",
+      "first_seen": "2026-09-27",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.48580/d3v83.v80",
+      "themes": [
+        "General seagrass science"
       ],
       "ai_summary": "",
       "why_it_matters": ""
