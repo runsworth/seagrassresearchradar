@@ -1,40 +1,78 @@
 {
-  "generated_at": "2026-09-28T11:42:10+00:00",
+  "generated_at": "2026-09-29T11:22:33+00:00",
   "window_days": 7,
-  "new_papers": 51,
-  "newly_discovered": 570,
+  "new_papers": 50,
+  "newly_discovered": 557,
   "theme_counts": {
     "Conservation & management": 18,
-    "Restoration": 15,
-    "Blue carbon": 13,
+    "Restoration": 16,
+    "Biodiversity & ecology": 14,
     "Physiology & productivity": 13,
-    "Biodiversity & ecology": 13,
-    "Climate & heat": 11,
     "Mapping & remote sensing": 11,
-    "Fisheries & fauna": 11,
+    "Climate & heat": 11,
+    "Blue carbon": 11,
+    "Fisheries & fauna": 10,
     "General seagrass science": 9,
     "Genetics & genomics": 8,
     "Water quality & nutrients": 7,
-    "Microbiome & disease": 5,
+    "Microbiome & disease": 6,
     "Social & economic": 5,
-    "Biogeochemistry": 4,
-    "Pollution & contaminants": 3
+    "Pollution & contaminants": 4,
+    "Biogeochemistry": 3
   },
   "publisher_counts": {
     "Elsevier": 16,
     "Springer Nature": 7,
-    "Other / independent": 5,
+    "Other / independent": 6,
+    "Wiley": 4,
     "Global Biodiversity Information Facility": 4,
-    "European Organization for Nuclear Research": 4,
-    "Wiley": 3,
-    "Figshare (United Kingdom)": 2,
+    "European Organization for Nuclear Research": 2,
     "Taylor & Francis": 2,
+    "Publishing House \"Food Industry\"": 1,
+    "Microbiology Society": 1,
+    "Figshare (United Kingdom)": 1,
     "American Society for Microbiology": 1,
-    "Nan Yang Academy of Sciences Pte Ltd": 1,
-    "MDPI": 1,
-    "George A. Smathers Libraries": 1
+    "Nan Yang Academy of Sciences Pte Ltd": 1
   },
   "top_papers": [
+    {
+      "uid": "10.1007/s10661-026-15961-3",
+      "title": "Trace metal distribution in seawater, brown algae, and seagrasses from Guanahacabibes National Park, Cuba.",
+      "authors": [
+        "Piña-Leyte-Vidal JJ",
+        "Vilasó-Cadre JE",
+        "Reyes-Domínguez IA",
+        "Márquez-Llauger L",
+        "de Jesús Barraza-García F",
+        "Díaz-Castañón S",
+        "Rodríguez R",
+        "Ricardo JA",
+        "Juan J. Piña Leyte-Vidal",
+        "Javier Ernesto Vilasó-Cadre",
+        "Iván Alejandro Reyes-Domínguez",
+        "Lázaro Márquez-Llauger",
+        "Felipe de Jesús Barraza-García",
+        "Sergio Díaz-Castañón",
+        "Rodrigo Rodríguez",
+        "Julia Azanza Ricardo",
+        "J. J. Piña-Leyte-Vidal",
+        "J. Vilasó-Cadre",
+        "I. Reyes-Domínguez"
+      ],
+      "journal": "Environmental monitoring and assessment",
+      "publisher_group": "Springer Nature",
+      "published_date": "2026-09-24",
+      "first_seen": "2026-09-25",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.1007/s10661-026-15961-3",
+      "themes": [
+        "Conservation & management",
+        "General seagrass science",
+        "Pollution & contaminants"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
     {
       "uid": "10.1007/s10531-026-03473-y",
       "title": "Structural attributes of dominant seagrass species modulate invertebrate assemblages within the Shark Bay world Heritage Area",
@@ -56,6 +94,35 @@
         "Biodiversity & ecology",
         "Fisheries & fauna",
         "Physiology & productivity"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.1099/mgen.0.001845",
+      "title": "Eukaryotic metagenome-assembled genomes recovered from deep metagenomic sequencing of the seagrass, Zostera marina, include a novel chytrid in the order Lobulomycetales",
+      "authors": [
+        "Cassandra L. Ettinger",
+        "Jonathan A. Eisen",
+        "Jason E. Stajich",
+        "Ettinger CL",
+        "Eisen JA",
+        "Stajich JE",
+        "C. Ettinger",
+        "J. Stajich"
+      ],
+      "journal": "Microbial Genomics",
+      "publisher_group": "Microbiology Society",
+      "published_date": "2026-09-28",
+      "first_seen": "2026-09-29",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.1099/mgen.0.001845",
+      "themes": [
+        "Biodiversity & ecology",
+        "Genetics & genomics",
+        "Mapping & remote sensing",
+        "Microbiome & disease",
+        "Restoration"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -85,39 +152,6 @@
         "Conservation & management",
         "Physiology & productivity",
         "Restoration"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.5194/bg-23-6599-2026",
-      "title": "Landscape- and site-scale spatial variability of blue carbon stocks and fluxes in tropical seagrass meadows",
-      "authors": [
-        "Naima Iram",
-        "Kiah Eng Lim",
-        "Muhammad Ariq Khalingga",
-        "Pierre Taillardat",
-        "Sheryl Chan Si Ern",
-        "Lian Pin Koh",
-        "Daniel A. Friess",
-        "N. Iram",
-        "K. E. Lim",
-        "M. A. Khalingga",
-        "P. Taillardat",
-        "S. C. Si Ern",
-        "L. P. Koh",
-        "D. A. Friess",
-        "D. Friess"
-      ],
-      "journal": "Biogeosciences",
-      "publisher_group": "Copernicus",
-      "published_date": "2026-09-21",
-      "first_seen": "2026-09-21",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.5194/bg-23-6599-2026",
-      "themes": [
-        "Blue carbon",
-        "Climate & heat"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -167,34 +201,6 @@
       "url": "https://ges.rgo.ru/jour/article/view/4463",
       "themes": [
         "Mapping & remote sensing"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.1007/s10661-026-15961-3",
-      "title": "Trace metal distribution in seawater, brown algae, and seagrasses from Guanahacabibes National Park, Cuba",
-      "authors": [
-        "Juan J. Piña Leyte-Vidal",
-        "Javier Ernesto Vilasó-Cadre",
-        "Iván Alejandro Reyes-Domínguez",
-        "Lázaro Márquez-Llauger",
-        "Felipe de Jesús Barraza-García",
-        "Sergio Díaz-Castañón",
-        "Rodrigo Rodríguez",
-        "Julia Azanza Ricardo",
-        "J. J. Piña-Leyte-Vidal",
-        "J. Vilasó-Cadre",
-        "I. Reyes-Domínguez"
-      ],
-      "journal": "Environmental Monitoring and Assessment",
-      "publisher_group": "Springer Nature",
-      "published_date": "2026-09-24",
-      "first_seen": "2026-09-25",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.1007/s10661-026-15961-3",
-      "themes": [
-        "General seagrass science"
       ],
       "ai_summary": "",
       "why_it_matters": ""
