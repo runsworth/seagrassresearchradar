@@ -1,38 +1,38 @@
 {
-  "generated_at": "2026-09-29T11:22:33+00:00",
+  "generated_at": "2026-09-30T11:10:36+00:00",
   "window_days": 7,
-  "new_papers": 50,
-  "newly_discovered": 557,
+  "new_papers": 51,
+  "newly_discovered": 527,
   "theme_counts": {
-    "Conservation & management": 18,
-    "Restoration": 16,
-    "Biodiversity & ecology": 14,
-    "Physiology & productivity": 13,
-    "Mapping & remote sensing": 11,
-    "Climate & heat": 11,
-    "Blue carbon": 11,
-    "Fisheries & fauna": 10,
+    "Conservation & management": 19,
+    "Biodiversity & ecology": 17,
+    "Restoration": 17,
+    "Physiology & productivity": 15,
+    "Fisheries & fauna": 14,
+    "Climate & heat": 13,
+    "Blue carbon": 10,
+    "Mapping & remote sensing": 10,
     "General seagrass science": 9,
-    "Genetics & genomics": 8,
-    "Water quality & nutrients": 7,
-    "Microbiome & disease": 6,
-    "Social & economic": 5,
-    "Pollution & contaminants": 4,
+    "Water quality & nutrients": 8,
+    "Social & economic": 7,
+    "Genetics & genomics": 7,
+    "Pollution & contaminants": 5,
+    "Microbiome & disease": 5,
     "Biogeochemistry": 3
   },
   "publisher_counts": {
-    "Elsevier": 16,
-    "Springer Nature": 7,
-    "Other / independent": 6,
+    "Elsevier": 15,
+    "Other / independent": 9,
+    "European Organization for Nuclear Research": 4,
     "Wiley": 4,
     "Global Biodiversity Information Facility": 4,
-    "European Organization for Nuclear Research": 2,
-    "Taylor & Francis": 2,
+    "Taylor & Francis": 3,
+    "Springer Nature": 3,
+    "Figshare (United Kingdom)": 2,
     "Publishing House \"Food Industry\"": 1,
     "Microbiology Society": 1,
-    "Figshare (United Kingdom)": 1,
-    "American Society for Microbiology": 1,
-    "Nan Yang Academy of Sciences Pte Ltd": 1
+    "Cold Spring Harbor Laboratory": 1,
+    "American Society for Microbiology": 1
   },
   "top_papers": [
     {
@@ -74,31 +74,6 @@
       "why_it_matters": ""
     },
     {
-      "uid": "10.1007/s10531-026-03473-y",
-      "title": "Structural attributes of dominant seagrass species modulate invertebrate assemblages within the Shark Bay world Heritage Area",
-      "authors": [
-        "Inês Leal",
-        "Daniel Gorman",
-        "Lauren Mukheibir",
-        "Keisha Desmond",
-        "Simone Strydom",
-        "S. Strydom"
-      ],
-      "journal": "Biodiversity and Conservation",
-      "publisher_group": "Springer Nature",
-      "published_date": "2026-09-22",
-      "first_seen": "2026-09-23",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.1007/s10531-026-03473-y",
-      "themes": [
-        "Biodiversity & ecology",
-        "Fisheries & fauna",
-        "Physiology & productivity"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
       "uid": "10.1099/mgen.0.001845",
       "title": "Eukaryotic metagenome-assembled genomes recovered from deep metagenomic sequencing of the seagrass, Zostera marina, include a novel chytrid in the order Lobulomycetales",
       "authors": [
@@ -109,7 +84,8 @@
         "Eisen JA",
         "Stajich JE",
         "C. Ettinger",
-        "J. Stajich"
+        "J. Stajich",
+        "Jason Stajich"
       ],
       "journal": "Microbial Genomics",
       "publisher_group": "Microbiology Society",
@@ -206,29 +182,6 @@
       "why_it_matters": ""
     },
     {
-      "uid": "10.21203/rs.3.rs-10611218/v1",
-      "title": "How do environments and reproductive systems affect the genetic diversity of seagrasses ?",
-      "authors": [
-        "Jun Chen",
-        "Xinyue Teng",
-        "Pan Li",
-        "Ruirui Fu",
-        "Xinjie Jin",
-        "Martin Lascoux"
-      ],
-      "journal": "Research Square",
-      "publisher_group": "Other / independent",
-      "published_date": "2026-09-22",
-      "first_seen": "2026-09-25",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.21203/rs.3.rs-10611218/v1",
-      "themes": [
-        "Genetics & genomics"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
       "uid": "10.1016/j.indic.2026.101538",
       "title": "Unlocking spatial ecological assessment for tropical seagrass habitats using a new rapid assessment method (SEARAM)",
       "authors": [
@@ -300,6 +253,48 @@
       "url": "https://doi.org/10.48580/d3v83.v80",
       "themes": [
         "General seagrass science"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.5281/zenodo.19102533",
+      "title": "Supplementary data for Identification of bacterial candidates that promote the growth of the seagrass Zostera marina manuscript",
+      "authors": [
+        "Diane-Marie Brache-Smith"
+      ],
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "publisher_group": "European Organization for Nuclear Research",
+      "published_date": "2026-09-26",
+      "first_seen": "2026-09-27",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.5281/zenodo.19102533",
+      "themes": [
+        "Biodiversity & ecology",
+        "Microbiome & disease",
+        "Physiology & productivity",
+        "Restoration"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.59120/drj.v6i2.632",
+      "title": "Perceptions on Coastal Resources by Coastal Barangays in Mati City, Davao Oriental: Implications for the Coastal Resource Management Program",
+      "authors": [
+        "Merrybell M Paña"
+      ],
+      "journal": "Davao Research Journal",
+      "publisher_group": "Other / independent",
+      "published_date": "2026-09-29",
+      "first_seen": "2026-09-30",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.59120/drj.v6i2.632",
+      "themes": [
+        "Fisheries & fauna",
+        "Biodiversity & ecology",
+        "Conservation & management",
+        "Social & economic"
       ],
       "ai_summary": "",
       "why_it_matters": ""
