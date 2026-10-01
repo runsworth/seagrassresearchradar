@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-09-30T11:10:36+00:00",
+  "generated_at": "2026-10-01T11:37:41+00:00",
   "window_days": 7,
-  "new_papers": 51,
-  "newly_discovered": 527,
+  "new_papers": 63,
+  "newly_discovered": 522,
   "theme_counts": {
-    "Conservation & management": 19,
-    "Biodiversity & ecology": 17,
-    "Restoration": 17,
-    "Physiology & productivity": 15,
-    "Fisheries & fauna": 14,
-    "Climate & heat": 13,
-    "Blue carbon": 10,
-    "Mapping & remote sensing": 10,
+    "Conservation & management": 25,
+    "Biodiversity & ecology": 22,
+    "Climate & heat": 19,
+    "Fisheries & fauna": 19,
+    "Physiology & productivity": 18,
+    "Restoration": 18,
+    "Water quality & nutrients": 14,
+    "Mapping & remote sensing": 13,
+    "Social & economic": 11,
+    "Blue carbon": 11,
+    "Pollution & contaminants": 9,
     "General seagrass science": 9,
-    "Water quality & nutrients": 8,
-    "Social & economic": 7,
-    "Genetics & genomics": 7,
-    "Pollution & contaminants": 5,
-    "Microbiome & disease": 5,
-    "Biogeochemistry": 3
+    "Biogeochemistry": 7,
+    "Microbiome & disease": 7,
+    "Genetics & genomics": 7
   },
   "publisher_counts": {
     "Elsevier": 15,
     "Other / independent": 9,
+    "Inter-university Consortium for Political and Social Research": 8,
     "European Organization for Nuclear Research": 4,
     "Wiley": 4,
     "Global Biodiversity Information Facility": 4,
-    "Taylor & Francis": 3,
+    "Frontiers": 3,
     "Springer Nature": 3,
+    "Taylor & Francis": 3,
     "Figshare (United Kingdom)": 2,
-    "Publishing House \"Food Industry\"": 1,
-    "Microbiology Society": 1,
-    "Cold Spring Harbor Laboratory": 1,
+    "University of Hawaii Press": 1,
     "American Society for Microbiology": 1
   },
   "top_papers": [
@@ -74,6 +74,29 @@
       "why_it_matters": ""
     },
     {
+      "uid": "10.3886/e256390v1",
+      "title": "SWAN Monitoring Marine Nearshore",
+      "authors": [
+        "Department of the Interior",
+        "National Park Service",
+        "Heather Coletti"
+      ],
+      "journal": "ICPSR Data Holdings",
+      "publisher_group": "Inter-university Consortium for Political and Social Research",
+      "published_date": "2026-09-30",
+      "first_seen": "2026-10-01",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.3886/e256390v1",
+      "themes": [
+        "Climate & heat",
+        "Conservation & management",
+        "Fisheries & fauna",
+        "Pollution & contaminants"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
       "uid": "10.1099/mgen.0.001845",
       "title": "Eukaryotic metagenome-assembled genomes recovered from deep metagenomic sequencing of the seagrass, Zostera marina, include a novel chytrid in the order Lobulomycetales",
       "authors": [
@@ -104,35 +127,6 @@
       "why_it_matters": ""
     },
     {
-      "uid": "10.21203/rs.3.rs-10743839/v1",
-      "title": "Flowering effort, phenology, and morphology in intertidal seagrass (Zostera marina) vary along a temperature gradient within a Northeast Pacific estuary",
-      "authors": [
-        "Breitkreutz L",
-        "Helms A",
-        "Mueller R",
-        "Tomas F",
-        "Lara Breitkreutz",
-        "Alicia Helms",
-        "Ryan Mueller",
-        "Fiona Tomás",
-        "Alicia R. Helms"
-      ],
-      "journal": "Research Square",
-      "publisher_group": "Other / independent",
-      "published_date": "2026-09-23",
-      "first_seen": "2026-09-24",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.21203/rs.3.rs-10743839/v1",
-      "themes": [
-        "Climate & heat",
-        "Conservation & management",
-        "Physiology & productivity",
-        "Restoration"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
       "uid": "10.1016/j.envexpbot.2026.106465",
       "title": "Contrasting thermal histories modulate",
       "authors": [
@@ -141,7 +135,8 @@
         "Daniela Oliva",
         "Pietro Giovannelli",
         "Silvestro Greco",
-        "Amalia Piro"
+        "Amalia Piro",
+        "A. Piro"
       ],
       "journal": "Environmental and Experimental Botany",
       "publisher_group": "Elsevier",
@@ -214,6 +209,31 @@
       "why_it_matters": ""
     },
     {
+      "uid": "10.2984/80.2.5",
+      "title": "Lack of Natural Seagrass Recovery at a Site in the Eastern Tropical Pacific Reveals the Need for Active Ecological Restoration",
+      "authors": [
+        "Jimena Samper‐Villarreal",
+        "Jimena Samper-Villarreal"
+      ],
+      "journal": "Pacific Science",
+      "publisher_group": "University of Hawaii Press",
+      "published_date": "2026-10-01",
+      "first_seen": "2026-10-01",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.2984/80.2.5",
+      "themes": [
+        "Biogeochemistry",
+        "Conservation & management",
+        "Microbiome & disease",
+        "Physiology & productivity",
+        "Restoration",
+        "Social & economic",
+        "Water quality & nutrients"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
       "uid": "10.1016/j.atmosenv.2026.122195",
       "title": "Evaluation of Biogenic Volatile Organic Compound fluxes from a temperate seagrass species, Zostera marina",
       "authors": [
@@ -274,27 +294,6 @@
         "Microbiome & disease",
         "Physiology & productivity",
         "Restoration"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.59120/drj.v6i2.632",
-      "title": "Perceptions on Coastal Resources by Coastal Barangays in Mati City, Davao Oriental: Implications for the Coastal Resource Management Program",
-      "authors": [
-        "Merrybell M Paña"
-      ],
-      "journal": "Davao Research Journal",
-      "publisher_group": "Other / independent",
-      "published_date": "2026-09-29",
-      "first_seen": "2026-09-30",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.59120/drj.v6i2.632",
-      "themes": [
-        "Fisheries & fauna",
-        "Biodiversity & ecology",
-        "Conservation & management",
-        "Social & economic"
       ],
       "ai_summary": "",
       "why_it_matters": ""
