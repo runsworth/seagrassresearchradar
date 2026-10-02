@@ -1,74 +1,88 @@
 {
-  "generated_at": "2026-10-01T11:37:41+00:00",
+  "generated_at": "2026-10-02T11:06:57+00:00",
   "window_days": 7,
-  "new_papers": 63,
-  "newly_discovered": 522,
+  "new_papers": 70,
+  "newly_discovered": 552,
   "theme_counts": {
-    "Conservation & management": 25,
-    "Biodiversity & ecology": 22,
-    "Climate & heat": 19,
-    "Fisheries & fauna": 19,
-    "Physiology & productivity": 18,
-    "Restoration": 18,
-    "Water quality & nutrients": 14,
-    "Mapping & remote sensing": 13,
+    "Conservation & management": 27,
+    "Biodiversity & ecology": 25,
+    "Restoration": 24,
+    "Climate & heat": 24,
+    "Fisheries & fauna": 22,
+    "Physiology & productivity": 21,
+    "Water quality & nutrients": 18,
+    "Mapping & remote sensing": 14,
+    "Blue carbon": 12,
+    "Microbiome & disease": 11,
     "Social & economic": 11,
-    "Blue carbon": 11,
-    "Pollution & contaminants": 9,
-    "General seagrass science": 9,
-    "Biogeochemistry": 7,
-    "Microbiome & disease": 7,
+    "Biogeochemistry": 9,
+    "Pollution & contaminants": 8,
+    "General seagrass science": 8,
     "Genetics & genomics": 7
   },
   "publisher_counts": {
-    "Elsevier": 15,
-    "Other / independent": 9,
+    "Elsevier": 16,
     "Inter-university Consortium for Political and Social Research": 8,
-    "European Organization for Nuclear Research": 4,
+    "Other / independent": 8,
+    "European Organization for Nuclear Research": 6,
+    "Springer Nature": 4,
     "Wiley": 4,
     "Global Biodiversity Information Facility": 4,
     "Frontiers": 3,
-    "Springer Nature": 3,
     "Taylor & Francis": 3,
-    "Figshare (United Kingdom)": 2,
-    "University of Hawaii Press": 1,
-    "American Society for Microbiology": 1
+    "King Abdullah University of Science and Technology": 1,
+    "Vietnam Academy of Science and Technology": 1,
+    "California Digital Library": 1
   },
   "top_papers": [
     {
-      "uid": "10.1007/s10661-026-15961-3",
-      "title": "Trace metal distribution in seawater, brown algae, and seagrasses from Guanahacabibes National Park, Cuba.",
+      "uid": "10.1007/s12237-026-01824-0",
+      "title": "Quantification of Nutrient Related Ecosystem Functions in Zostera Marina Meadows - A Review",
       "authors": [
-        "Piña-Leyte-Vidal JJ",
-        "Vilasó-Cadre JE",
-        "Reyes-Domínguez IA",
-        "Márquez-Llauger L",
-        "de Jesús Barraza-García F",
-        "Díaz-Castañón S",
-        "Rodríguez R",
-        "Ricardo JA",
-        "Juan J. Piña Leyte-Vidal",
-        "Javier Ernesto Vilasó-Cadre",
-        "Iván Alejandro Reyes-Domínguez",
-        "Lázaro Márquez-Llauger",
-        "Felipe de Jesús Barraza-García",
-        "Sergio Díaz-Castañón",
-        "Rodrigo Rodríguez",
-        "Julia Azanza Ricardo",
-        "J. J. Piña-Leyte-Vidal",
-        "J. Vilasó-Cadre",
-        "I. Reyes-Domínguez"
+        "Frederik H. Hansen",
+        "Timi L. Banke",
+        "Rune Steinfurth",
+        "Bo Thamdrup",
+        "Mogens Rene Flindt",
+        "Rune C. H. Steinfurth",
+        "Mogens R. Flindt"
       ],
-      "journal": "Environmental monitoring and assessment",
+      "journal": "Estuaries and Coasts",
       "publisher_group": "Springer Nature",
-      "published_date": "2026-09-24",
-      "first_seen": "2026-09-25",
+      "published_date": "2026-10-01",
+      "first_seen": "2026-10-02",
       "discovery_type": "new_publication",
-      "url": "https://doi.org/10.1007/s10661-026-15961-3",
+      "url": "https://doi.org/10.1007/s12237-026-01824-0",
       "themes": [
+        "Biodiversity & ecology",
+        "Biogeochemistry",
+        "Microbiome & disease",
+        "Physiology & productivity",
+        "Restoration",
+        "Water quality & nutrients"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.25781/kaust-7231e",
+      "title": "Beyond the Modern Baseline: Reconstructing Marine Biodiversity Change in the Banc d’Arguin Using Sedimentary eDNA",
+      "authors": [
+        "Lina ElSayed-Aly"
+      ],
+      "journal": "King Abdullah University of Science and Technology Repository (King Abdullah University of Science and Technology)",
+      "publisher_group": "King Abdullah University of Science and Technology",
+      "published_date": "2026-10-01",
+      "first_seen": "2026-10-02",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.25781/kaust-7231e",
+      "themes": [
+        "Restoration",
+        "Climate & heat",
+        "Fisheries & fauna",
+        "Biodiversity & ecology",
         "Conservation & management",
-        "General seagrass science",
-        "Pollution & contaminants"
+        "Microbiome & disease"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -234,6 +248,35 @@
       "why_it_matters": ""
     },
     {
+      "uid": "10.15625/2525-2518/21805",
+      "title": "Lipid classes, fatty acids, amino acids, and antimicrobial activity of the whole plant and seeds of the seagrass Enhalus acoroides (L.f.) Royle",
+      "authors": [
+        "Dao Thi Kim Dung",
+        "Dang Thi Phuong Ly",
+        "Thi Ha Dinh",
+        "Nguyen Thi Nga",
+        "Phạm Quốc Long",
+        "Hoàng Thị Thu Hằng",
+        "Doan Lan Phương",
+        "Dinh Thi Ha",
+        "Pham Quoc Long",
+        "Hoang Thi Thu Hang",
+        "Doan Lan Phuong"
+      ],
+      "journal": "Vietnam Journal of Science and Technology/Science and Technology",
+      "publisher_group": "Vietnam Academy of Science and Technology",
+      "published_date": "2026-10-01",
+      "first_seen": "2026-10-02",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.15625/2525-2518/21805",
+      "themes": [
+        "Microbiome & disease",
+        "Restoration"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
       "uid": "10.1016/j.atmosenv.2026.122195",
       "title": "Evaluation of Biogenic Volatile Organic Compound fluxes from a temperate seagrass species, Zostera marina",
       "authors": [
@@ -254,46 +297,6 @@
       "url": "https://doi.org/10.1016/j.atmosenv.2026.122195",
       "themes": [
         "Social & economic"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.48580/d3v83.v80",
-      "title": "Two new species of the genus Daptonema Cobb, 1920 (Nematoda: Xyalidae) found in the monospecific Halophila ovalis patches within an intertidal mixed-species seagrass bed on the coast of the Andaman Sea, Thailand",
-      "authors": [
-        "Chittima Aryuthaka",
-        "Kenji Kito"
-      ],
-      "journal": "The Catalogue of Life",
-      "publisher_group": "Global Biodiversity Information Facility",
-      "published_date": "2026-09-26",
-      "first_seen": "2026-09-27",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.48580/d3v83.v80",
-      "themes": [
-        "General seagrass science"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.5281/zenodo.19102533",
-      "title": "Supplementary data for Identification of bacterial candidates that promote the growth of the seagrass Zostera marina manuscript",
-      "authors": [
-        "Diane-Marie Brache-Smith"
-      ],
-      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
-      "publisher_group": "European Organization for Nuclear Research",
-      "published_date": "2026-09-26",
-      "first_seen": "2026-09-27",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.5281/zenodo.19102533",
-      "themes": [
-        "Biodiversity & ecology",
-        "Microbiome & disease",
-        "Physiology & productivity",
-        "Restoration"
       ],
       "ai_summary": "",
       "why_it_matters": ""
