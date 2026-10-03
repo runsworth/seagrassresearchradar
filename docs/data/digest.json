@@ -1,38 +1,38 @@
 {
-  "generated_at": "2026-10-02T11:06:57+00:00",
+  "generated_at": "2026-10-03T10:25:19+00:00",
   "window_days": 7,
   "new_papers": 70,
-  "newly_discovered": 552,
+  "newly_discovered": 532,
   "theme_counts": {
-    "Conservation & management": 27,
-    "Biodiversity & ecology": 25,
-    "Restoration": 24,
-    "Climate & heat": 24,
-    "Fisheries & fauna": 22,
-    "Physiology & productivity": 21,
+    "Biodiversity & ecology": 26,
+    "Conservation & management": 25,
+    "Physiology & productivity": 23,
+    "Climate & heat": 23,
+    "Restoration": 22,
+    "Fisheries & fauna": 21,
     "Water quality & nutrients": 18,
     "Mapping & remote sensing": 14,
-    "Blue carbon": 12,
-    "Microbiome & disease": 11,
+    "Microbiome & disease": 13,
     "Social & economic": 11,
+    "Blue carbon": 10,
     "Biogeochemistry": 9,
-    "Pollution & contaminants": 8,
-    "General seagrass science": 8,
-    "Genetics & genomics": 7
+    "Genetics & genomics": 7,
+    "Pollution & contaminants": 7,
+    "General seagrass science": 7
   },
   "publisher_counts": {
-    "Elsevier": 16,
+    "Elsevier": 14,
     "Inter-university Consortium for Political and Social Research": 8,
-    "Other / independent": 8,
+    "Other / independent": 7,
+    "Springer Nature": 6,
     "European Organization for Nuclear Research": 6,
-    "Springer Nature": 4,
     "Wiley": 4,
-    "Global Biodiversity Information Facility": 4,
     "Frontiers": 3,
     "Taylor & Francis": 3,
-    "King Abdullah University of Science and Technology": 1,
-    "Vietnam Academy of Science and Technology": 1,
-    "California Digital Library": 1
+    "Global Biodiversity Information Facility": 3,
+    "American Chemical Society (ACS)": 1,
+    "Queen's University Belfast": 1,
+    "King Abdullah University of Science and Technology": 1
   },
   "top_papers": [
     {
@@ -45,7 +45,10 @@
         "Bo Thamdrup",
         "Mogens Rene Flindt",
         "Rune C. H. Steinfurth",
-        "Mogens R. Flindt"
+        "Mogens R. Flindt",
+        "Rune C. Steinfurth",
+        "B. Thamdrup",
+        "M. Flindt"
       ],
       "journal": "Estuaries and Coasts",
       "publisher_group": "Springer Nature",
@@ -77,12 +80,12 @@
       "discovery_type": "new_publication",
       "url": "https://doi.org/10.25781/kaust-7231e",
       "themes": [
-        "Restoration",
-        "Climate & heat",
-        "Fisheries & fauna",
         "Biodiversity & ecology",
+        "Climate & heat",
         "Conservation & management",
-        "Microbiome & disease"
+        "Fisheries & fauna",
+        "Microbiome & disease",
+        "Restoration"
       ],
       "ai_summary": "",
       "why_it_matters": ""
