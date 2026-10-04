@@ -1,40 +1,90 @@
 {
-  "generated_at": "2026-10-03T10:25:19+00:00",
+  "generated_at": "2026-10-04T11:07:11+00:00",
   "window_days": 7,
-  "new_papers": 70,
-  "newly_discovered": 532,
+  "new_papers": 76,
+  "newly_discovered": 568,
   "theme_counts": {
-    "Biodiversity & ecology": 26,
-    "Conservation & management": 25,
-    "Physiology & productivity": 23,
-    "Climate & heat": 23,
-    "Restoration": 22,
-    "Fisheries & fauna": 21,
-    "Water quality & nutrients": 18,
-    "Mapping & remote sensing": 14,
-    "Microbiome & disease": 13,
-    "Social & economic": 11,
-    "Blue carbon": 10,
+    "Biodiversity & ecology": 29,
+    "Conservation & management": 28,
+    "Physiology & productivity": 26,
+    "Climate & heat": 25,
+    "Restoration": 23,
+    "Fisheries & fauna": 23,
+    "Water quality & nutrients": 21,
+    "Mapping & remote sensing": 15,
+    "Social & economic": 14,
+    "Blue carbon": 12,
+    "Microbiome & disease": 12,
+    "Genetics & genomics": 9,
     "Biogeochemistry": 9,
-    "Genetics & genomics": 7,
-    "Pollution & contaminants": 7,
-    "General seagrass science": 7
+    "General seagrass science": 8,
+    "Pollution & contaminants": 7
   },
   "publisher_counts": {
-    "Elsevier": 14,
+    "Elsevier": 18,
+    "European Organization for Nuclear Research": 9,
+    "Other / independent": 8,
     "Inter-university Consortium for Political and Social Research": 8,
-    "Other / independent": 7,
     "Springer Nature": 6,
-    "European Organization for Nuclear Research": 6,
     "Wiley": 4,
     "Frontiers": 3,
     "Taylor & Francis": 3,
-    "Global Biodiversity Information Facility": 3,
-    "American Chemical Society (ACS)": 1,
+    "Engineering, Technology & Applied Science Research": 1,
+    "American Chemical Society": 1,
     "Queen's University Belfast": 1,
     "King Abdullah University of Science and Technology": 1
   },
   "top_papers": [
+    {
+      "uid": "10.1007/s44274-026-01081-9",
+      "title": "Antifungal potential and ecological perspectives of selected seagrass species from tropical coastal meadows",
+      "authors": [
+        "Hazeena M. Ameen",
+        "A. Jayadev",
+        "Athira Anila Surendran",
+        "Gayathri Narayanan Prabhadevi",
+        "Deepa Indira Nair",
+        "G. Prasad",
+        "Hazeena Muhammed Ameen",
+        "Ayona Jayadev",
+        "Geena Prasad"
+      ],
+      "journal": "Discover Environment",
+      "publisher_group": "Springer Nature",
+      "published_date": "2026-10-03",
+      "first_seen": "2026-10-03",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.1007/s44274-026-01081-9",
+      "themes": [
+        "Microbiome & disease",
+        "Social & economic"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.48084/etasr.19858",
+      "title": "Sediment Texture-Based Assessment of Sedimentary Carbon Stocks and CO₂-Equivalent Storage in a Tropical Seagrass Meadow of Pejarakan, Bali, Indonesia",
+      "authors": [
+        "Cecilia Mia Clarina",
+        "Rudianto Rudianto",
+        "Berlania Mahardika Putri",
+        "Muhammad Naufal Eka Putra",
+        "Aulia Lanudia Fathah",
+        "Andik Isdianto"
+      ],
+      "journal": "Engineering, Technology & Applied Science Research",
+      "publisher_group": "Engineering, Technology & Applied Science Research",
+      "published_date": "2026-10-02",
+      "first_seen": "2026-10-04",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.48084/etasr.19858",
+      "themes": [
+        "Blue carbon"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
     {
       "uid": "10.1007/s12237-026-01824-0",
       "title": "Quantification of Nutrient Related Ecosystem Functions in Zostera Marina Meadows - A Review",
@@ -194,112 +244,38 @@
       "why_it_matters": ""
     },
     {
-      "uid": "10.1016/j.indic.2026.101538",
-      "title": "Unlocking spatial ecological assessment for tropical seagrass habitats using a new rapid assessment method (SEARAM)",
+      "uid": "10.5281/zenodo.23122031",
+      "title": "Thalassia hemprichii quadrat, shoot and water-quality data from island seagrass meadows in southwestern Vietnam, 2022–2023",
       "authors": [
-        "Mathieu Pinault",
-        "Léo Broudic",
-        "Julien Wickel",
-        "Jean-Benoit Nicet",
-        "Fanny Kerninon",
-        "Katia Ballorain",
-        "Touria Bajjouk",
-        "Oriane Lepeigneul",
-        "Benjamin Bergerot",
-        "Jean-Benoît Nicet"
+        "Thien Duc Luong"
       ],
-      "journal": "Environmental and Sustainability Indicators",
-      "publisher_group": "Elsevier",
-      "published_date": "2026-12-01",
-      "first_seen": "2026-09-20",
-      "discovery_type": "recently_indexed",
-      "url": "https://doi.org/10.1016/j.indic.2026.101538",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "publisher_group": "European Organization for Nuclear Research",
+      "published_date": "2026-10-03",
+      "first_seen": "2026-10-04",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.5281/zenodo.23122031",
       "themes": [
-        "Biodiversity & ecology",
-        "Blue carbon",
-        "Conservation & management",
-        "Fisheries & fauna",
         "General seagrass science",
-        "Water quality & nutrients"
+        "Physiology & productivity"
       ],
       "ai_summary": "",
       "why_it_matters": ""
     },
     {
-      "uid": "10.2984/80.2.5",
-      "title": "Lack of Natural Seagrass Recovery at a Site in the Eastern Tropical Pacific Reveals the Need for Active Ecological Restoration",
+      "uid": "10.5281/zenodo.23094038",
+      "title": "Variation in shoot density, biomass and morphology of the seagrass Thalassia hemprichii among island meadows of the eastern Gulf of Thailand, Vietnam: quadrat, shoot and water-quality data.",
       "authors": [
-        "Jimena Samper‐Villarreal",
-        "Jimena Samper-Villarreal"
+        "Thien Duc Luong"
       ],
-      "journal": "Pacific Science",
-      "publisher_group": "University of Hawaii Press",
-      "published_date": "2026-10-01",
-      "first_seen": "2026-10-01",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "publisher_group": "European Organization for Nuclear Research",
+      "published_date": "2026-10-02",
+      "first_seen": "2026-10-04",
       "discovery_type": "new_publication",
-      "url": "https://doi.org/10.2984/80.2.5",
+      "url": "https://doi.org/10.5281/zenodo.23094038",
       "themes": [
-        "Biogeochemistry",
-        "Conservation & management",
-        "Microbiome & disease",
-        "Physiology & productivity",
-        "Restoration",
-        "Social & economic",
-        "Water quality & nutrients"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.15625/2525-2518/21805",
-      "title": "Lipid classes, fatty acids, amino acids, and antimicrobial activity of the whole plant and seeds of the seagrass Enhalus acoroides (L.f.) Royle",
-      "authors": [
-        "Dao Thi Kim Dung",
-        "Dang Thi Phuong Ly",
-        "Thi Ha Dinh",
-        "Nguyen Thi Nga",
-        "Phạm Quốc Long",
-        "Hoàng Thị Thu Hằng",
-        "Doan Lan Phương",
-        "Dinh Thi Ha",
-        "Pham Quoc Long",
-        "Hoang Thi Thu Hang",
-        "Doan Lan Phuong"
-      ],
-      "journal": "Vietnam Journal of Science and Technology/Science and Technology",
-      "publisher_group": "Vietnam Academy of Science and Technology",
-      "published_date": "2026-10-01",
-      "first_seen": "2026-10-02",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.15625/2525-2518/21805",
-      "themes": [
-        "Microbiome & disease",
-        "Restoration"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.1016/j.atmosenv.2026.122195",
-      "title": "Evaluation of Biogenic Volatile Organic Compound fluxes from a temperate seagrass species, Zostera marina",
-      "authors": [
-        "A. Saunier",
-        "J. Kammer",
-        "M. Rocco",
-        "S. Coquin",
-        "E. Ormeno",
-        "H. Wortham",
-        "C. Fernandez",
-        "E. Ormeño"
-      ],
-      "journal": "Atmospheric Environment",
-      "publisher_group": "Elsevier",
-      "published_date": "2026-10-01",
-      "first_seen": "2026-08-22",
-      "discovery_type": "baseline",
-      "url": "https://doi.org/10.1016/j.atmosenv.2026.122195",
-      "themes": [
-        "Social & economic"
+        "Physiology & productivity"
       ],
       "ai_summary": "",
       "why_it_matters": ""
