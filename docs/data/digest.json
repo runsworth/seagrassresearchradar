@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-10-04T11:07:11+00:00",
+  "generated_at": "2026-10-05T12:17:28+00:00",
   "window_days": 7,
   "new_papers": 76,
-  "newly_discovered": 568,
+  "newly_discovered": 586,
   "theme_counts": {
-    "Biodiversity & ecology": 29,
-    "Conservation & management": 28,
-    "Physiology & productivity": 26,
+    "Conservation & management": 30,
+    "Biodiversity & ecology": 28,
     "Climate & heat": 25,
+    "Physiology & productivity": 25,
     "Restoration": 23,
-    "Fisheries & fauna": 23,
-    "Water quality & nutrients": 21,
+    "Water quality & nutrients": 22,
+    "Fisheries & fauna": 22,
+    "Social & economic": 16,
     "Mapping & remote sensing": 15,
-    "Social & economic": 14,
-    "Blue carbon": 12,
+    "Blue carbon": 13,
     "Microbiome & disease": 12,
-    "Genetics & genomics": 9,
+    "Genetics & genomics": 10,
     "Biogeochemistry": 9,
     "General seagrass science": 8,
     "Pollution & contaminants": 7
@@ -23,16 +23,16 @@
   "publisher_counts": {
     "Elsevier": 18,
     "European Organization for Nuclear Research": 9,
-    "Other / independent": 8,
     "Inter-university Consortium for Political and Social Research": 8,
+    "Other / independent": 7,
     "Springer Nature": 6,
-    "Wiley": 4,
     "Frontiers": 3,
+    "Wiley": 3,
     "Taylor & Francis": 3,
+    "Thieme Medical Publishers (Germany)": 1,
+    "Ollscoil na Gaillimhe – University of Galway": 1,
     "Engineering, Technology & Applied Science Research": 1,
-    "American Chemical Society": 1,
-    "Queen's University Belfast": 1,
-    "King Abdullah University of Science and Technology": 1
+    "American Chemical Society": 1
   },
   "top_papers": [
     {
@@ -81,6 +81,25 @@
       "url": "https://doi.org/10.48084/etasr.19858",
       "themes": [
         "Blue carbon"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.5281/zenodo.23122031",
+      "title": "Thalassia hemprichii quadrat, shoot and water-quality data from island seagrass meadows in southwestern Vietnam, 2022–2023",
+      "authors": [
+        "Thien Duc Luong"
+      ],
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "publisher_group": "European Organization for Nuclear Research",
+      "published_date": "2026-10-03",
+      "first_seen": "2026-10-04",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.5281/zenodo.23122031",
+      "themes": [
+        "General seagrass science",
+        "Physiology & productivity"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -239,25 +258,6 @@
       "url": "https://ges.rgo.ru/jour/article/view/4463",
       "themes": [
         "Mapping & remote sensing"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.5281/zenodo.23122031",
-      "title": "Thalassia hemprichii quadrat, shoot and water-quality data from island seagrass meadows in southwestern Vietnam, 2022–2023",
-      "authors": [
-        "Thien Duc Luong"
-      ],
-      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
-      "publisher_group": "European Organization for Nuclear Research",
-      "published_date": "2026-10-03",
-      "first_seen": "2026-10-04",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.5281/zenodo.23122031",
-      "themes": [
-        "General seagrass science",
-        "Physiology & productivity"
       ],
       "ai_summary": "",
       "why_it_matters": ""
