@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-10-07T11:47:48+00:00",
+  "generated_at": "2026-10-08T12:02:28+00:00",
   "window_days": 7,
-  "new_papers": 64,
-  "newly_discovered": 547,
+  "new_papers": 57,
+  "newly_discovered": 533,
   "theme_counts": {
-    "Biodiversity & ecology": 22,
-    "Conservation & management": 22,
-    "Climate & heat": 20,
-    "Water quality & nutrients": 20,
+    "Biodiversity & ecology": 18,
+    "Water quality & nutrients": 18,
+    "Conservation & management": 18,
     "Restoration": 17,
     "Physiology & productivity": 17,
-    "Fisheries & fauna": 17,
-    "Social & economic": 12,
-    "Mapping & remote sensing": 12,
-    "General seagrass science": 10,
-    "Genetics & genomics": 9,
-    "Microbiome & disease": 9,
+    "Climate & heat": 16,
+    "Fisheries & fauna": 14,
+    "Genetics & genomics": 11,
+    "General seagrass science": 11,
+    "Mapping & remote sensing": 11,
+    "Social & economic": 10,
     "Blue carbon": 8,
-    "Biogeochemistry": 8,
-    "Pollution & contaminants": 6
+    "Microbiome & disease": 8,
+    "Biogeochemistry": 7,
+    "Pollution & contaminants": 5
   },
   "publisher_counts": {
-    "Elsevier": 19,
-    "European Organization for Nuclear Research": 9,
-    "Inter-university Consortium for Political and Social Research": 8,
-    "Springer Nature": 5,
+    "Elsevier": 20,
+    "European Organization for Nuclear Research": 8,
+    "Springer Nature": 6,
     "Frontiers": 4,
     "Other / independent": 3,
+    "Inter-Research": 2,
     "Taylor & Francis": 2,
     "Thieme Medical Publishers (Germany)": 1,
     "Ollscoil na Gaillimhe – University of Galway": 1,
@@ -35,27 +35,6 @@
     "Queen's University Belfast": 1
   },
   "top_papers": [
-    {
-      "uid": "10.5281/zenodo.22037602",
-      "title": "Dataset: Bibliometric Analysis of Seagrass–Microplastic Research, 2018–2025",
-      "authors": [
-        "Mardatillah Z",
-        "Shinta Werorilangi",
-        "Rohani Ambo‐Rappe"
-      ],
-      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
-      "publisher_group": "European Organization for Nuclear Research",
-      "published_date": "2026-09-30",
-      "first_seen": "2026-08-23",
-      "discovery_type": "recently_indexed",
-      "url": "https://doi.org/10.5281/zenodo.22037602",
-      "themes": [
-        "Mapping & remote sensing",
-        "Pollution & contaminants"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
     {
       "uid": "10.1007/s44274-026-01081-9",
       "title": "Antifungal potential and ecological perspectives of selected seagrass species from tropical coastal meadows",
@@ -183,29 +162,6 @@
       "why_it_matters": ""
     },
     {
-      "uid": "10.3886/e256390v1",
-      "title": "SWAN Monitoring Marine Nearshore",
-      "authors": [
-        "Department of the Interior",
-        "National Park Service",
-        "Heather Coletti"
-      ],
-      "journal": "ICPSR Data Holdings",
-      "publisher_group": "Inter-university Consortium for Political and Social Research",
-      "published_date": "2026-09-30",
-      "first_seen": "2026-10-01",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.3886/e256390v1",
-      "themes": [
-        "Climate & heat",
-        "Conservation & management",
-        "Fisheries & fauna",
-        "Pollution & contaminants"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
       "uid": "10.1016/j.envexpbot.2026.106465",
       "title": "Contrasting thermal histories modulate",
       "authors": [
@@ -269,6 +225,80 @@
       "url": "https://doi.org/10.5281/zenodo.23094038",
       "themes": [
         "Physiology & productivity"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.1016/j.indic.2026.101538",
+      "title": "Unlocking spatial ecological assessment for tropical seagrass habitats using a new rapid assessment method (SEARAM)",
+      "authors": [
+        "Mathieu Pinault",
+        "Léo Broudic",
+        "Julien Wickel",
+        "Jean-Benoit Nicet",
+        "Fanny Kerninon",
+        "Katia Ballorain",
+        "Touria Bajjouk",
+        "Oriane Lepeigneul",
+        "Benjamin Bergerot",
+        "Jean-Benoît Nicet"
+      ],
+      "journal": "Environmental and Sustainability Indicators",
+      "publisher_group": "Elsevier",
+      "published_date": "2026-12-01",
+      "first_seen": "2026-09-20",
+      "discovery_type": "recently_indexed",
+      "url": "https://doi.org/10.1016/j.indic.2026.101538",
+      "themes": [
+        "Biodiversity & ecology",
+        "Blue carbon",
+        "Conservation & management",
+        "Fisheries & fauna",
+        "General seagrass science",
+        "Water quality & nutrients"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.1016/j.watbs.2026.100724",
+      "title": "Ammonium stress reprograms lignin biosynthesis and carbon allocation in seagrass",
+      "authors": [
+        "Jiatao Chen",
+        "Songlin Liu",
+        "Hongxue Luo",
+        "Jessica Pazzaglia",
+        "Patrizia Stipcich",
+        "Yuying Huang",
+        "Yang Fang",
+        "Zhijian Jiang",
+        "Yunchao Wu",
+        "Xiaoping Huang",
+        "Peter Ian Macreadie",
+        "Peter I. Macreadie",
+        "Jia-Tao Chen",
+        "Song-Lin Liu",
+        "Hong-Xue Luo",
+        "P. Stipcich",
+        "Yu-Ying Huang",
+        "Zhi-Jian Jiang",
+        "Yun-Chao Wu",
+        "Xiao-Ping Huang",
+        "P. Macreadie"
+      ],
+      "journal": "Water Biology and Security",
+      "publisher_group": "Elsevier",
+      "published_date": "2026-10-01",
+      "first_seen": "2026-10-04",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.1016/j.watbs.2026.100724",
+      "themes": [
+        "Biodiversity & ecology",
+        "General seagrass science",
+        "Genetics & genomics",
+        "Physiology & productivity",
+        "Water quality & nutrients"
       ],
       "ai_summary": "",
       "why_it_matters": ""
