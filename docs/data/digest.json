@@ -1,38 +1,37 @@
 {
-  "generated_at": "2026-10-08T12:02:28+00:00",
+  "generated_at": "2026-10-09T11:54:29+00:00",
   "window_days": 7,
-  "new_papers": 57,
-  "newly_discovered": 533,
+  "new_papers": 32,
+  "newly_discovered": 482,
   "theme_counts": {
-    "Biodiversity & ecology": 18,
-    "Water quality & nutrients": 18,
-    "Conservation & management": 18,
-    "Restoration": 17,
-    "Physiology & productivity": 17,
-    "Climate & heat": 16,
-    "Fisheries & fauna": 14,
-    "Genetics & genomics": 11,
-    "General seagrass science": 11,
-    "Mapping & remote sensing": 11,
-    "Social & economic": 10,
-    "Blue carbon": 8,
-    "Microbiome & disease": 8,
-    "Biogeochemistry": 7,
-    "Pollution & contaminants": 5
+    "General seagrass science": 9,
+    "Biodiversity & ecology": 8,
+    "Conservation & management": 8,
+    "Fisheries & fauna": 7,
+    "Physiology & productivity": 6,
+    "Water quality & nutrients": 6,
+    "Mapping & remote sensing": 5,
+    "Climate & heat": 5,
+    "Blue carbon": 4,
+    "Restoration": 4,
+    "Genetics & genomics": 4,
+    "Microbiome & disease": 3,
+    "Social & economic": 3,
+    "Pollution & contaminants": 2,
+    "Biogeochemistry": 1
   },
   "publisher_counts": {
-    "Elsevier": 20,
-    "European Organization for Nuclear Research": 8,
-    "Springer Nature": 6,
-    "Frontiers": 4,
-    "Other / independent": 3,
-    "Inter-Research": 2,
+    "European Organization for Nuclear Research": 9,
+    "Elsevier": 6,
+    "Other / independent": 5,
+    "Springer Nature": 4,
     "Taylor & Francis": 2,
+    "Inter-Research": 1,
     "Thieme Medical Publishers (Germany)": 1,
-    "Ollscoil na Gaillimhe – University of Galway": 1,
     "Engineering, Technology & Applied Science Research": 1,
     "American Chemical Society": 1,
-    "Queen's University Belfast": 1
+    "Lomonosov Moscow State University": 1,
+    "Institute of Paleobiology PAS": 1
   },
   "top_papers": [
     {
@@ -107,84 +106,27 @@
       "why_it_matters": ""
     },
     {
-      "uid": "10.1007/s12237-026-01824-0",
-      "title": "Quantification of Nutrient Related Ecosystem Functions in Zostera Marina Meadows - A Review",
+      "uid": "10.21203/rs.3.rs-11135735/v1",
+      "title": "Species-Specific Biomass Allocation Shapes Seagrass Biomass Carbon in an Indonesian Coastal National Park: Evidence from West Bali National Park",
       "authors": [
-        "Frederik H. Hansen",
-        "Timi L. Banke",
-        "Rune Steinfurth",
-        "Bo Thamdrup",
-        "Mogens Rene Flindt",
-        "Rune C. H. Steinfurth",
-        "Mogens R. Flindt",
-        "Rune C. Steinfurth",
-        "B. Thamdrup",
-        "M. Flindt"
+        "Laidoina G",
+        "As-Syakur AR",
+        "Atmaja PSP",
+        "Gardena Laidoina",
+        "Abd. Rahman As-syakur",
+        "Putu Satya Pratama Atmaja"
       ],
-      "journal": "Estuaries and Coasts",
-      "publisher_group": "Springer Nature",
-      "published_date": "2026-10-01",
-      "first_seen": "2026-10-02",
+      "journal": "Research Square",
+      "publisher_group": "Other / independent",
+      "published_date": "2026-10-08",
+      "first_seen": "2026-10-09",
       "discovery_type": "new_publication",
-      "url": "https://doi.org/10.1007/s12237-026-01824-0",
+      "url": "https://doi.org/10.21203/rs.3.rs-11135735/v1",
       "themes": [
         "Biodiversity & ecology",
-        "Biogeochemistry",
-        "Microbiome & disease",
-        "Physiology & productivity",
-        "Restoration",
-        "Water quality & nutrients"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.25781/kaust-7231e",
-      "title": "Beyond the Modern Baseline: Reconstructing Marine Biodiversity Change in the Banc d’Arguin Using Sedimentary eDNA",
-      "authors": [
-        "Lina ElSayed-Aly"
-      ],
-      "journal": "King Abdullah University of Science and Technology Repository (King Abdullah University of Science and Technology)",
-      "publisher_group": "King Abdullah University of Science and Technology",
-      "published_date": "2026-10-01",
-      "first_seen": "2026-10-02",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.25781/kaust-7231e",
-      "themes": [
-        "Biodiversity & ecology",
-        "Climate & heat",
+        "Blue carbon",
         "Conservation & management",
-        "Fisheries & fauna",
-        "Microbiome & disease",
-        "Restoration"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.1016/j.envexpbot.2026.106465",
-      "title": "Contrasting thermal histories modulate",
-      "authors": [
-        "Faustino Scarcelli",
-        "Silvia Mazzuca",
-        "Daniela Oliva",
-        "Pietro Giovannelli",
-        "Silvestro Greco",
-        "Amalia Piro",
-        "A. Piro"
-      ],
-      "journal": "Environmental and Experimental Botany",
-      "publisher_group": "Elsevier",
-      "published_date": "2026-10-01",
-      "first_seen": "2026-08-22",
-      "discovery_type": "baseline",
-      "url": "https://doi.org/10.1016/j.envexpbot.2026.106465",
-      "themes": [
-        "Climate & heat",
-        "Conservation & management",
-        "Genetics & genomics",
-        "Physiology & productivity",
-        "Restoration"
+        "Physiology & productivity"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -262,43 +204,62 @@
       "why_it_matters": ""
     },
     {
-      "uid": "10.1016/j.watbs.2026.100724",
-      "title": "Ammonium stress reprograms lignin biosynthesis and carbon allocation in seagrass",
+      "uid": "10.24433/co.1212848.v1",
+      "title": "Predicting Evolving 2D Star-Shaped Polygons Using Time Series",
       "authors": [
-        "Jiatao Chen",
-        "Songlin Liu",
-        "Hongxue Luo",
-        "Jessica Pazzaglia",
-        "Patrizia Stipcich",
-        "Yuying Huang",
-        "Yang Fang",
-        "Zhijian Jiang",
-        "Yunchao Wu",
-        "Xiaoping Huang",
-        "Peter Ian Macreadie",
-        "Peter I. Macreadie",
-        "Jia-Tao Chen",
-        "Song-Lin Liu",
-        "Hong-Xue Luo",
-        "P. Stipcich",
-        "Yu-Ying Huang",
-        "Zhi-Jian Jiang",
-        "Yun-Chao Wu",
-        "Xiao-Ping Huang",
-        "P. Macreadie"
+        "Raphael L. Farodoye",
+        "Célio Trois"
       ],
-      "journal": "Water Biology and Security",
-      "publisher_group": "Elsevier",
-      "published_date": "2026-10-01",
+      "journal": "Code Ocean",
+      "publisher_group": "Other / independent",
+      "published_date": "2026-10-06",
+      "first_seen": "2026-10-08",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.24433/co.1212848.v1",
+      "themes": [
+        "General seagrass science"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.5281/zenodo.23103919",
+      "title": "marineSim: spatio-temporal random forests for marine species distribution modelling under data limitation",
+      "authors": [
+        "Ebenezer Afrifa‐Yamoah",
+        "Francky Fouedjio",
+        "Hassan Talebi",
+        "Yaw Kwaafo Awuah-Mensah",
+        "Alexandre C. Siqueira",
+        "Ute A. Mueller"
+      ],
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "publisher_group": "European Organization for Nuclear Research",
+      "published_date": "2026-10-02",
       "first_seen": "2026-10-04",
       "discovery_type": "new_publication",
-      "url": "https://doi.org/10.1016/j.watbs.2026.100724",
+      "url": "https://doi.org/10.5281/zenodo.23103919",
+      "themes": [
+        "Biodiversity & ecology"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.4202/app.01272.2025",
+      "title": "Seagrass-associated Middle Miocene brachiopods from the Central Paratethys, with description of a new species of Bronnothyris",
+      "authors": [
+        "Alfréd Dulai"
+      ],
+      "journal": "Acta Palaeontologica Polonica",
+      "publisher_group": "Institute of Paleobiology PAS",
+      "published_date": "2026-12-01",
+      "first_seen": "2026-08-22",
+      "discovery_type": "baseline",
+      "url": "https://doi.org/10.4202/app.01272.2025",
       "themes": [
         "Biodiversity & ecology",
-        "General seagrass science",
-        "Genetics & genomics",
-        "Physiology & productivity",
-        "Water quality & nutrients"
+        "Fisheries & fauna"
       ],
       "ai_summary": "",
       "why_it_matters": ""
