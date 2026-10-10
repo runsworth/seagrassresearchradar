@@ -1,35 +1,35 @@
 {
-  "generated_at": "2026-10-09T11:54:29+00:00",
+  "generated_at": "2026-10-10T11:11:15+00:00",
   "window_days": 7,
-  "new_papers": 32,
-  "newly_discovered": 482,
+  "new_papers": 36,
+  "newly_discovered": 440,
   "theme_counts": {
-    "General seagrass science": 9,
-    "Biodiversity & ecology": 8,
-    "Conservation & management": 8,
-    "Fisheries & fauna": 7,
-    "Physiology & productivity": 6,
+    "Fisheries & fauna": 10,
+    "General seagrass science": 10,
+    "Biodiversity & ecology": 10,
+    "Conservation & management": 9,
     "Water quality & nutrients": 6,
-    "Mapping & remote sensing": 5,
-    "Climate & heat": 5,
-    "Blue carbon": 4,
-    "Restoration": 4,
+    "Climate & heat": 6,
+    "Blue carbon": 5,
+    "Mapping & remote sensing": 4,
+    "Physiology & productivity": 4,
     "Genetics & genomics": 4,
-    "Microbiome & disease": 3,
+    "Restoration": 3,
     "Social & economic": 3,
-    "Pollution & contaminants": 2,
-    "Biogeochemistry": 1
+    "Microbiome & disease": 2,
+    "Pollution & contaminants": 2
   },
   "publisher_counts": {
-    "European Organization for Nuclear Research": 9,
-    "Elsevier": 6,
-    "Other / independent": 5,
-    "Springer Nature": 4,
+    "European Organization for Nuclear Research": 8,
+    "Other / independent": 8,
+    "Springer Nature": 5,
+    "Elsevier": 5,
+    "Global Biodiversity Information Facility": 2,
     "Taylor & Francis": 2,
+    "Multidisciplinary Digital Publishing Institute": 1,
+    "Figshare (United Kingdom)": 1,
     "Inter-Research": 1,
     "Thieme Medical Publishers (Germany)": 1,
-    "Engineering, Technology & Applied Science Research": 1,
-    "American Chemical Society": 1,
     "Lomonosov Moscow State University": 1,
     "Institute of Paleobiology PAS": 1
   },
@@ -57,31 +57,6 @@
       "themes": [
         "Microbiome & disease",
         "Social & economic"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.48084/etasr.19858",
-      "title": "Sediment Texture-Based Assessment of Sedimentary Carbon Stocks and CO₂-Equivalent Storage in a Tropical Seagrass Meadow of Pejarakan, Bali, Indonesia",
-      "authors": [
-        "Cecilia Mia Clarina",
-        "Rudianto Rudianto",
-        "Berlania Mahardika Putri",
-        "Muhammad Naufal Eka Putra",
-        "Aulia Lanudia Fathah",
-        "Andik Isdianto",
-        "R. Rudianto",
-        "A. Isdianto"
-      ],
-      "journal": "Engineering Technology & Applied Science Research",
-      "publisher_group": "Engineering, Technology & Applied Science Research",
-      "published_date": "2026-10-02",
-      "first_seen": "2026-10-04",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.48084/etasr.19858",
-      "themes": [
-        "Blue carbon"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -154,24 +129,6 @@
       "why_it_matters": ""
     },
     {
-      "uid": "10.5281/zenodo.23094038",
-      "title": "Variation in shoot density, biomass and morphology of the seagrass Thalassia hemprichii among island meadows of the eastern Gulf of Thailand, Vietnam: quadrat, shoot and water-quality data.",
-      "authors": [
-        "Thien Duc Luong"
-      ],
-      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
-      "publisher_group": "European Organization for Nuclear Research",
-      "published_date": "2026-10-02",
-      "first_seen": "2026-10-04",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.5281/zenodo.23094038",
-      "themes": [
-        "Physiology & productivity"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
       "uid": "10.1016/j.indic.2026.101538",
       "title": "Unlocking spatial ecological assessment for tropical seagrass habitats using a new rapid assessment method (SEARAM)",
       "authors": [
@@ -204,6 +161,72 @@
       "why_it_matters": ""
     },
     {
+      "uid": "10.22541/authorea.15010126/v1",
+      "title": "Species traits and seasonal oceanography shape seagrass connectivity in the Great Barrier Reef",
+      "authors": [
+        "Douchan Hanuise",
+        "Severine Choukroun",
+        "Michael Rasheed",
+        "Thomas Dobbelaere",
+        "Paul H. York",
+        "Timothy M. Smith",
+        "Robert Coles",
+        "Emmanuel Hanert",
+        "Alana Grech"
+      ],
+      "journal": "",
+      "publisher_group": "Other / independent",
+      "published_date": "2026-10-08",
+      "first_seen": "2026-10-10",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.22541/authorea.15010126/v1",
+      "themes": [
+        "Genetics & genomics",
+        "Conservation & management"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.22541/authorea.15010121/v1",
+      "title": "From redundancy to novelty: recipient habitat shapes the functional distinctiveness of marine fish invaders",
+      "authors": [
+        "Bruno Bellisario",
+        "Roberta Cimmaruta"
+      ],
+      "journal": "",
+      "publisher_group": "Other / independent",
+      "published_date": "2026-10-08",
+      "first_seen": "2026-10-10",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.22541/authorea.15010121/v1",
+      "themes": [
+        "Fisheries & fauna",
+        "Biodiversity & ecology"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.5281/zenodo.23232935",
+      "title": "Scripts and data - Stop guessing thinning distances: a data-driven framework for spatial thinning parametrization for ecological modelling",
+      "authors": [
+        "Anonymous"
+      ],
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "publisher_group": "European Organization for Nuclear Research",
+      "published_date": "2026-10-08",
+      "first_seen": "2026-10-10",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.5281/zenodo.23232935",
+      "themes": [
+        "Climate & heat",
+        "Biodiversity & ecology"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
       "uid": "10.24433/co.1212848.v1",
       "title": "Predicting Evolving 2D Star-Shaped Polygons Using Time Series",
       "authors": [
@@ -218,29 +241,6 @@
       "url": "https://doi.org/10.24433/co.1212848.v1",
       "themes": [
         "General seagrass science"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.5281/zenodo.23103919",
-      "title": "marineSim: spatio-temporal random forests for marine species distribution modelling under data limitation",
-      "authors": [
-        "Ebenezer Afrifa‐Yamoah",
-        "Francky Fouedjio",
-        "Hassan Talebi",
-        "Yaw Kwaafo Awuah-Mensah",
-        "Alexandre C. Siqueira",
-        "Ute A. Mueller"
-      ],
-      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
-      "publisher_group": "European Organization for Nuclear Research",
-      "published_date": "2026-10-02",
-      "first_seen": "2026-10-04",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.5281/zenodo.23103919",
-      "themes": [
-        "Biodiversity & ecology"
       ],
       "ai_summary": "",
       "why_it_matters": ""
