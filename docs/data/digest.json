@@ -1,85 +1,39 @@
 {
-  "generated_at": "2026-10-10T11:11:15+00:00",
+  "generated_at": "2026-10-11T11:24:43+00:00",
   "window_days": 7,
-  "new_papers": 36,
-  "newly_discovered": 440,
+  "new_papers": 37,
+  "newly_discovered": 411,
   "theme_counts": {
+    "General seagrass science": 11,
     "Fisheries & fauna": 10,
-    "General seagrass science": 10,
     "Biodiversity & ecology": 10,
     "Conservation & management": 9,
     "Water quality & nutrients": 6,
     "Climate & heat": 6,
+    "Genetics & genomics": 5,
     "Blue carbon": 5,
-    "Mapping & remote sensing": 4,
     "Physiology & productivity": 4,
-    "Genetics & genomics": 4,
+    "Mapping & remote sensing": 4,
     "Restoration": 3,
-    "Social & economic": 3,
-    "Microbiome & disease": 2,
-    "Pollution & contaminants": 2
+    "Pollution & contaminants": 2,
+    "Social & economic": 2,
+    "Microbiome & disease": 1
   },
   "publisher_counts": {
-    "European Organization for Nuclear Research": 8,
     "Other / independent": 8,
+    "European Organization for Nuclear Research": 7,
     "Springer Nature": 5,
     "Elsevier": 5,
-    "Global Biodiversity Information Facility": 2,
+    "Global Biodiversity Information Facility": 3,
     "Taylor & Francis": 2,
+    "Centre for Biodiversity of Montenegro": 1,
     "Multidisciplinary Digital Publishing Institute": 1,
     "Figshare (United Kingdom)": 1,
     "Inter-Research": 1,
     "Thieme Medical Publishers (Germany)": 1,
-    "Lomonosov Moscow State University": 1,
-    "Institute of Paleobiology PAS": 1
+    "Lomonosov Moscow State University": 1
   },
   "top_papers": [
-    {
-      "uid": "10.1007/s44274-026-01081-9",
-      "title": "Antifungal potential and ecological perspectives of selected seagrass species from tropical coastal meadows",
-      "authors": [
-        "Hazeena M. Ameen",
-        "A. Jayadev",
-        "Athira Anila Surendran",
-        "Gayathri Narayanan Prabhadevi",
-        "Deepa Indira Nair",
-        "G. Prasad",
-        "Hazeena Muhammed Ameen",
-        "Ayona Jayadev",
-        "Geena Prasad"
-      ],
-      "journal": "Discover Environment",
-      "publisher_group": "Springer Nature",
-      "published_date": "2026-10-03",
-      "first_seen": "2026-10-03",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.1007/s44274-026-01081-9",
-      "themes": [
-        "Microbiome & disease",
-        "Social & economic"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.5281/zenodo.23122031",
-      "title": "Thalassia hemprichii quadrat, shoot and water-quality data from island seagrass meadows in southwestern Vietnam, 2022–2023",
-      "authors": [
-        "Thien Duc Luong"
-      ],
-      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
-      "publisher_group": "European Organization for Nuclear Research",
-      "published_date": "2026-10-03",
-      "first_seen": "2026-10-04",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.5281/zenodo.23122031",
-      "themes": [
-        "General seagrass science",
-        "Physiology & productivity"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
     {
       "uid": "10.21203/rs.3.rs-11135735/v1",
       "title": "Species-Specific Biomass Allocation Shapes Seagrass Biomass Carbon in an Indonesian Coastal National Park: Evidence from West Bali National Park",
@@ -102,6 +56,32 @@
         "Blue carbon",
         "Conservation & management",
         "Physiology & productivity"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.37828/em.2026.95.9",
+      "title": "Eelgrass (Shalan) and Filamentous Seaweeds in the North-Eastern Caspian Sea as a Source for Production of Building Materials",
+      "authors": [
+        "Philipp V. Sapozhnikov",
+        "Nurtas Amanbai",
+        "Andrey Gennadievich Kostianoy",
+        "Peter O. Zavialov",
+        "Symbat E. Koibakova",
+        "Samal Syrlybekkyzy",
+        "Lyailim Taizhanova",
+        "Andrey G. Kostianoy",
+        "Lyailim S. Taizhanova"
+      ],
+      "journal": "Ecologica Montenegrina",
+      "publisher_group": "Centre for Biodiversity of Montenegro",
+      "published_date": "2026-10-10",
+      "first_seen": "2026-10-11",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.37828/em.2026.95.9",
+      "themes": [
+        "General seagrass science"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -172,7 +152,16 @@
         "Timothy M. Smith",
         "Robert Coles",
         "Emmanuel Hanert",
-        "Alana Grech"
+        "Alana Grech",
+        "Hanuise D",
+        "Choukroun S",
+        "Rasheed M",
+        "Dobbelaere T",
+        "York P",
+        "Smith T",
+        "Coles R",
+        "Hanert E",
+        "Grech A"
       ],
       "journal": "",
       "publisher_group": "Other / independent",
@@ -181,8 +170,8 @@
       "discovery_type": "new_publication",
       "url": "https://doi.org/10.22541/authorea.15010126/v1",
       "themes": [
-        "Genetics & genomics",
-        "Conservation & management"
+        "Conservation & management",
+        "Genetics & genomics"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -192,7 +181,9 @@
       "title": "From redundancy to novelty: recipient habitat shapes the functional distinctiveness of marine fish invaders",
       "authors": [
         "Bruno Bellisario",
-        "Roberta Cimmaruta"
+        "Roberta Cimmaruta",
+        "Bellisario B",
+        "Cimmaruta R"
       ],
       "journal": "",
       "publisher_group": "Other / independent",
@@ -201,8 +192,8 @@
       "discovery_type": "new_publication",
       "url": "https://doi.org/10.22541/authorea.15010121/v1",
       "themes": [
-        "Fisheries & fauna",
-        "Biodiversity & ecology"
+        "Biodiversity & ecology",
+        "Fisheries & fauna"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -220,8 +211,8 @@
       "discovery_type": "new_publication",
       "url": "https://doi.org/10.5281/zenodo.23232935",
       "themes": [
-        "Climate & heat",
-        "Biodiversity & ecology"
+        "Biodiversity & ecology",
+        "Climate & heat"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -260,6 +251,26 @@
       "themes": [
         "Biodiversity & ecology",
         "Fisheries & fauna"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.1016/j.aquabot.2026.104042",
+      "title": "Expanded records of seagrass distribution and biomass across the Tuamotu Archipelago and Society Islands, French Polynesia",
+      "authors": [
+        "Daniel Gorman",
+        "Inês Leal",
+        "I. Leal"
+      ],
+      "journal": "Aquatic Botany",
+      "publisher_group": "Elsevier",
+      "published_date": "2026-11-01",
+      "first_seen": "2026-08-22",
+      "discovery_type": "baseline",
+      "url": "https://doi.org/10.1016/j.aquabot.2026.104042",
+      "themes": [
+        "Physiology & productivity"
       ],
       "ai_summary": "",
       "why_it_matters": ""
