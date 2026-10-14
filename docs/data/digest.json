@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-10-13T12:43:12+00:00",
+  "generated_at": "2026-10-14T10:14:10+00:00",
   "window_days": 7,
-  "new_papers": 43,
-  "newly_discovered": 292,
+  "new_papers": 39,
+  "newly_discovered": 273,
   "theme_counts": {
     "Biodiversity & ecology": 14,
     "Fisheries & fauna": 13,
-    "Conservation & management": 11,
-    "General seagrass science": 11,
-    "Water quality & nutrients": 8,
-    "Climate & heat": 7,
+    "Conservation & management": 10,
+    "General seagrass science": 9,
     "Blue carbon": 7,
-    "Physiology & productivity": 5,
+    "Water quality & nutrients": 7,
+    "Climate & heat": 6,
+    "Physiology & productivity": 6,
     "Genetics & genomics": 5,
-    "Mapping & remote sensing": 5,
     "Restoration": 5,
-    "Social & economic": 3,
+    "Mapping & remote sensing": 4,
     "Pollution & contaminants": 3,
+    "Social & economic": 3,
     "Microbiome & disease": 2,
     "Biogeochemistry": 1
   },
   "publisher_counts": {
-    "Other / independent": 9,
     "Springer Nature": 7,
-    "European Organization for Nuclear Research": 6,
-    "Elsevier": 5,
+    "Other / independent": 7,
+    "European Organization for Nuclear Research": 5,
+    "Elsevier": 4,
     "Global Biodiversity Information Facility": 3,
     "Figshare (United Kingdom)": 2,
     "Multidisciplinary Digital Publishing Institute": 2,
@@ -73,7 +73,13 @@
         "Samal Syrlybekkyzy",
         "Lyailim Taizhanova",
         "Andrey G. Kostianoy",
-        "Lyailim S. Taizhanova"
+        "Lyailim S. Taizhanova",
+        "P. V. Sapozhnikov",
+        "A. Kostianoy",
+        "P. Zavialov",
+        "S. Koibakova",
+        "S. Syrlybekkyzy",
+        "L. Taizhanova"
       ],
       "journal": "Ecologica Montenegrina",
       "publisher_group": "Centre for Biodiversity of Montenegro",
@@ -137,6 +143,44 @@
         "Fisheries & fauna",
         "General seagrass science",
         "Water quality & nutrients"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.1007/s00227-026-04964-w",
+      "title": "Experimental tests of snail grazing on turtlegrass, Thalassia testudinum: short-term tolerance of plant function to scarring of live tissues",
+      "authors": [
+        "Anjali D. Boyd",
+        "Iker R. Yturralde",
+        "Andrés J. Moreno",
+        "Daisy Ponce",
+        "Joseph P. Morton",
+        "C. Schlöder",
+        "V. Gulis",
+        "M. Torchin",
+        "A. Altieri",
+        "B. Silliman",
+        "Carmen Schlöder",
+        "Vladislav Gulis",
+        "Mark Torchin",
+        "Andrew Harlan Altieri",
+        "Brian R. Silliman",
+        "Andres J. Moreno",
+        "Andrew H. Altieri",
+        "Mark E. Torchin",
+        "Brian Reed Silliman"
+      ],
+      "journal": "Marine Biology",
+      "publisher_group": "Springer Nature",
+      "published_date": "2026-10-09",
+      "first_seen": "2026-10-10",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.1007/s00227-026-04964-w",
+      "themes": [
+        "Fisheries & fauna",
+        "Microbiome & disease",
+        "Physiology & productivity"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -259,25 +303,6 @@
         "Biogeochemistry",
         "Climate & heat",
         "Physiology & productivity"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.24433/co.1212848.v1",
-      "title": "Predicting Evolving 2D Star-Shaped Polygons Using Time Series",
-      "authors": [
-        "Raphael L. Farodoye",
-        "Célio Trois"
-      ],
-      "journal": "Code Ocean",
-      "publisher_group": "Other / independent",
-      "published_date": "2026-10-06",
-      "first_seen": "2026-10-08",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.24433/co.1212848.v1",
-      "themes": [
-        "General seagrass science"
       ],
       "ai_summary": "",
       "why_it_matters": ""
