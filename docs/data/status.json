@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-10-14T10:14:10+00:00",
+  "generated_at": "2026-10-15T09:55:39+00:00",
   "sources": {
     "Crossref": {
       "ok": true,
-      "records": 305,
-      "seconds": 11.3
+      "records": 320,
+      "seconds": 12.7
     },
     "OpenAlex": {
       "ok": true,
-      "records": 448,
-      "seconds": 8.2
+      "records": 443,
+      "seconds": 9.7
     },
     "Europe PMC": {
       "ok": true,
-      "records": 217,
-      "seconds": 20.1
+      "records": 215,
+      "seconds": 6.6
     },
     "Semantic Scholar": {
       "ok": true,
-      "records": 610,
-      "seconds": 1.5
+      "records": 618,
+      "seconds": 1.6
     },
     "DOAJ": {
       "ok": true,
-      "records": 638,
-      "seconds": 7.4
+      "records": 636,
+      "seconds": 7.6
     }
   },
-  "paper_count": 5056
+  "paper_count": 5083
 }
