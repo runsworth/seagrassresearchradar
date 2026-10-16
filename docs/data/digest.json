@@ -1,61 +1,56 @@
 {
-  "generated_at": "2026-10-15T09:55:39+00:00",
+  "generated_at": "2026-10-16T09:50:43+00:00",
   "window_days": 7,
-  "new_papers": 35,
-  "newly_discovered": 253,
+  "new_papers": 33,
+  "newly_discovered": 229,
   "theme_counts": {
-    "Biodiversity & ecology": 14,
-    "Fisheries & fauna": 12,
-    "Conservation & management": 9,
-    "General seagrass science": 9,
-    "Blue carbon": 7,
-    "Water quality & nutrients": 7,
-    "Physiology & productivity": 6,
-    "Climate & heat": 5,
+    "Biodiversity & ecology": 13,
+    "Fisheries & fauna": 9,
+    "Conservation & management": 8,
+    "General seagrass science": 8,
+    "Physiology & productivity": 7,
+    "Climate & heat": 6,
+    "Blue carbon": 6,
+    "Water quality & nutrients": 6,
     "Restoration": 5,
-    "Genetics & genomics": 4,
     "Social & economic": 4,
+    "Microbiome & disease": 3,
+    "Genetics & genomics": 3,
     "Mapping & remote sensing": 3,
-    "Microbiome & disease": 2,
     "Pollution & contaminants": 2,
     "Biogeochemistry": 1
   },
   "publisher_counts": {
+    "Elsevier": 6,
     "Springer Nature": 6,
-    "Other / independent": 6,
-    "Elsevier": 5,
     "Global Biodiversity Information Facility": 3,
     "Figshare (United Kingdom)": 2,
+    "Other / independent": 2,
     "Multidisciplinary Digital Publishing Institute": 2,
     "Mulawarman University": 2,
-    "European Organization for Nuclear Research": 2,
     "Taylor & Francis": 2,
-    "Copernicus": 1,
-    "Centre for Biodiversity of Montenegro": 1,
-    "Inter-Research": 1
+    "Institute of Research and Community Services Diponegoro University (LPPM UNDIP)": 1,
+    "Wiley": 1,
+    "Cold Spring Harbor Laboratory": 1,
+    "Copernicus": 1
   },
   "top_papers": [
     {
-      "uid": "10.21203/rs.3.rs-11135735/v1",
-      "title": "Species-Specific Biomass Allocation Shapes Seagrass Biomass Carbon in an Indonesian Coastal National Park: Evidence from West Bali National Park",
+      "uid": "10.1111/ppl.71158",
+      "title": "Leaf pH Polarization in the Seagrass Zostera marina Enhances Adaxial Surface CO 2 Formation and Photosynthesis‐Driven Carbon Fixation",
       "authors": [
-        "Laidoina G",
-        "As-Syakur AR",
-        "Atmaja PSP",
-        "Gardena Laidoina",
-        "Abd. Rahman As-syakur",
-        "Putu Satya Pratama Atmaja"
+        "Kasper Elgetti Brodersen",
+        "Maria Mosshammer",
+        "Zsófia Bognár",
+        "Michael Kühl"
       ],
-      "journal": "Research Square",
-      "publisher_group": "Other / independent",
-      "published_date": "2026-10-08",
-      "first_seen": "2026-10-09",
+      "journal": "Physiologia Plantarum",
+      "publisher_group": "Wiley",
+      "published_date": "2026-10-16",
+      "first_seen": "2026-10-16",
       "discovery_type": "new_publication",
-      "url": "https://doi.org/10.21203/rs.3.rs-11135735/v1",
+      "url": "https://doi.org/10.1111/ppl.71158",
       "themes": [
-        "Biodiversity & ecology",
-        "Blue carbon",
-        "Conservation & management",
         "Physiology & productivity"
       ],
       "ai_summary": "",
@@ -186,80 +181,29 @@
       "why_it_matters": ""
     },
     {
-      "uid": "10.22541/authorea.15010126/v1",
-      "title": "Species traits and seasonal oceanography shape seagrass connectivity in the Great Barrier Reef",
+      "uid": "10.64898/2026.10.12.756211",
+      "title": "Integrating morphological and molecular approaches to assess photosynthetic species diversity in the Venice Lagoon",
       "authors": [
-        "Douchan Hanuise",
-        "Severine Choukroun",
-        "Michael Rasheed",
-        "Thomas Dobbelaere",
-        "Paul H. York",
-        "Timothy M. Smith",
-        "Robert Coles",
-        "Emmanuel Hanert",
-        "Alana Grech",
-        "Hanuise D",
-        "Choukroun S",
-        "Rasheed M",
-        "Dobbelaere T",
-        "York P",
-        "Smith T",
-        "Coles R",
-        "Hanert E",
-        "Grech A",
-        "Séverine Choukroun",
-        "Rob Coles"
+        "Filippo Drigo",
+        "Riccardo Trentin",
+        "Chiara Frasson",
+        "Chiara Stefanelli",
+        "Emanuela Moschin",
+        "Davide De Battisti",
+        "Cristiano De Pittà",
+        "Isabella Moro"
       ],
-      "journal": "",
-      "publisher_group": "Other / independent",
-      "published_date": "2026-10-08",
-      "first_seen": "2026-10-10",
+      "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "publisher_group": "Cold Spring Harbor Laboratory",
+      "published_date": "2026-10-13",
+      "first_seen": "2026-10-16",
       "discovery_type": "new_publication",
-      "url": "https://doi.org/10.22541/authorea.15010126/v1",
+      "url": "https://doi.org/10.64898/2026.10.12.756211",
       "themes": [
-        "Conservation & management",
-        "Genetics & genomics"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.22541/authorea.15010121/v1",
-      "title": "From redundancy to novelty: recipient habitat shapes the functional distinctiveness of marine fish invaders",
-      "authors": [
-        "Bruno Bellisario",
-        "Roberta Cimmaruta",
-        "Bellisario B",
-        "Cimmaruta R"
-      ],
-      "journal": "",
-      "publisher_group": "Other / independent",
-      "published_date": "2026-10-08",
-      "first_seen": "2026-10-10",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.22541/authorea.15010121/v1",
-      "themes": [
+        "Climate & heat",
         "Biodiversity & ecology",
-        "Fisheries & fauna"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.5281/zenodo.23232935",
-      "title": "Scripts and data - Stop guessing thinning distances: a data-driven framework for spatial thinning parametrization for ecological modelling",
-      "authors": [
-        "Anonymous"
-      ],
-      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
-      "publisher_group": "European Organization for Nuclear Research",
-      "published_date": "2026-10-08",
-      "first_seen": "2026-10-10",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.5281/zenodo.23232935",
-      "themes": [
-        "Biodiversity & ecology",
-        "Climate & heat"
+        "Genetics & genomics",
+        "Physiology & productivity"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -311,6 +255,27 @@
       "why_it_matters": ""
     },
     {
+      "uid": "10.1016/j.marpol.2026.107326",
+      "title": "Assessing seagrass climate risk and biodiversity vulnerability to support marine spatial planning in Indonesia",
+      "authors": [
+        "Muhlis",
+        "Halmar Halide",
+        "Rohani Ambo-Rappe"
+      ],
+      "journal": "Marine Policy",
+      "publisher_group": "Elsevier",
+      "published_date": "2027-02-01",
+      "first_seen": "2026-10-16",
+      "discovery_type": "recently_indexed",
+      "url": "https://doi.org/10.1016/j.marpol.2026.107326",
+      "themes": [
+        "Climate & heat",
+        "Biodiversity & ecology"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
       "uid": "10.4202/app.01272.2025",
       "title": "Seagrass-associated Middle Miocene brachiopods from the Central Paratethys, with description of a new species of Bronnothyris",
       "authors": [
@@ -325,6 +290,27 @@
       "themes": [
         "Biodiversity & ecology",
         "Fisheries & fauna"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.14710/jkt.v29i3.32373",
+      "title": "Implications of Seagrass Habitat Complexity for Benthic Biodiversity Conservation: Informing Coastal Management and Planning",
+      "authors": [
+        "Bimo Aji Nugroho",
+        "Ermawaty Maradhy",
+        "Hardianto S. Umar"
+      ],
+      "journal": "Jurnal Kelautan Tropis",
+      "publisher_group": "Institute of Research and Community Services Diponegoro University (LPPM UNDIP)",
+      "published_date": "2026-11-10",
+      "first_seen": "2026-10-16",
+      "discovery_type": "recently_indexed",
+      "url": "https://doi.org/10.14710/jkt.v29i3.32373",
+      "themes": [
+        "Biodiversity & ecology",
+        "Conservation & management"
       ],
       "ai_summary": "",
       "why_it_matters": ""
