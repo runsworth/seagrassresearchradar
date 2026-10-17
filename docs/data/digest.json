@@ -1,38 +1,38 @@
 {
-  "generated_at": "2026-10-16T09:50:43+00:00",
+  "generated_at": "2026-10-17T09:22:24+00:00",
   "window_days": 7,
-  "new_papers": 33,
-  "newly_discovered": 229,
+  "new_papers": 26,
+  "newly_discovered": 228,
   "theme_counts": {
-    "Biodiversity & ecology": 13,
-    "Fisheries & fauna": 9,
-    "Conservation & management": 8,
-    "General seagrass science": 8,
-    "Physiology & productivity": 7,
+    "Biodiversity & ecology": 11,
+    "Restoration": 7,
+    "Fisheries & fauna": 7,
     "Climate & heat": 6,
-    "Blue carbon": 6,
-    "Water quality & nutrients": 6,
-    "Restoration": 5,
+    "General seagrass science": 6,
+    "Physiology & productivity": 6,
+    "Conservation & management": 6,
+    "Water quality & nutrients": 5,
+    "Blue carbon": 4,
     "Social & economic": 4,
-    "Microbiome & disease": 3,
-    "Genetics & genomics": 3,
     "Mapping & remote sensing": 3,
+    "Genetics & genomics": 3,
+    "Microbiome & disease": 2,
     "Pollution & contaminants": 2,
     "Biogeochemistry": 1
   },
   "publisher_counts": {
     "Elsevier": 6,
-    "Springer Nature": 6,
-    "Global Biodiversity Information Facility": 3,
-    "Figshare (United Kingdom)": 2,
+    "Springer Nature": 4,
     "Other / independent": 2,
-    "Multidisciplinary Digital Publishing Institute": 2,
     "Mulawarman University": 2,
     "Taylor & Francis": 2,
-    "Institute of Research and Community Services Diponegoro University (LPPM UNDIP)": 1,
+    "European Organization for Nuclear Research": 1,
     "Wiley": 1,
     "Cold Spring Harbor Laboratory": 1,
-    "Copernicus": 1
+    "Copernicus": 1,
+    "Figshare (United Kingdom)": 1,
+    "Multidisciplinary Digital Publishing Institute": 1,
+    "Centre for Biodiversity of Montenegro": 1
   },
   "top_papers": [
     {
@@ -143,39 +143,42 @@
       "why_it_matters": ""
     },
     {
-      "uid": "10.1007/s00227-026-04964-w",
-      "title": "Experimental tests of snail grazing on turtlegrass, Thalassia testudinum: short-term tolerance of plant function to scarring of live tissues",
+      "uid": "10.21203/rs.3.rs-11251382/v1",
+      "title": "Extreme conditions and ecosystem disruptions of the relationships between phytoplankton, seagrass and macroalgal communities in the Indian River Lagoon, Florida, USA, 1997-2024",
       "authors": [
-        "Anjali D. Boyd",
-        "Iker R. Yturralde",
-        "Andrés J. Moreno",
-        "Daisy Ponce",
-        "Joseph P. Morton",
-        "C. Schlöder",
-        "V. Gulis",
-        "M. Torchin",
-        "A. Altieri",
-        "B. Silliman",
-        "Carmen Schlöder",
-        "Vladislav Gulis",
-        "Mark Torchin",
-        "Andrew Harlan Altieri",
-        "Brian R. Silliman",
-        "Andres J. Moreno",
-        "Andrew H. Altieri",
-        "Mark E. Torchin",
-        "Brian Reed Silliman"
+        "Phlips EJ",
+        "Badylak S",
+        "Morris L",
+        "Hall LM",
+        "Prim S",
+        "Stelling B",
+        "Cecil SL",
+        "Landauer L",
+        "Nelson N",
+        "Banquero LM",
+        "Edward J. Phli̇ps",
+        "Susan Badylak",
+        "Lori J. Morris",
+        "Lauren M. Hall",
+        "Shih-Ni Prim",
+        "Ben Stelling",
+        "Stacy L. Cecil",
+        "Leslie Landauer",
+        "Natalie Nelson",
+        "Luciana Banquero"
       ],
-      "journal": "Marine Biology",
-      "publisher_group": "Springer Nature",
-      "published_date": "2026-10-09",
-      "first_seen": "2026-10-10",
+      "journal": "Research Square",
+      "publisher_group": "Other / independent",
+      "published_date": "2026-10-15",
+      "first_seen": "2026-10-17",
       "discovery_type": "new_publication",
-      "url": "https://doi.org/10.1007/s00227-026-04964-w",
+      "url": "https://doi.org/10.21203/rs.3.rs-11251382/v1",
       "themes": [
-        "Fisheries & fauna",
-        "Microbiome & disease",
-        "Physiology & productivity"
+        "Biodiversity & ecology",
+        "Climate & heat",
+        "General seagrass science",
+        "Physiology & productivity",
+        "Water quality & nutrients"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -191,7 +194,15 @@
         "Emanuela Moschin",
         "Davide De Battisti",
         "Cristiano De Pittà",
-        "Isabella Moro"
+        "Isabella Moro",
+        "Drigo F",
+        "Trentin R",
+        "Frasson C",
+        "Stefanelli C",
+        "Moschin E",
+        "De Battisti D",
+        "De Pittà C",
+        "Moro I"
       ],
       "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
       "publisher_group": "Cold Spring Harbor Laboratory",
@@ -200,8 +211,8 @@
       "discovery_type": "new_publication",
       "url": "https://doi.org/10.64898/2026.10.12.756211",
       "themes": [
-        "Climate & heat",
         "Biodiversity & ecology",
+        "Climate & heat",
         "Genetics & genomics",
         "Physiology & productivity"
       ],
@@ -238,7 +249,10 @@
         "C. Gustafsson",
         "Max L. E. Gräfnings",
         "Dagmar Brigitte Stengel",
-        "Jurgita Ovadnevaitė"
+        "Jurgita Ovadnevaitė",
+        "Yuan-Yuan Luo",
+        "K. Fossum",
+        "R. Thakur"
       ],
       "journal": "Biogeosciences",
       "publisher_group": "Copernicus",
@@ -250,6 +264,24 @@
         "Biogeochemistry",
         "Climate & heat",
         "Physiology & productivity"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.5281/zenodo.23394540",
+      "title": "R-script for habitat suitability modelling methods from research paper",
+      "authors": [
+        "James C. Bull"
+      ],
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "publisher_group": "European Organization for Nuclear Research",
+      "published_date": "2026-10-15",
+      "first_seen": "2026-10-17",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.5281/zenodo.23394540",
+      "themes": [
+        "Restoration"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -269,8 +301,8 @@
       "discovery_type": "recently_indexed",
       "url": "https://doi.org/10.1016/j.marpol.2026.107326",
       "themes": [
-        "Climate & heat",
-        "Biodiversity & ecology"
+        "Biodiversity & ecology",
+        "Climate & heat"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -290,27 +322,6 @@
       "themes": [
         "Biodiversity & ecology",
         "Fisheries & fauna"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.14710/jkt.v29i3.32373",
-      "title": "Implications of Seagrass Habitat Complexity for Benthic Biodiversity Conservation: Informing Coastal Management and Planning",
-      "authors": [
-        "Bimo Aji Nugroho",
-        "Ermawaty Maradhy",
-        "Hardianto S. Umar"
-      ],
-      "journal": "Jurnal Kelautan Tropis",
-      "publisher_group": "Institute of Research and Community Services Diponegoro University (LPPM UNDIP)",
-      "published_date": "2026-11-10",
-      "first_seen": "2026-10-16",
-      "discovery_type": "recently_indexed",
-      "url": "https://doi.org/10.14710/jkt.v29i3.32373",
-      "themes": [
-        "Biodiversity & ecology",
-        "Conservation & management"
       ],
       "ai_summary": "",
       "why_it_matters": ""
