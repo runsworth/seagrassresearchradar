@@ -1,40 +1,73 @@
 {
-  "generated_at": "2026-10-17T09:22:24+00:00",
+  "generated_at": "2026-10-18T09:38:27+00:00",
   "window_days": 7,
-  "new_papers": 26,
-  "newly_discovered": 228,
+  "new_papers": 25,
+  "newly_discovered": 195,
   "theme_counts": {
-    "Biodiversity & ecology": 11,
-    "Restoration": 7,
-    "Fisheries & fauna": 7,
-    "Climate & heat": 6,
-    "General seagrass science": 6,
+    "Biodiversity & ecology": 12,
+    "Restoration": 8,
+    "Climate & heat": 7,
+    "Water quality & nutrients": 7,
+    "Conservation & management": 7,
     "Physiology & productivity": 6,
-    "Conservation & management": 6,
-    "Water quality & nutrients": 5,
-    "Blue carbon": 4,
-    "Social & economic": 4,
-    "Mapping & remote sensing": 3,
+    "Fisheries & fauna": 6,
+    "Blue carbon": 5,
+    "General seagrass science": 4,
+    "Microbiome & disease": 3,
     "Genetics & genomics": 3,
-    "Microbiome & disease": 2,
-    "Pollution & contaminants": 2,
-    "Biogeochemistry": 1
+    "Social & economic": 3,
+    "Biogeochemistry": 2,
+    "Mapping & remote sensing": 2,
+    "Pollution & contaminants": 1
   },
   "publisher_counts": {
-    "Elsevier": 6,
+    "Other / independent": 5,
+    "Elsevier": 5,
     "Springer Nature": 4,
-    "Other / independent": 2,
-    "Mulawarman University": 2,
     "Taylor & Francis": 2,
+    "Environmental Data Initiative": 1,
+    "Global Biodiversity Information Facility": 1,
     "European Organization for Nuclear Research": 1,
     "Wiley": 1,
     "Cold Spring Harbor Laboratory": 1,
     "Copernicus": 1,
     "Figshare (United Kingdom)": 1,
-    "Multidisciplinary Digital Publishing Institute": 1,
-    "Centre for Biodiversity of Montenegro": 1
+    "Lomonosov Moscow State University": 1
   },
   "top_papers": [
+    {
+      "uid": "10.1186/s40168-026-02561-z",
+      "title": "Exploring the biogeographical patterns and driving mechanisms of microbial communities in four microhabitats of Zostera japonica beds",
+      "authors": [
+        "Xinqi Li",
+        "Hongzhen Wang",
+        "Jiayi Xin",
+        "Yu Zang",
+        "Zhibo Yang",
+        "Song Xue",
+        "Lei Liu",
+        "张育辉",
+        "Jiazheng Li",
+        "Xuexi Tang",
+        "Jun Chen",
+        "Yuhui Zhang"
+      ],
+      "journal": "Microbiome",
+      "publisher_group": "Springer Nature",
+      "published_date": "2026-10-15",
+      "first_seen": "2026-10-16",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.1186/s40168-026-02561-z",
+      "themes": [
+        "Biodiversity & ecology",
+        "Biogeochemistry",
+        "Conservation & management",
+        "Microbiome & disease",
+        "Water quality & nutrients"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
     {
       "uid": "10.1111/ppl.71158",
       "title": "Leaf pH Polarization in the Seagrass Zostera marina Enhances Adaxial Surface CO 2 Formation and Photosynthesis‐Driven Carbon Fixation",
@@ -57,38 +90,6 @@
       "why_it_matters": ""
     },
     {
-      "uid": "10.37828/em.2026.95.9",
-      "title": "Eelgrass (Shalan) and Filamentous Seaweeds in the North-Eastern Caspian Sea as a Source for Production of Building Materials",
-      "authors": [
-        "Philipp V. Sapozhnikov",
-        "Nurtas Amanbai",
-        "Andrey Gennadievich Kostianoy",
-        "Peter O. Zavialov",
-        "Symbat E. Koibakova",
-        "Samal Syrlybekkyzy",
-        "Lyailim Taizhanova",
-        "Andrey G. Kostianoy",
-        "Lyailim S. Taizhanova",
-        "P. V. Sapozhnikov",
-        "A. Kostianoy",
-        "P. Zavialov",
-        "S. Koibakova",
-        "S. Syrlybekkyzy",
-        "L. Taizhanova"
-      ],
-      "journal": "Ecologica Montenegrina",
-      "publisher_group": "Centre for Biodiversity of Montenegro",
-      "published_date": "2026-10-10",
-      "first_seen": "2026-10-11",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.37828/em.2026.95.9",
-      "themes": [
-        "General seagrass science"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
       "uid": "13d83b41bf327d23805b",
       "title": "Seagrasses (Zosteraceae And Ruppiaceae) In Russia: Distribution, Diversity, Prospects For Further Research",
       "authors": [
@@ -106,6 +107,24 @@
       "url": "https://ges.rgo.ru/jour/article/view/4463",
       "themes": [
         "Mapping & remote sensing"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.48580/dgzhv",
+      "title": "Seagrasses in Taiwan",
+      "authors": [
+        "Sarah E Miller"
+      ],
+      "journal": "The Catalogue of Life",
+      "publisher_group": "Global Biodiversity Information Facility",
+      "published_date": "2026-10-15",
+      "first_seen": "2026-10-18",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.48580/dgzhv",
+      "themes": [
+        "General seagrass science"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -282,27 +301,6 @@
       "url": "https://doi.org/10.5281/zenodo.23394540",
       "themes": [
         "Restoration"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.1016/j.marpol.2026.107326",
-      "title": "Assessing seagrass climate risk and biodiversity vulnerability to support marine spatial planning in Indonesia",
-      "authors": [
-        "Muhlis",
-        "Halmar Halide",
-        "Rohani Ambo-Rappe"
-      ],
-      "journal": "Marine Policy",
-      "publisher_group": "Elsevier",
-      "published_date": "2027-02-01",
-      "first_seen": "2026-10-16",
-      "discovery_type": "recently_indexed",
-      "url": "https://doi.org/10.1016/j.marpol.2026.107326",
-      "themes": [
-        "Biodiversity & ecology",
-        "Climate & heat"
       ],
       "ai_summary": "",
       "why_it_matters": ""
