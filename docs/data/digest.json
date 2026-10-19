@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-18T09:38:27+00:00",
+  "generated_at": "2026-10-19T10:47:11+00:00",
   "window_days": 7,
-  "new_papers": 25,
-  "newly_discovered": 195,
+  "new_papers": 24,
+  "newly_discovered": 189,
   "theme_counts": {
     "Biodiversity & ecology": 12,
     "Restoration": 8,
     "Climate & heat": 7,
     "Water quality & nutrients": 7,
     "Conservation & management": 7,
-    "Physiology & productivity": 6,
+    "Blue carbon": 6,
     "Fisheries & fauna": 6,
-    "Blue carbon": 5,
+    "Physiology & productivity": 5,
     "General seagrass science": 4,
     "Microbiome & disease": 3,
-    "Genetics & genomics": 3,
     "Social & economic": 3,
     "Biogeochemistry": 2,
+    "Genetics & genomics": 2,
     "Mapping & remote sensing": 2,
     "Pollution & contaminants": 1
   },
   "publisher_counts": {
     "Other / independent": 5,
     "Elsevier": 5,
-    "Springer Nature": 4,
+    "Springer Nature": 3,
     "Taylor & Francis": 2,
     "Environmental Data Initiative": 1,
     "Global Biodiversity Information Facility": 1,
@@ -75,7 +75,9 @@
         "Kasper Elgetti Brodersen",
         "Maria Mosshammer",
         "Zsófia Bognár",
-        "Michael Kühl"
+        "Michael Kühl",
+        "K. E. Brodersen",
+        "M. Kühl"
       ],
       "journal": "Physiologia Plantarum",
       "publisher_group": "Wiley",
@@ -84,6 +86,7 @@
       "discovery_type": "new_publication",
       "url": "https://doi.org/10.1111/ppl.71158",
       "themes": [
+        "Blue carbon",
         "Physiology & productivity"
       ],
       "ai_summary": "",
