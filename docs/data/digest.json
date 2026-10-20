@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-10-19T10:47:11+00:00",
+  "generated_at": "2026-10-20T10:05:13+00:00",
   "window_days": 7,
-  "new_papers": 24,
-  "newly_discovered": 189,
+  "new_papers": 23,
+  "newly_discovered": 208,
   "theme_counts": {
-    "Biodiversity & ecology": 12,
-    "Restoration": 8,
+    "Biodiversity & ecology": 9,
     "Climate & heat": 7,
-    "Water quality & nutrients": 7,
-    "Conservation & management": 7,
-    "Blue carbon": 6,
-    "Fisheries & fauna": 6,
-    "Physiology & productivity": 5,
+    "Physiology & productivity": 6,
+    "Water quality & nutrients": 6,
+    "Restoration": 6,
+    "Conservation & management": 6,
+    "Blue carbon": 5,
+    "Fisheries & fauna": 5,
     "General seagrass science": 4,
+    "Biogeochemistry": 3,
     "Microbiome & disease": 3,
-    "Social & economic": 3,
-    "Biogeochemistry": 2,
-    "Genetics & genomics": 2,
-    "Mapping & remote sensing": 2,
-    "Pollution & contaminants": 1
+    "Pollution & contaminants": 2,
+    "Social & economic": 2,
+    "Genetics & genomics": 1,
+    "Mapping & remote sensing": 1
   },
   "publisher_counts": {
-    "Other / independent": 5,
-    "Elsevier": 5,
-    "Springer Nature": 3,
+    "Elsevier": 6,
+    "Other / independent": 4,
+    "Copernicus": 2,
     "Taylor & Francis": 2,
+    "Universitas Bangka Belitung": 1,
     "Environmental Data Initiative": 1,
     "Global Biodiversity Information Facility": 1,
     "European Organization for Nuclear Research": 1,
     "Wiley": 1,
+    "Springer Nature": 1,
     "Cold Spring Harbor Laboratory": 1,
-    "Copernicus": 1,
-    "Figshare (United Kingdom)": 1,
     "Lomonosov Moscow State University": 1
   },
   "top_papers": [
@@ -50,7 +50,13 @@
         "Jiazheng Li",
         "Xuexi Tang",
         "Jun Chen",
-        "Yuhui Zhang"
+        "Yuhui Zhang",
+        "Xin-Qi Li",
+        "Hong-Zhen Wang",
+        "Jia-Yi Xin",
+        "Yu-Hui Zhang",
+        "Jia-Zhen Li",
+        "Xue-Xi Tang"
       ],
       "journal": "Microbiome",
       "publisher_group": "Springer Nature",
@@ -77,7 +83,11 @@
         "Zsófia Bognár",
         "Michael Kühl",
         "K. E. Brodersen",
-        "M. Kühl"
+        "M. Kühl",
+        "Brodersen KE",
+        "Mosshammer M",
+        "Bognár Z",
+        "Kühl M"
       ],
       "journal": "Physiologia Plantarum",
       "publisher_group": "Wiley",
@@ -88,6 +98,36 @@
       "themes": [
         "Blue carbon",
         "Physiology & productivity"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.5194/bg-23-7309-2026",
+      "title": "Linking sea–air and benthic methane fluxes across seasons in a tropical seagrass meadow of Taiwan",
+      "authors": [
+        "Hsiao-Chun Tseng",
+        "Agnes Sonya Meilani Lumban Gaol",
+        "Fu-Hsuen Lin",
+        "Jian-Jhih Chen",
+        "Wen-Chen Chou",
+        "H.-C. Tseng",
+        "A. S. M. L. Gaol",
+        "F.-H. Lin",
+        "J.-J. Chen",
+        "W.-C. Chou"
+      ],
+      "journal": "Biogeosciences",
+      "publisher_group": "Copernicus",
+      "published_date": "2026-10-19",
+      "first_seen": "2026-10-20",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.5194/bg-23-7309-2026",
+      "themes": [
+        "Biogeochemistry",
+        "Blue carbon",
+        "Climate & heat",
+        "Microbiome & disease"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -206,6 +246,29 @@
       "why_it_matters": ""
     },
     {
+      "uid": "10.33019/jtms.v9i2.8096",
+      "title": "THE ROLE OF NITRATE, PHOSPHATE AND SEDIMENT TYPE AS FACTORS CONTROLLING SEAGRASS DENSITY ON PANJANG ISLAND, CENTRAL BANGKA",
+      "authors": [
+        "Putri Febrianti",
+        "Isnaini",
+        "Gusti Dyansyah",
+        "Anna Ida Sunaryo Pu",
+        "Beta Susanto Barus"
+      ],
+      "journal": "Journal of Tropical Marine Science",
+      "publisher_group": "Universitas Bangka Belitung",
+      "published_date": "2026-10-19",
+      "first_seen": "2026-10-20",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.33019/jtms.v9i2.8096",
+      "themes": [
+        "Physiology & productivity",
+        "Water quality & nutrients"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
       "uid": "10.64898/2026.10.12.756211",
       "title": "Integrating morphological and molecular approaches to assess photosynthetic species diversity in the Venice Lagoon",
       "authors": [
@@ -286,43 +349,6 @@
         "Biogeochemistry",
         "Climate & heat",
         "Physiology & productivity"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.5281/zenodo.23394540",
-      "title": "R-script for habitat suitability modelling methods from research paper",
-      "authors": [
-        "James C. Bull"
-      ],
-      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
-      "publisher_group": "European Organization for Nuclear Research",
-      "published_date": "2026-10-15",
-      "first_seen": "2026-10-17",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.5281/zenodo.23394540",
-      "themes": [
-        "Restoration"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.4202/app.01272.2025",
-      "title": "Seagrass-associated Middle Miocene brachiopods from the Central Paratethys, with description of a new species of Bronnothyris",
-      "authors": [
-        "Alfréd Dulai"
-      ],
-      "journal": "Acta Palaeontologica Polonica",
-      "publisher_group": "Institute of Paleobiology PAS",
-      "published_date": "2026-12-01",
-      "first_seen": "2026-08-22",
-      "discovery_type": "baseline",
-      "url": "https://doi.org/10.4202/app.01272.2025",
-      "themes": [
-        "Biodiversity & ecology",
-        "Fisheries & fauna"
       ],
       "ai_summary": "",
       "why_it_matters": ""
