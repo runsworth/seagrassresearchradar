@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-10-21T10:09:45+00:00",
+  "generated_at": "2026-10-22T10:11:55+00:00",
   "window_days": 7,
-  "new_papers": 26,
-  "newly_discovered": 195,
+  "new_papers": 29,
+  "newly_discovered": 182,
   "theme_counts": {
-    "Conservation & management": 10,
-    "Restoration": 9,
-    "Biodiversity & ecology": 9,
-    "Fisheries & fauna": 8,
-    "Physiology & productivity": 7,
-    "Climate & heat": 7,
-    "Water quality & nutrients": 7,
-    "Blue carbon": 6,
+    "Fisheries & fauna": 11,
+    "Biodiversity & ecology": 11,
+    "Conservation & management": 11,
+    "Restoration": 11,
+    "Physiology & productivity": 9,
+    "Climate & heat": 9,
+    "Water quality & nutrients": 8,
+    "Blue carbon": 7,
     "General seagrass science": 5,
+    "Social & economic": 3,
     "Pollution & contaminants": 3,
     "Microbiome & disease": 3,
+    "Mapping & remote sensing": 2,
     "Biogeochemistry": 2,
-    "Social & economic": 2,
-    "Genetics & genomics": 1,
-    "Mapping & remote sensing": 1
+    "Genetics & genomics": 1
   },
   "publisher_counts": {
     "Elsevier": 6,
@@ -26,13 +26,13 @@
     "Other / independent": 3,
     "Springer Nature": 2,
     "Taylor & Francis": 2,
+    "Edinburgh Napier University": 1,
+    "Center for Open Science": 1,
+    "University of Gothenburg": 1,
     "MDPI": 1,
     "Figshare (United Kingdom)": 1,
     "Copernicus": 1,
-    "Universitas Bangka Belitung": 1,
-    "Environmental Data Initiative": 1,
-    "Global Biodiversity Information Facility": 1,
-    "Wiley": 1
+    "Universitas Bangka Belitung": 1
   },
   "top_papers": [
     {
@@ -118,7 +118,8 @@
         "W.-C. Chou",
         "Hsiao‐Chun Tseng",
         "Jian‐Jhih Chen",
-        "Wen‐Chen Chou"
+        "Wen‐Chen Chou",
+        "F. Lin"
       ],
       "journal": "Biogeosciences",
       "publisher_group": "Copernicus",
@@ -152,6 +153,26 @@
       "discovery_type": "baseline",
       "url": "https://ges.rgo.ru/jour/article/view/4463",
       "themes": [
+        "Mapping & remote sensing"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.17605/osf.io/ghd8q",
+      "title": "Bracing for El Niño: what evidence exists on the impacts and recovery of mangroves and seagrasses? A scoping review with a Philippine focus",
+      "authors": [
+        "Ken Joseph E. Clemente"
+      ],
+      "journal": "Open Science Framework",
+      "publisher_group": "Center for Open Science",
+      "published_date": "2026-10-19",
+      "first_seen": "2026-10-22",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.17605/osf.io/ghd8q",
+      "themes": [
+        "Restoration",
+        "Climate & heat",
         "Mapping & remote sensing"
       ],
       "ai_summary": "",
@@ -262,8 +283,8 @@
       "url": "https://doi.org/10.6084/m9.figshare.26346880",
       "themes": [
         "Biodiversity & ecology",
-        "Genetics & genomics",
-        "Conservation & management"
+        "Conservation & management",
+        "Genetics & genomics"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -287,28 +308,6 @@
       "themes": [
         "Physiology & productivity",
         "Water quality & nutrients"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.5281/zenodo.23440652",
-      "title": "Continuation — To Continue Is Not to Return",
-      "authors": [
-        "Vien Nguyen Son"
-      ],
-      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
-      "publisher_group": "European Organization for Nuclear Research",
-      "published_date": "2026-10-17",
-      "first_seen": "2026-10-21",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.5281/zenodo.23440652",
-      "themes": [
-        "Restoration",
-        "Fisheries & fauna",
-        "Biodiversity & ecology",
-        "Physiology & productivity",
-        "Microbiome & disease"
       ],
       "ai_summary": "",
       "why_it_matters": ""
