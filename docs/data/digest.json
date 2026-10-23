@@ -1,75 +1,60 @@
 {
-  "generated_at": "2026-10-22T10:11:55+00:00",
+  "generated_at": "2026-10-23T10:04:32+00:00",
   "window_days": 7,
-  "new_papers": 29,
-  "newly_discovered": 182,
+  "new_papers": 30,
+  "newly_discovered": 186,
   "theme_counts": {
-    "Fisheries & fauna": 11,
-    "Biodiversity & ecology": 11,
-    "Conservation & management": 11,
-    "Restoration": 11,
-    "Physiology & productivity": 9,
-    "Climate & heat": 9,
-    "Water quality & nutrients": 8,
+    "Restoration": 12,
+    "Fisheries & fauna": 12,
+    "Biodiversity & ecology": 12,
+    "Conservation & management": 12,
+    "Climate & heat": 10,
+    "Physiology & productivity": 10,
+    "Water quality & nutrients": 7,
     "Blue carbon": 7,
-    "General seagrass science": 5,
-    "Social & economic": 3,
-    "Pollution & contaminants": 3,
+    "General seagrass science": 4,
+    "Pollution & contaminants": 4,
+    "Social & economic": 4,
     "Microbiome & disease": 3,
-    "Mapping & remote sensing": 2,
     "Biogeochemistry": 2,
+    "Mapping & remote sensing": 2,
     "Genetics & genomics": 1
   },
   "publisher_counts": {
     "Elsevier": 6,
-    "European Organization for Nuclear Research": 4,
     "Other / independent": 3,
-    "Springer Nature": 2,
+    "European Organization for Nuclear Research": 3,
+    "Wiley": 2,
     "Taylor & Francis": 2,
+    "MDPI": 1,
+    "University of Hong Kong": 1,
+    "Universitas Mataram": 1,
     "Edinburgh Napier University": 1,
     "Center for Open Science": 1,
     "University of Gothenburg": 1,
-    "MDPI": 1,
-    "Figshare (United Kingdom)": 1,
-    "Copernicus": 1,
-    "Universitas Bangka Belitung": 1
+    "Multidisciplinary Digital Publishing Institute": 1
   },
   "top_papers": [
     {
-      "uid": "10.1186/s40168-026-02561-z",
-      "title": "Exploring the biogeographical patterns and driving mechanisms of microbial communities in four microhabitats of Zostera japonica beds",
+      "uid": "10.3390/biology15211909",
+      "title": "Integrated Metabolomic and Biological Profiling of Cymodocea nodosa: Tissue-Specific Chemical Diversity and Fouling-Relevant Activity",
       "authors": [
-        "Xinqi Li",
-        "Hongzhen Wang",
-        "Jiayi Xin",
-        "Yu Zang",
-        "Zhibo Yang",
-        "Song Xue",
-        "Lei Liu",
-        "张育辉",
-        "Jiazheng Li",
-        "Xuexi Tang",
-        "Jun Chen",
-        "Yuhui Zhang",
-        "Xin-Qi Li",
-        "Hong-Zhen Wang",
-        "Jia-Yi Xin",
-        "Yu-Hui Zhang",
-        "Jia-Zhen Li",
-        "Xue-Xi Tang"
+        "Bianca Gabbrielli",
+        "Matteo Oliva",
+        "Giorgia Fumagalli",
+        "Donatella Degl’Innocenti",
+        "Marzia Vasarri",
+        "Alessio Lenzi",
+        "Carlo Pretti"
       ],
-      "journal": "Microbiome",
-      "publisher_group": "Springer Nature",
-      "published_date": "2026-10-15",
-      "first_seen": "2026-10-16",
+      "journal": "Biology",
+      "publisher_group": "MDPI",
+      "published_date": "2026-10-22",
+      "first_seen": "2026-10-23",
       "discovery_type": "new_publication",
-      "url": "https://doi.org/10.1186/s40168-026-02561-z",
+      "url": "https://doi.org/10.3390/biology15211909",
       "themes": [
-        "Biodiversity & ecology",
-        "Biogeochemistry",
-        "Conservation & management",
-        "Microbiome & disease",
-        "Water quality & nutrients"
+        "General seagrass science"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -171,27 +156,9 @@
       "discovery_type": "new_publication",
       "url": "https://doi.org/10.17605/osf.io/ghd8q",
       "themes": [
-        "Restoration",
         "Climate & heat",
-        "Mapping & remote sensing"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.48580/dgzhv",
-      "title": "Seagrasses in Taiwan",
-      "authors": [
-        "Sarah E Miller"
-      ],
-      "journal": "The Catalogue of Life",
-      "publisher_group": "Global Biodiversity Information Facility",
-      "published_date": "2026-10-15",
-      "first_seen": "2026-10-18",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.48580/dgzhv",
-      "themes": [
-        "General seagrass science"
+        "Mapping & remote sensing",
+        "Restoration"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -229,42 +196,49 @@
       "why_it_matters": ""
     },
     {
-      "uid": "10.21203/rs.3.rs-11251382/v1",
-      "title": "Extreme conditions and ecosystem disruptions of the relationships between phytoplankton, seagrass and macroalgal communities in the Indian River Lagoon, Florida, USA, 1997-2024",
+      "uid": "10.1002/nzm2.70082",
+      "title": "Seed Storage Conditions for Zostera muelleri Restoration: Effects of Temperature, Salinity and Sterilisation on Seed Contamination, Viability and Seedling Emergence",
       "authors": [
-        "Phlips EJ",
-        "Badylak S",
-        "Morris L",
-        "Hall LM",
-        "Prim S",
-        "Stelling B",
-        "Cecil SL",
-        "Landauer L",
-        "Nelson N",
-        "Banquero LM",
-        "Edward J. Phli̇ps",
-        "Susan Badylak",
-        "Lori J. Morris",
-        "Lauren M. Hall",
-        "Shih-Ni Prim",
-        "Ben Stelling",
-        "Stacy L. Cecil",
-        "Leslie Landauer",
-        "Natalie Nelson",
-        "Luciana Banquero"
+        "Kelsie J. Fractal",
+        "Jeffrey T. Wright",
+        "Madeline E. Green",
+        "Elizabeth L. Andrews",
+        "M. A. Strain Elisabeth"
       ],
-      "journal": "Research Square",
-      "publisher_group": "Other / independent",
-      "published_date": "2026-10-15",
-      "first_seen": "2026-10-17",
+      "journal": "New Zealand Journal of Marine and Freshwater Research",
+      "publisher_group": "Wiley",
+      "published_date": "2026-10-22",
+      "first_seen": "2026-10-23",
       "discovery_type": "new_publication",
-      "url": "https://doi.org/10.21203/rs.3.rs-11251382/v1",
+      "url": "https://doi.org/10.1002/nzm2.70082",
       "themes": [
-        "Biodiversity & ecology",
         "Climate & heat",
-        "General seagrass science",
+        "Microbiome & disease",
+        "Pollution & contaminants",
+        "Restoration"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.25442/hku.33253668",
+      "title": "Supporting data for “Shifting controls on seagrass ecosystem functioning under environmental variability\"",
+      "authors": [
+        "Chanaka Isuranga Premarathne Maha Ranvilage"
+      ],
+      "journal": "Hong Kong University",
+      "publisher_group": "University of Hong Kong",
+      "published_date": "2026-10-21",
+      "first_seen": "2026-10-23",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.25442/hku.33253668",
+      "themes": [
+        "Restoration",
+        "Climate & heat",
+        "Biodiversity & ecology",
+        "Water quality & nutrients",
         "Physiology & productivity",
-        "Water quality & nutrients"
+        "Biogeochemistry"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -297,7 +271,9 @@
         "Isnaini",
         "Gusti Dyansyah",
         "Anna Ida Sunaryo Pu",
-        "Beta Susanto Barus"
+        "Beta Susanto Barus",
+        "P. Febrianti",
+        "B. S. Barus"
       ],
       "journal": "Journal of Tropical Marine Science",
       "publisher_group": "Universitas Bangka Belitung",
