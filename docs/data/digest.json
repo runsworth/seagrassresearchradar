@@ -1,45 +1,74 @@
 {
-  "generated_at": "2026-10-23T10:04:32+00:00",
+  "generated_at": "2026-10-24T09:32:42+00:00",
   "window_days": 7,
-  "new_papers": 30,
-  "newly_discovered": 186,
+  "new_papers": 34,
+  "newly_discovered": 188,
   "theme_counts": {
+    "Conservation & management": 18,
+    "Fisheries & fauna": 17,
+    "Biodiversity & ecology": 13,
     "Restoration": 12,
-    "Fisheries & fauna": 12,
-    "Biodiversity & ecology": 12,
-    "Conservation & management": 12,
-    "Climate & heat": 10,
-    "Physiology & productivity": 10,
-    "Water quality & nutrients": 7,
+    "Physiology & productivity": 11,
+    "Climate & heat": 11,
     "Blue carbon": 7,
-    "General seagrass science": 4,
+    "Water quality & nutrients": 7,
+    "Social & economic": 6,
     "Pollution & contaminants": 4,
-    "Social & economic": 4,
+    "Mapping & remote sensing": 3,
+    "General seagrass science": 3,
     "Microbiome & disease": 3,
     "Biogeochemistry": 2,
-    "Mapping & remote sensing": 2,
     "Genetics & genomics": 1
   },
   "publisher_counts": {
-    "Elsevier": 6,
-    "Other / independent": 3,
-    "European Organization for Nuclear Research": 3,
-    "Wiley": 2,
-    "Taylor & Francis": 2,
-    "MDPI": 1,
+    "European Organization for Nuclear Research": 10,
+    "Elsevier": 5,
+    "Taylor & Francis": 3,
+    "Figshare (United Kingdom)": 2,
+    "Multidisciplinary Digital Publishing Institute": 2,
+    "Wiley": 1,
+    "Other / independent": 1,
     "University of Hong Kong": 1,
     "Universitas Mataram": 1,
     "Edinburgh Napier University": 1,
     "Center for Open Science": 1,
-    "University of Gothenburg": 1,
-    "Multidisciplinary Digital Publishing Institute": 1
+    "University of Gothenburg": 1
   },
   "top_papers": [
+    {
+      "uid": "10.1002/ece3.74466",
+      "title": "Turtle Herbivory Suppresses Seagrass Function but Reveals Recovery Potential in a Remote Coral Reef Atoll",
+      "authors": [
+        "Caitlyn O'Dea",
+        "Kathryn McMahon",
+        "Osman Macrae",
+        "Shakirin Keegan",
+        "Sahira Bell"
+      ],
+      "journal": "Ecology and Evolution",
+      "publisher_group": "Wiley",
+      "published_date": "2026-10-24",
+      "first_seen": "2026-10-24",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.1002/ece3.74466",
+      "themes": [
+        "Biodiversity & ecology",
+        "Blue carbon",
+        "Conservation & management",
+        "Fisheries & fauna",
+        "Physiology & productivity",
+        "Restoration",
+        "Social & economic",
+        "Water quality & nutrients"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
     {
       "uid": "10.3390/biology15211909",
       "title": "Integrated Metabolomic and Biological Profiling of Cymodocea nodosa: Tissue-Specific Chemical Diversity and Fouling-Relevant Activity",
       "authors": [
-        "Bianca Gabbrielli",
+        "BIANCA GABBRIELLI",
         "Matteo Oliva",
         "Giorgia Fumagalli",
         "Donatella Degl’Innocenti",
@@ -48,41 +77,13 @@
         "Carlo Pretti"
       ],
       "journal": "Biology",
-      "publisher_group": "MDPI",
+      "publisher_group": "Multidisciplinary Digital Publishing Institute",
       "published_date": "2026-10-22",
       "first_seen": "2026-10-23",
       "discovery_type": "new_publication",
       "url": "https://doi.org/10.3390/biology15211909",
       "themes": [
         "General seagrass science"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.1111/ppl.71158",
-      "title": "Leaf pH Polarization in the Seagrass Zostera marina Enhances Adaxial Surface CO 2 Formation and Photosynthesis‐Driven Carbon Fixation",
-      "authors": [
-        "Kasper Elgetti Brodersen",
-        "Maria Mosshammer",
-        "Zsófia Bognár",
-        "Michael Kühl",
-        "K. E. Brodersen",
-        "M. Kühl",
-        "Brodersen KE",
-        "Mosshammer M",
-        "Bognár Z",
-        "Kühl M"
-      ],
-      "journal": "Physiologia Plantarum",
-      "publisher_group": "Wiley",
-      "published_date": "2026-10-16",
-      "first_seen": "2026-10-16",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.1111/ppl.71158",
-      "themes": [
-        "Blue carbon",
-        "Physiology & productivity"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -199,14 +200,16 @@
       "uid": "10.1002/nzm2.70082",
       "title": "Seed Storage Conditions for Zostera muelleri Restoration: Effects of Temperature, Salinity and Sterilisation on Seed Contamination, Viability and Seedling Emergence",
       "authors": [
-        "Kelsie J. Fractal",
+        "Kelsie Fractal",
         "Jeffrey T. Wright",
         "Madeline E. Green",
         "Elizabeth L. Andrews",
+        "Elisabeth M. A. Strain",
+        "Kelsie J. Fractal",
         "M. A. Strain Elisabeth"
       ],
       "journal": "New Zealand Journal of Marine and Freshwater Research",
-      "publisher_group": "Wiley",
+      "publisher_group": "Taylor & Francis",
       "published_date": "2026-10-22",
       "first_seen": "2026-10-23",
       "discovery_type": "new_publication",
@@ -216,6 +219,26 @@
         "Microbiome & disease",
         "Pollution & contaminants",
         "Restoration"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.5281/zenodo.23571725",
+      "title": "The Distribution and Biography of Zostera Marina L. (eelgrass) in Alaska",
+      "authors": [
+        "Exxon Valdez Oil Spill Trustee Council",
+        "James Bodkin",
+        "Thomas A. Dean"
+      ],
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "publisher_group": "European Organization for Nuclear Research",
+      "published_date": "2026-10-22",
+      "first_seen": "2026-10-24",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.5281/zenodo.23571725",
+      "themes": [
+        "Conservation & management"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -233,12 +256,12 @@
       "discovery_type": "new_publication",
       "url": "https://doi.org/10.25442/hku.33253668",
       "themes": [
-        "Restoration",
-        "Climate & heat",
         "Biodiversity & ecology",
-        "Water quality & nutrients",
+        "Biogeochemistry",
+        "Climate & heat",
         "Physiology & productivity",
-        "Biogeochemistry"
+        "Restoration",
+        "Water quality & nutrients"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -259,31 +282,6 @@
         "Biodiversity & ecology",
         "Conservation & management",
         "Genetics & genomics"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.33019/jtms.v9i2.8096",
-      "title": "THE ROLE OF NITRATE, PHOSPHATE AND SEDIMENT TYPE AS FACTORS CONTROLLING SEAGRASS DENSITY ON PANJANG ISLAND, CENTRAL BANGKA",
-      "authors": [
-        "Putri Febrianti",
-        "Isnaini",
-        "Gusti Dyansyah",
-        "Anna Ida Sunaryo Pu",
-        "Beta Susanto Barus",
-        "P. Febrianti",
-        "B. S. Barus"
-      ],
-      "journal": "Journal of Tropical Marine Science",
-      "publisher_group": "Universitas Bangka Belitung",
-      "published_date": "2026-10-19",
-      "first_seen": "2026-10-20",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.33019/jtms.v9i2.8096",
-      "themes": [
-        "Physiology & productivity",
-        "Water quality & nutrients"
       ],
       "ai_summary": "",
       "why_it_matters": ""
