@@ -1,38 +1,38 @@
 {
-  "generated_at": "2026-10-24T09:32:42+00:00",
+  "generated_at": "2026-10-25T09:49:11+00:00",
   "window_days": 7,
-  "new_papers": 34,
-  "newly_discovered": 188,
+  "new_papers": 38,
+  "newly_discovered": 210,
   "theme_counts": {
-    "Conservation & management": 18,
-    "Fisheries & fauna": 17,
-    "Biodiversity & ecology": 13,
+    "Conservation & management": 21,
+    "Fisheries & fauna": 15,
+    "Biodiversity & ecology": 14,
+    "Climate & heat": 12,
+    "Physiology & productivity": 12,
     "Restoration": 12,
-    "Physiology & productivity": 11,
-    "Climate & heat": 11,
+    "Water quality & nutrients": 9,
     "Blue carbon": 7,
-    "Water quality & nutrients": 7,
     "Social & economic": 6,
-    "Pollution & contaminants": 4,
-    "Mapping & remote sensing": 3,
-    "General seagrass science": 3,
-    "Microbiome & disease": 3,
-    "Biogeochemistry": 2,
-    "Genetics & genomics": 1
+    "Microbiome & disease": 5,
+    "Pollution & contaminants": 5,
+    "General seagrass science": 4,
+    "Biogeochemistry": 4,
+    "Genetics & genomics": 4,
+    "Mapping & remote sensing": 3
   },
   "publisher_counts": {
-    "European Organization for Nuclear Research": 10,
-    "Elsevier": 5,
+    "European Organization for Nuclear Research": 9,
+    "Elsevier": 7,
     "Taylor & Francis": 3,
+    "Springer Nature": 2,
+    "Other / independent": 2,
     "Figshare (United Kingdom)": 2,
     "Multidisciplinary Digital Publishing Institute": 2,
+    "King Abdullah University of Science and Technology": 1,
     "Wiley": 1,
-    "Other / independent": 1,
     "University of Hong Kong": 1,
-    "Universitas Mataram": 1,
-    "Edinburgh Napier University": 1,
-    "Center for Open Science": 1,
-    "University of Gothenburg": 1
+    "University of Mataram": 1,
+    "Edinburgh Napier University": 1
   },
   "top_papers": [
     {
@@ -224,6 +224,36 @@
       "why_it_matters": ""
     },
     {
+      "uid": "10.1186/s40793-026-00980-x",
+      "title": "Identification of putative bacterial candidates predicted to promote the growth of the seagrass Zostera marina",
+      "authors": [
+        "Diane-Marie Brache-Smith",
+        "Jacquelyn Badillo",
+        "Saray Maeda",
+        "E. Maggie Sogin"
+      ],
+      "journal": "Environmental Microbiome",
+      "publisher_group": "Springer Nature",
+      "published_date": "2026-10-24",
+      "first_seen": "2026-10-25",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.1186/s40793-026-00980-x",
+      "themes": [
+        "Biodiversity & ecology",
+        "Biogeochemistry",
+        "Climate & heat",
+        "Conservation & management",
+        "Genetics & genomics",
+        "Microbiome & disease",
+        "Physiology & productivity",
+        "Pollution & contaminants",
+        "Restoration",
+        "Water quality & nutrients"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
       "uid": "10.5281/zenodo.23571725",
       "title": "The Distribution and Biography of Zostera Marina L. (eelgrass) in Alaska",
       "authors": [
@@ -262,26 +292,6 @@
         "Physiology & productivity",
         "Restoration",
         "Water quality & nutrients"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.6084/m9.figshare.26346880",
-      "title": "Data From: Blue corridors: integrating marine connectivity between protected areas in the Mediterranean seagrass",
-      "authors": [
-        "Cinzia Podda"
-      ],
-      "journal": "Figshare",
-      "publisher_group": "Figshare (United Kingdom)",
-      "published_date": "2026-10-19",
-      "first_seen": "2026-10-21",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.6084/m9.figshare.26346880",
-      "themes": [
-        "Biodiversity & ecology",
-        "Conservation & management",
-        "Genetics & genomics"
       ],
       "ai_summary": "",
       "why_it_matters": ""
