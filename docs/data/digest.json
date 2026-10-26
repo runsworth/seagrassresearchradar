@@ -1,65 +1,57 @@
 {
-  "generated_at": "2026-10-25T09:49:11+00:00",
+  "generated_at": "2026-10-26T11:07:51+00:00",
   "window_days": 7,
-  "new_papers": 38,
-  "newly_discovered": 210,
+  "new_papers": 40,
+  "newly_discovered": 198,
   "theme_counts": {
-    "Conservation & management": 21,
-    "Fisheries & fauna": 15,
-    "Biodiversity & ecology": 14,
-    "Climate & heat": 12,
-    "Physiology & productivity": 12,
+    "Conservation & management": 22,
+    "Biodiversity & ecology": 16,
+    "Fisheries & fauna": 16,
+    "Physiology & productivity": 13,
+    "Climate & heat": 13,
     "Restoration": 12,
-    "Water quality & nutrients": 9,
-    "Blue carbon": 7,
-    "Social & economic": 6,
-    "Microbiome & disease": 5,
+    "Water quality & nutrients": 11,
+    "Blue carbon": 8,
+    "Social & economic": 7,
+    "Mapping & remote sensing": 6,
+    "Microbiome & disease": 6,
+    "Biogeochemistry": 5,
+    "Genetics & genomics": 5,
     "Pollution & contaminants": 5,
-    "General seagrass science": 4,
-    "Biogeochemistry": 4,
-    "Genetics & genomics": 4,
-    "Mapping & remote sensing": 3
+    "General seagrass science": 4
   },
   "publisher_counts": {
     "European Organization for Nuclear Research": 9,
-    "Elsevier": 7,
+    "Elsevier": 8,
     "Taylor & Francis": 3,
     "Springer Nature": 2,
     "Other / independent": 2,
     "Figshare (United Kingdom)": 2,
     "Multidisciplinary Digital Publishing Institute": 2,
+    "Pensoft Publishers": 1,
+    "MDPI": 1,
     "King Abdullah University of Science and Technology": 1,
-    "Wiley": 1,
     "University of Hong Kong": 1,
-    "University of Mataram": 1,
-    "Edinburgh Napier University": 1
+    "University of Mataram": 1
   },
   "top_papers": [
     {
-      "uid": "10.1002/ece3.74466",
-      "title": "Turtle Herbivory Suppresses Seagrass Function but Reveals Recovery Potential in a Remote Coral Reef Atoll",
+      "uid": "10.3390/coasts6040048",
+      "title": "Assessing the Distribution of Seagrass and Halophytic Habitats in the Nin Coastal Lagoon, Croatian Adriatic Sea, to Support Future Monitoring and Management",
       "authors": [
-        "Caitlyn O'Dea",
-        "Kathryn McMahon",
-        "Osman Macrae",
-        "Shakirin Keegan",
-        "Sahira Bell"
+        "Stipe Lipotica",
+        "Ivana Zubak Čižmek",
+        "Melita Mokos"
       ],
-      "journal": "Ecology and Evolution",
-      "publisher_group": "Wiley",
-      "published_date": "2026-10-24",
-      "first_seen": "2026-10-24",
+      "journal": "Coasts",
+      "publisher_group": "MDPI",
+      "published_date": "2026-10-23",
+      "first_seen": "2026-10-26",
       "discovery_type": "new_publication",
-      "url": "https://doi.org/10.1002/ece3.74466",
+      "url": "https://doi.org/10.3390/coasts6040048",
       "themes": [
-        "Biodiversity & ecology",
-        "Blue carbon",
         "Conservation & management",
-        "Fisheries & fauna",
-        "Physiology & productivity",
-        "Restoration",
-        "Social & economic",
-        "Water quality & nutrients"
+        "Mapping & remote sensing"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -74,7 +66,11 @@
         "Donatella Degl’Innocenti",
         "Marzia Vasarri",
         "Alessio Lenzi",
-        "Carlo Pretti"
+        "Carlo Pretti",
+        "B. Gabbrielli",
+        "M. Oliva",
+        "D. Degl'Innocenti",
+        "C. Pretti"
       ],
       "journal": "Biology",
       "publisher_group": "Multidisciplinary Digital Publishing Institute",
@@ -145,6 +141,35 @@
       "why_it_matters": ""
     },
     {
+      "uid": "10.3897/aca.9.e211780",
+      "title": "Methodological framework for evaluation of ecosystem services provided by Zostera spp. seagrass meadows in the Black Sea – a case study from Sozopol Bay (LTER Site Sozopol-Black Sea)",
+      "authors": [
+        "Dimitar Berov",
+        "Nikola Bobchev",
+        "Stefania Klayn",
+        "Diana Deyanova",
+        "Ventzislav Karamfilov"
+      ],
+      "journal": "ARPHA Conference Abstracts",
+      "publisher_group": "Pensoft Publishers",
+      "published_date": "2026-10-26",
+      "first_seen": "2026-10-26",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.3897/aca.9.e211780",
+      "themes": [
+        "Biodiversity & ecology",
+        "Biogeochemistry",
+        "Blue carbon",
+        "Fisheries & fauna",
+        "Mapping & remote sensing",
+        "Physiology & productivity",
+        "Social & economic",
+        "Water quality & nutrients"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
       "uid": "10.17605/osf.io/ghd8q",
       "title": "Bracing for El Niño: what evidence exists on the impacts and recovery of mangroves and seagrasses? A scoping review with a Philippine focus",
       "authors": [
@@ -197,6 +222,44 @@
       "why_it_matters": ""
     },
     {
+      "uid": "10.1016/j.biocon.2026.112158",
+      "title": "Scientists' warning on safeguarding seagrass meadows",
+      "authors": [
+        "Rodrigo Riera",
+        "Fernando Tuya",
+        "Jorge Terrados",
+        "Elizabeth A. Sinclair",
+        "Kathryn McMahon",
+        "Margareth Copertino",
+        "Jilian Dunic",
+        "Sophie von der Heyden",
+        "Gabriele Procaccini",
+        "Kathryn M. McMahon"
+      ],
+      "journal": "Biological Conservation",
+      "publisher_group": "Elsevier",
+      "published_date": "2026-10-24",
+      "first_seen": "2026-10-25",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.1016/j.biocon.2026.112158",
+      "themes": [
+        "Biodiversity & ecology",
+        "Blue carbon",
+        "Climate & heat",
+        "Conservation & management",
+        "Fisheries & fauna",
+        "General seagrass science",
+        "Genetics & genomics",
+        "Mapping & remote sensing",
+        "Microbiome & disease",
+        "Restoration",
+        "Social & economic",
+        "Water quality & nutrients"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
       "uid": "10.1002/nzm2.70082",
       "title": "Seed Storage Conditions for Zostera muelleri Restoration: Effects of Temperature, Salinity and Sterilisation on Seed Contamination, Viability and Seedling Emergence",
       "authors": [
@@ -230,6 +293,7 @@
         "Diane-Marie Brache-Smith",
         "Jacquelyn Badillo",
         "Saray Maeda",
+        "Emilia M. Sogin",
         "E. Maggie Sogin"
       ],
       "journal": "Environmental Microbiome",
@@ -247,49 +311,6 @@
         "Microbiome & disease",
         "Physiology & productivity",
         "Pollution & contaminants",
-        "Restoration",
-        "Water quality & nutrients"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.5281/zenodo.23571725",
-      "title": "The Distribution and Biography of Zostera Marina L. (eelgrass) in Alaska",
-      "authors": [
-        "Exxon Valdez Oil Spill Trustee Council",
-        "James Bodkin",
-        "Thomas A. Dean"
-      ],
-      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
-      "publisher_group": "European Organization for Nuclear Research",
-      "published_date": "2026-10-22",
-      "first_seen": "2026-10-24",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.5281/zenodo.23571725",
-      "themes": [
-        "Conservation & management"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.25442/hku.33253668",
-      "title": "Supporting data for “Shifting controls on seagrass ecosystem functioning under environmental variability\"",
-      "authors": [
-        "Chanaka Isuranga Premarathne Maha Ranvilage"
-      ],
-      "journal": "Hong Kong University",
-      "publisher_group": "University of Hong Kong",
-      "published_date": "2026-10-21",
-      "first_seen": "2026-10-23",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.25442/hku.33253668",
-      "themes": [
-        "Biodiversity & ecology",
-        "Biogeochemistry",
-        "Climate & heat",
-        "Physiology & productivity",
         "Restoration",
         "Water quality & nutrients"
       ],
