@@ -1,38 +1,38 @@
 {
-  "generated_at": "2026-10-26T11:07:51+00:00",
+  "generated_at": "2026-10-27T10:35:19+00:00",
   "window_days": 7,
-  "new_papers": 40,
-  "newly_discovered": 198,
+  "new_papers": 35,
+  "newly_discovered": 207,
   "theme_counts": {
-    "Conservation & management": 22,
-    "Biodiversity & ecology": 16,
-    "Fisheries & fauna": 16,
-    "Physiology & productivity": 13,
-    "Climate & heat": 13,
-    "Restoration": 12,
-    "Water quality & nutrients": 11,
+    "Conservation & management": 21,
+    "Fisheries & fauna": 14,
+    "Biodiversity & ecology": 13,
+    "Climate & heat": 12,
+    "Restoration": 11,
+    "Physiology & productivity": 11,
+    "Water quality & nutrients": 10,
+    "Social & economic": 9,
     "Blue carbon": 8,
-    "Social & economic": 7,
-    "Mapping & remote sensing": 6,
-    "Microbiome & disease": 6,
-    "Biogeochemistry": 5,
-    "Genetics & genomics": 5,
-    "Pollution & contaminants": 5,
-    "General seagrass science": 4
+    "Mapping & remote sensing": 5,
+    "Microbiome & disease": 5,
+    "Biogeochemistry": 4,
+    "Genetics & genomics": 4,
+    "Pollution & contaminants": 4,
+    "General seagrass science": 3
   },
   "publisher_counts": {
-    "European Organization for Nuclear Research": 9,
-    "Elsevier": 8,
+    "European Organization for Nuclear Research": 8,
+    "Elsevier": 7,
+    "Springer Nature": 4,
+    "Other / independent": 3,
     "Taylor & Francis": 3,
-    "Springer Nature": 2,
-    "Other / independent": 2,
-    "Figshare (United Kingdom)": 2,
     "Multidisciplinary Digital Publishing Institute": 2,
     "Pensoft Publishers": 1,
     "MDPI": 1,
     "King Abdullah University of Science and Technology": 1,
+    "Figshare (United Kingdom)": 1,
     "University of Hong Kong": 1,
-    "University of Mataram": 1
+    "Edinburgh Napier University": 1
   },
   "top_papers": [
     {
@@ -85,40 +85,6 @@
       "why_it_matters": ""
     },
     {
-      "uid": "10.5194/bg-23-7309-2026",
-      "title": "Linking sea–air and benthic methane fluxes across seasons in a tropical seagrass meadow of Taiwan",
-      "authors": [
-        "Hsiao-Chun Tseng",
-        "Agnes Sonya Meilani Lumban Gaol",
-        "Fu-Hsuen Lin",
-        "Jian-Jhih Chen",
-        "Wen-Chen Chou",
-        "H.-C. Tseng",
-        "A. S. M. L. Gaol",
-        "F.-H. Lin",
-        "J.-J. Chen",
-        "W.-C. Chou",
-        "Hsiao‐Chun Tseng",
-        "Jian‐Jhih Chen",
-        "Wen‐Chen Chou",
-        "F. Lin"
-      ],
-      "journal": "Biogeosciences",
-      "publisher_group": "Copernicus",
-      "published_date": "2026-10-19",
-      "first_seen": "2026-10-20",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.5194/bg-23-7309-2026",
-      "themes": [
-        "Biogeochemistry",
-        "Blue carbon",
-        "Climate & heat",
-        "Microbiome & disease"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
       "uid": "13d83b41bf327d23805b",
       "title": "Seagrasses (Zosteraceae And Ruppiaceae) In Russia: Distribution, Diversity, Prospects For Further Research",
       "authors": [
@@ -165,26 +131,6 @@
         "Physiology & productivity",
         "Social & economic",
         "Water quality & nutrients"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.17605/osf.io/ghd8q",
-      "title": "Bracing for El Niño: what evidence exists on the impacts and recovery of mangroves and seagrasses? A scoping review with a Philippine focus",
-      "authors": [
-        "Ken Joseph E. Clemente"
-      ],
-      "journal": "Open Science Framework",
-      "publisher_group": "Center for Open Science",
-      "published_date": "2026-10-19",
-      "first_seen": "2026-10-22",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.17605/osf.io/ghd8q",
-      "themes": [
-        "Climate & heat",
-        "Mapping & remote sensing",
-        "Restoration"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -313,6 +259,59 @@
         "Pollution & contaminants",
         "Restoration",
         "Water quality & nutrients"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.5281/zenodo.23571725",
+      "title": "The Distribution and Biography of Zostera Marina L. (eelgrass) in Alaska",
+      "authors": [
+        "Exxon Valdez Oil Spill Trustee Council",
+        "James Bodkin",
+        "Thomas A. Dean"
+      ],
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "publisher_group": "European Organization for Nuclear Research",
+      "published_date": "2026-10-22",
+      "first_seen": "2026-10-24",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.5281/zenodo.23571725",
+      "themes": [
+        "Conservation & management"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.21203/rs.3.rs-11157799/v1",
+      "title": "Near-reference carbon stocks with distinct carbon pool composition following restoration of northern China's largest seagrass bed",
+      "authors": [
+        "Zhang Z",
+        "Liu C",
+        "Niu S",
+        "XU S",
+        "Li Y",
+        "Zhao X",
+        "Li P",
+        "Wang H",
+        "Zuo L",
+        "Wang C",
+        "Cui W",
+        "Gu B"
+      ],
+      "journal": "",
+      "publisher_group": "Other / independent",
+      "published_date": "2026-10-26",
+      "first_seen": "2026-10-27",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.21203/rs.3.rs-11157799/v1",
+      "themes": [
+        "Restoration",
+        "Climate & heat",
+        "Blue carbon",
+        "Conservation & management",
+        "Social & economic"
       ],
       "ai_summary": "",
       "why_it_matters": ""
