@@ -1,38 +1,38 @@
 {
-  "generated_at": "2026-10-27T10:35:19+00:00",
+  "generated_at": "2026-10-28T11:20:56+00:00",
   "window_days": 7,
-  "new_papers": 35,
-  "newly_discovered": 207,
+  "new_papers": 37,
+  "newly_discovered": 218,
   "theme_counts": {
-    "Conservation & management": 21,
-    "Fisheries & fauna": 14,
-    "Biodiversity & ecology": 13,
-    "Climate & heat": 12,
-    "Restoration": 11,
+    "Conservation & management": 17,
+    "Biodiversity & ecology": 14,
+    "Climate & heat": 13,
+    "Restoration": 12,
     "Physiology & productivity": 11,
-    "Water quality & nutrients": 10,
-    "Social & economic": 9,
+    "Water quality & nutrients": 9,
+    "Fisheries & fauna": 9,
     "Blue carbon": 8,
+    "Social & economic": 8,
+    "General seagrass science": 5,
     "Mapping & remote sensing": 5,
     "Microbiome & disease": 5,
-    "Biogeochemistry": 4,
-    "Genetics & genomics": 4,
     "Pollution & contaminants": 4,
-    "General seagrass science": 3
+    "Biogeochemistry": 4,
+    "Genetics & genomics": 4
   },
   "publisher_counts": {
-    "European Organization for Nuclear Research": 8,
-    "Elsevier": 7,
+    "Elsevier": 9,
+    "Other / independent": 5,
+    "European Organization for Nuclear Research": 5,
     "Springer Nature": 4,
-    "Other / independent": 3,
     "Taylor & Francis": 3,
+    "MDPI": 2,
     "Multidisciplinary Digital Publishing Institute": 2,
+    "Center for Open Science": 1,
     "Pensoft Publishers": 1,
-    "MDPI": 1,
     "King Abdullah University of Science and Technology": 1,
     "Figshare (United Kingdom)": 1,
-    "University of Hong Kong": 1,
-    "Edinburgh Napier University": 1
+    "University of Hong Kong": 1
   },
   "top_papers": [
     {
@@ -41,7 +41,8 @@
       "authors": [
         "Stipe Lipotica",
         "Ivana Zubak Čižmek",
-        "Melita Mokos"
+        "Melita Mokos",
+        "Ivana Zubak"
       ],
       "journal": "Coasts",
       "publisher_group": "MDPI",
@@ -85,6 +86,33 @@
       "why_it_matters": ""
     },
     {
+      "uid": "10.3390/jmse14212018",
+      "title": "Unravelling Scale Effects in Predicting Eelgrass (Zostera marina) Habitat Suitability for Coastal Restoration",
+      "authors": [
+        "Chiara M. Bertelli",
+        "Lidiane Gouvêa",
+        "Camille Domy",
+        "Matteo Lattuada",
+        "Boris Schröder",
+        "Richard K. F. Unsworth",
+        "James C. Bull"
+      ],
+      "journal": "Journal of Marine Science and Engineering",
+      "publisher_group": "MDPI",
+      "published_date": "2026-10-27",
+      "first_seen": "2026-10-28",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.3390/jmse14212018",
+      "themes": [
+        "Biodiversity & ecology",
+        "Conservation & management",
+        "Physiology & productivity",
+        "Restoration"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
       "uid": "13d83b41bf327d23805b",
       "title": "Seagrasses (Zosteraceae And Ruppiaceae) In Russia: Distribution, Diversity, Prospects For Further Research",
       "authors": [
@@ -114,6 +142,7 @@
         "Nikola Bobchev",
         "Stefania Klayn",
         "Diana Deyanova",
+        "Ventzislav K. Karamfilov",
         "Ventzislav Karamfilov"
       ],
       "journal": "ARPHA Conference Abstracts",
@@ -163,6 +192,31 @@
         "Fisheries & fauna",
         "General seagrass science",
         "Water quality & nutrients"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.1007/s10021-026-01118-3",
+      "title": "Drivers of Spatial Change in Seagrass Carbon Stock Amid Shifting Species Dominance",
+      "authors": [
+        "Alyson C. Hall",
+        "Grace D. Molino",
+        "Serina S. Wittyngham",
+        "Caitlin E. Sughrue",
+        "Matthew L. Kirwan",
+        "Robert J. Orth",
+        "Christopher J. Patrick"
+      ],
+      "journal": "Ecosystems",
+      "publisher_group": "Springer Nature",
+      "published_date": "2026-10-27",
+      "first_seen": "2026-10-28",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.1007/s10021-026-01118-3",
+      "themes": [
+        "Blue carbon",
+        "Climate & heat"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -259,59 +313,6 @@
         "Pollution & contaminants",
         "Restoration",
         "Water quality & nutrients"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.5281/zenodo.23571725",
-      "title": "The Distribution and Biography of Zostera Marina L. (eelgrass) in Alaska",
-      "authors": [
-        "Exxon Valdez Oil Spill Trustee Council",
-        "James Bodkin",
-        "Thomas A. Dean"
-      ],
-      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
-      "publisher_group": "European Organization for Nuclear Research",
-      "published_date": "2026-10-22",
-      "first_seen": "2026-10-24",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.5281/zenodo.23571725",
-      "themes": [
-        "Conservation & management"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.21203/rs.3.rs-11157799/v1",
-      "title": "Near-reference carbon stocks with distinct carbon pool composition following restoration of northern China's largest seagrass bed",
-      "authors": [
-        "Zhang Z",
-        "Liu C",
-        "Niu S",
-        "XU S",
-        "Li Y",
-        "Zhao X",
-        "Li P",
-        "Wang H",
-        "Zuo L",
-        "Wang C",
-        "Cui W",
-        "Gu B"
-      ],
-      "journal": "",
-      "publisher_group": "Other / independent",
-      "published_date": "2026-10-26",
-      "first_seen": "2026-10-27",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.21203/rs.3.rs-11157799/v1",
-      "themes": [
-        "Restoration",
-        "Climate & heat",
-        "Blue carbon",
-        "Conservation & management",
-        "Social & economic"
       ],
       "ai_summary": "",
       "why_it_matters": ""
