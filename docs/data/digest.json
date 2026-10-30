@@ -1,34 +1,34 @@
 {
-  "generated_at": "2026-10-29T11:31:28+00:00",
+  "generated_at": "2026-10-30T11:24:08+00:00",
   "window_days": 7,
-  "new_papers": 49,
-  "newly_discovered": 242,
+  "new_papers": 45,
+  "newly_discovered": 276,
   "theme_counts": {
     "Biodiversity & ecology": 20,
-    "Conservation & management": 20,
-    "Climate & heat": 16,
-    "Physiology & productivity": 13,
+    "Conservation & management": 17,
+    "Climate & heat": 13,
     "Restoration": 12,
+    "Physiology & productivity": 12,
     "Blue carbon": 11,
-    "Fisheries & fauna": 11,
-    "Water quality & nutrients": 10,
     "Social & economic": 10,
-    "General seagrass science": 9,
-    "Microbiome & disease": 8,
+    "Fisheries & fauna": 10,
+    "Water quality & nutrients": 9,
+    "General seagrass science": 8,
+    "Microbiome & disease": 7,
     "Mapping & remote sensing": 6,
+    "Biogeochemistry": 5,
     "Genetics & genomics": 5,
-    "Pollution & contaminants": 5,
-    "Biogeochemistry": 4
+    "Pollution & contaminants": 4
   },
   "publisher_counts": {
     "Elsevier": 10,
     "Other / independent": 7,
-    "European Organization for Nuclear Research": 6,
-    "Springer Nature": 5,
-    "Multidisciplinary Digital Publishing Institute": 3,
-    "Taylor & Francis": 3,
+    "Springer Nature": 6,
+    "European Organization for Nuclear Research": 3,
     "MDPI": 2,
-    "Figshare (United Kingdom)": 2,
+    "Multidisciplinary Digital Publishing Institute": 2,
+    "Taylor & Francis": 2,
+    "IK Press": 1,
     "Global Biodiversity Information Facility": 1,
     "University of California, Santa Barbara": 1,
     "Universitas PGRI Madiun": 1,
@@ -94,34 +94,6 @@
       "why_it_matters": ""
     },
     {
-      "uid": "10.3390/biology15211909",
-      "title": "Integrated Metabolomic and Biological Profiling of Cymodocea nodosa: Tissue-Specific Chemical Diversity and Fouling-Relevant Activity",
-      "authors": [
-        "BIANCA GABBRIELLI",
-        "Matteo Oliva",
-        "Giorgia Fumagalli",
-        "Donatella Degl’Innocenti",
-        "Marzia Vasarri",
-        "Alessio Lenzi",
-        "Carlo Pretti",
-        "B. Gabbrielli",
-        "M. Oliva",
-        "D. Degl'Innocenti",
-        "C. Pretti"
-      ],
-      "journal": "Biology",
-      "publisher_group": "Multidisciplinary Digital Publishing Institute",
-      "published_date": "2026-10-22",
-      "first_seen": "2026-10-23",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.3390/biology15211909",
-      "themes": [
-        "General seagrass science"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
       "uid": "10.3390/jmse14212018",
       "title": "Unravelling Scale Effects in Predicting Eelgrass (Zostera marina) Habitat Suitability for Coastal Restoration",
       "authors": [
@@ -179,7 +151,10 @@
         "Stefania Klayn",
         "Diana Deyanova",
         "Ventzislav K. Karamfilov",
-        "Ventzislav Karamfilov"
+        "Ventzislav Karamfilov",
+        "D. Berov",
+        "D. Deyanova",
+        "V. Karamfilov"
       ],
       "journal": "ARPHA Conference Abstracts",
       "publisher_group": "Pensoft Publishers",
@@ -262,7 +237,13 @@
         "Robert J. Orth",
         "Christopher J. Patrick",
         "Alyson C. Hall",
-        "Caitlin E. Sughrue"
+        "Caitlin E. Sughrue",
+        "A. C. Hall",
+        "G. D. Molino",
+        "S. S. Wittyngham",
+        "M. Kirwan",
+        "R. Orth",
+        "C. Patrick"
       ],
       "journal": "Ecosystems",
       "publisher_group": "Springer Nature",
@@ -273,6 +254,32 @@
       "themes": [
         "Blue carbon",
         "Climate & heat"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.3354/meps15270",
+      "title": "Seagrass species richness impacts invertebrate communities and herbivore feeding decisions",
+      "authors": [
+        "Jamila S. Roth",
+        "Cloud A. Spengler",
+        "Laura K. Reynolds",
+        "Jamila Roth",
+        "Cornelia Spengler",
+        "C. Spengler",
+        "L. Reynolds"
+      ],
+      "journal": "Marine Ecology Progress Series",
+      "publisher_group": "Inter-Research",
+      "published_date": "2026-10-29",
+      "first_seen": "2026-08-22",
+      "discovery_type": "baseline",
+      "url": "https://doi.org/10.3354/meps15270",
+      "themes": [
+        "Biodiversity & ecology",
+        "Fisheries & fauna",
+        "Physiology & productivity"
       ],
       "ai_summary": "",
       "why_it_matters": ""
