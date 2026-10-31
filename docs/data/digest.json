@@ -1,38 +1,38 @@
 {
-  "generated_at": "2026-10-30T11:24:08+00:00",
+  "generated_at": "2026-10-31T10:55:38+00:00",
   "window_days": 7,
-  "new_papers": 45,
-  "newly_discovered": 276,
+  "new_papers": 46,
+  "newly_discovered": 277,
   "theme_counts": {
-    "Biodiversity & ecology": 20,
+    "Biodiversity & ecology": 19,
     "Conservation & management": 17,
-    "Climate & heat": 13,
+    "Climate & heat": 14,
+    "Blue carbon": 14,
     "Restoration": 12,
-    "Physiology & productivity": 12,
-    "Blue carbon": 11,
-    "Social & economic": 10,
-    "Fisheries & fauna": 10,
-    "Water quality & nutrients": 9,
-    "General seagrass science": 8,
-    "Microbiome & disease": 7,
-    "Mapping & remote sensing": 6,
-    "Biogeochemistry": 5,
-    "Genetics & genomics": 5,
+    "Fisheries & fauna": 11,
+    "Social & economic": 11,
+    "Physiology & productivity": 11,
+    "General seagrass science": 9,
+    "Mapping & remote sensing": 8,
+    "Water quality & nutrients": 7,
+    "Microbiome & disease": 5,
+    "Genetics & genomics": 4,
+    "Biogeochemistry": 4,
     "Pollution & contaminants": 4
   },
   "publisher_counts": {
-    "Elsevier": 10,
-    "Other / independent": 7,
-    "Springer Nature": 6,
-    "European Organization for Nuclear Research": 3,
-    "MDPI": 2,
-    "Multidisciplinary Digital Publishing Institute": 2,
+    "Elsevier": 9,
+    "Other / independent": 8,
+    "Springer Nature": 7,
+    "Multidisciplinary Digital Publishing Institute": 3,
+    "European Organization for Nuclear Research": 2,
     "Taylor & Francis": 2,
+    "Wiley": 1,
+    "American Geophysical Union": 1,
+    "Universitas Teuku Umar": 1,
     "IK Press": 1,
     "Global Biodiversity Information Facility": 1,
-    "University of California, Santa Barbara": 1,
-    "Universitas PGRI Madiun": 1,
-    "State University of Gorontalo": 1
+    "University of California, Santa Barbara": 1
   },
   "top_papers": [
     {
@@ -72,28 +72,6 @@
       "why_it_matters": ""
     },
     {
-      "uid": "10.3390/coasts6040048",
-      "title": "Assessing the Distribution of Seagrass and Halophytic Habitats in the Nin Coastal Lagoon, Croatian Adriatic Sea, to Support Future Monitoring and Management",
-      "authors": [
-        "Stipe Lipotica",
-        "Ivana Zubak Čižmek",
-        "Melita Mokos",
-        "Ivana Zubak"
-      ],
-      "journal": "Coasts",
-      "publisher_group": "MDPI",
-      "published_date": "2026-10-23",
-      "first_seen": "2026-10-26",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.3390/coasts6040048",
-      "themes": [
-        "Conservation & management",
-        "Mapping & remote sensing"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
       "uid": "10.3390/jmse14212018",
       "title": "Unravelling Scale Effects in Predicting Eelgrass (Zostera marina) Habitat Suitability for Coastal Restoration",
       "authors": [
@@ -103,7 +81,11 @@
         "Matteo Lattuada",
         "Boris Schröder",
         "Richard K. F. Unsworth",
-        "James C. Bull"
+        "James C. Bull",
+        "C. Bertelli",
+        "L. Gouvêa",
+        "B. Schröder",
+        "R. Unsworth"
       ],
       "journal": "Journal of Marine Science and Engineering",
       "publisher_group": "Multidisciplinary Digital Publishing Institute",
@@ -176,6 +158,26 @@
       "why_it_matters": ""
     },
     {
+      "uid": "10.35308/jlik.v8i2.13274",
+      "title": "Struktur Komunitas Megabentos Pada Padang Lamun Di Perairan Pulau Beras Basah Kota Bontang Kalimantan Timur",
+      "authors": [
+        "Abdul Thalib",
+        "Nurfadilah Nurfadilah",
+        "Ristiana Eryati"
+      ],
+      "journal": "Jurnal Laot Ilmu Kelautan",
+      "publisher_group": "Universitas Teuku Umar",
+      "published_date": "2026-10-25",
+      "first_seen": "2026-10-31",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.35308/jlik.v8i2.13274",
+      "themes": [
+        "General seagrass science"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
       "uid": "10.1016/j.indic.2026.101538",
       "title": "Unlocking spatial ecological assessment for tropical seagrass habitats using a new rapid assessment method (SEARAM)",
       "authors": [
@@ -203,6 +205,28 @@
         "Fisheries & fauna",
         "General seagrass science",
         "Water quality & nutrients"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.21203/rs.3.rs-11228871/v1",
+      "title": "Spatial Distribution and Quantitative Assessment of Seagrass Meadows in the Marine National Park and Sanctuary, Gujarat, India",
+      "authors": [
+        "Gamit V",
+        "Munjpara S",
+        "Patel N",
+        "Nayak A",
+        "Piat B"
+      ],
+      "journal": "",
+      "publisher_group": "Other / independent",
+      "published_date": "2026-10-30",
+      "first_seen": "2026-10-31",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.21203/rs.3.rs-11228871/v1",
+      "themes": [
+        "Mapping & remote sensing"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -279,32 +303,6 @@
       "themes": [
         "Biodiversity & ecology",
         "Fisheries & fauna",
-        "Physiology & productivity"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "b1714edf1ae856d7ab3d",
-      "title": "Đặc điểm phân bố và sinh khối của loài cỏ lươn nhật Zostera japonica Ascherson & Graebner tại đầm phá Tam Giang – Cầu Hai, Thành phố Huế",
-      "authors": [
-        "Tran Thi Thuy Hang",
-        "Hoàng Công Tín",
-        "Võ Điều",
-        "Nguyễn Đức Thành",
-        "Ngô Thị Hương Giang",
-        "Nguyễn Tử Minh",
-        "Hà Nam Thắng",
-        "Nguyễn Văn Huy"
-      ],
-      "journal": "Tạp chí Khoa học và công nghệ nông nghiệp Trường Đại học Nông Lâm Huế",
-      "publisher_group": "Other / independent",
-      "published_date": "2026-10-24",
-      "first_seen": "2026-10-29",
-      "discovery_type": "new_publication",
-      "url": "https://tapchidhnlhue.vn/index.php/id20194/article/view/1361",
-      "themes": [
-        "Climate & heat",
         "Physiology & productivity"
       ],
       "ai_summary": "",
