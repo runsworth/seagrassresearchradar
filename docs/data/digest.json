@@ -1,38 +1,38 @@
 {
-  "generated_at": "2026-10-31T10:55:38+00:00",
+  "generated_at": "2026-11-01T11:50:42+00:00",
   "window_days": 7,
-  "new_papers": 46,
-  "newly_discovered": 277,
+  "new_papers": 50,
+  "newly_discovered": 291,
   "theme_counts": {
     "Biodiversity & ecology": 19,
-    "Conservation & management": 17,
+    "Conservation & management": 16,
     "Climate & heat": 14,
     "Blue carbon": 14,
-    "Restoration": 12,
+    "Physiology & productivity": 13,
+    "Restoration": 11,
     "Fisheries & fauna": 11,
-    "Social & economic": 11,
-    "Physiology & productivity": 11,
-    "General seagrass science": 9,
-    "Mapping & remote sensing": 8,
-    "Water quality & nutrients": 7,
-    "Microbiome & disease": 5,
-    "Genetics & genomics": 4,
+    "Social & economic": 10,
+    "Water quality & nutrients": 8,
+    "General seagrass science": 8,
+    "Mapping & remote sensing": 7,
     "Biogeochemistry": 4,
-    "Pollution & contaminants": 4
+    "Microbiome & disease": 4,
+    "Pollution & contaminants": 3,
+    "Genetics & genomics": 2
   },
   "publisher_counts": {
-    "Elsevier": 9,
-    "Other / independent": 8,
-    "Springer Nature": 7,
+    "Elsevier": 8,
+    "Other / independent": 7,
+    "Springer Nature": 6,
+    "European Organization for Nuclear Research": 4,
+    "Inter-university Consortium for Political and Social Research": 3,
     "Multidisciplinary Digital Publishing Institute": 3,
-    "European Organization for Nuclear Research": 2,
+    "Wiley": 2,
+    "Figshare (United Kingdom)": 2,
     "Taylor & Francis": 2,
-    "Wiley": 1,
     "American Geophysical Union": 1,
     "Universitas Teuku Umar": 1,
-    "IK Press": 1,
-    "Global Biodiversity Information Facility": 1,
-    "University of California, Santa Barbara": 1
+    "Uttar Pradesh Zoological Society": 1
   },
   "top_papers": [
     {
@@ -67,6 +67,30 @@
         "General seagrass science",
         "Physiology & productivity",
         "Water quality & nutrients"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.1002/nzm2.70088",
+      "title": "Environmental Cues Driving Germination of Zostera muelleri : Critical Steps Towards Seed‐Based Seagrass Restoration in Aotearoa New Zealand",
+      "authors": [
+        "Eleanor Brettle",
+        "Dana E. Clark",
+        "Anna Berthelsen",
+        "Joanne I. Ellis",
+        "Hazel R. Needham"
+      ],
+      "journal": "New Zealand Journal of Marine and Freshwater Research",
+      "publisher_group": "Wiley",
+      "published_date": "2026-10-31",
+      "first_seen": "2026-11-01",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.1002/nzm2.70088",
+      "themes": [
+        "Biogeochemistry",
+        "Climate & heat",
+        "Restoration"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -120,6 +144,25 @@
       "url": "https://ges.rgo.ru/jour/article/view/4463",
       "themes": [
         "Mapping & remote sensing"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.3886/e258320",
+      "title": "Kaldy-underlying data for application of NPI to tropical seagrasses",
+      "authors": [
+        "Environmental Protection Agency"
+      ],
+      "journal": "ICPSR Data Holdings",
+      "publisher_group": "Inter-university Consortium for Political and Social Research",
+      "published_date": "2026-10-30",
+      "first_seen": "2026-11-01",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.3886/e258320",
+      "themes": [
+        "Water quality & nutrients",
+        "Physiology & productivity"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -213,13 +256,18 @@
       "uid": "10.21203/rs.3.rs-11228871/v1",
       "title": "Spatial Distribution and Quantitative Assessment of Seagrass Meadows in the Marine National Park and Sanctuary, Gujarat, India",
       "authors": [
+        "Vinesh Gamit",
+        "Sandeep B. Munjpara",
+        "NITIN PATEL",
+        "Amitkumar Nayak",
+        "B.P. Piat",
         "Gamit V",
         "Munjpara S",
         "Patel N",
         "Nayak A",
         "Piat B"
       ],
-      "journal": "",
+      "journal": "Research Square",
       "publisher_group": "Other / independent",
       "published_date": "2026-10-30",
       "first_seen": "2026-10-31",
@@ -245,65 +293,6 @@
       "url": "https://doi.org/10.15468/dd.ee5myj",
       "themes": [
         "Biodiversity & ecology"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.1007/s10021-026-01118-3",
-      "title": "Drivers of Spatial Change in Seagrass Carbon Stock Amid Shifting Species Dominance",
-      "authors": [
-        "Alyson Hall",
-        "Grace D. Molino",
-        "Serina S. Wittyngham",
-        "Caitlin Sughrue",
-        "Matthew L. Kirwan",
-        "Robert J. Orth",
-        "Christopher J. Patrick",
-        "Alyson C. Hall",
-        "Caitlin E. Sughrue",
-        "A. C. Hall",
-        "G. D. Molino",
-        "S. S. Wittyngham",
-        "M. Kirwan",
-        "R. Orth",
-        "C. Patrick"
-      ],
-      "journal": "Ecosystems",
-      "publisher_group": "Springer Nature",
-      "published_date": "2026-10-27",
-      "first_seen": "2026-10-28",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.1007/s10021-026-01118-3",
-      "themes": [
-        "Blue carbon",
-        "Climate & heat"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.3354/meps15270",
-      "title": "Seagrass species richness impacts invertebrate communities and herbivore feeding decisions",
-      "authors": [
-        "Jamila S. Roth",
-        "Cloud A. Spengler",
-        "Laura K. Reynolds",
-        "Jamila Roth",
-        "Cornelia Spengler",
-        "C. Spengler",
-        "L. Reynolds"
-      ],
-      "journal": "Marine Ecology Progress Series",
-      "publisher_group": "Inter-Research",
-      "published_date": "2026-10-29",
-      "first_seen": "2026-08-22",
-      "discovery_type": "baseline",
-      "url": "https://doi.org/10.3354/meps15270",
-      "themes": [
-        "Biodiversity & ecology",
-        "Fisheries & fauna",
-        "Physiology & productivity"
       ],
       "ai_summary": "",
       "why_it_matters": ""
