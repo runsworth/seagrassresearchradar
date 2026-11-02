@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-11-01T11:50:42+00:00",
+  "generated_at": "2026-11-02T13:30:38+00:00",
   "window_days": 7,
-  "new_papers": 50,
-  "newly_discovered": 291,
+  "new_papers": 52,
+  "newly_discovered": 251,
   "theme_counts": {
     "Biodiversity & ecology": 19,
-    "Conservation & management": 16,
-    "Climate & heat": 14,
+    "Conservation & management": 17,
+    "Climate & heat": 15,
     "Blue carbon": 14,
     "Physiology & productivity": 13,
+    "Fisheries & fauna": 12,
     "Restoration": 11,
-    "Fisheries & fauna": 11,
     "Social & economic": 10,
-    "Water quality & nutrients": 8,
     "General seagrass science": 8,
+    "Water quality & nutrients": 8,
     "Mapping & remote sensing": 7,
     "Biogeochemistry": 4,
     "Microbiome & disease": 4,
@@ -21,17 +21,17 @@
     "Genetics & genomics": 2
   },
   "publisher_counts": {
+    "Other / independent": 8,
     "Elsevier": 8,
-    "Other / independent": 7,
     "Springer Nature": 6,
-    "European Organization for Nuclear Research": 4,
+    "European Organization for Nuclear Research": 5,
+    "Taylor & Francis": 3,
     "Inter-university Consortium for Political and Social Research": 3,
     "Multidisciplinary Digital Publishing Institute": 3,
-    "Wiley": 2,
     "Figshare (United Kingdom)": 2,
-    "Taylor & Francis": 2,
+    "Universitat Politècnica de València": 1,
+    "Wiley": 1,
     "American Geophysical Union": 1,
-    "Universitas Teuku Umar": 1,
     "Uttar Pradesh Zoological Society": 1
   },
   "top_papers": [
@@ -82,7 +82,7 @@
         "Hazel R. Needham"
       ],
       "journal": "New Zealand Journal of Marine and Freshwater Research",
-      "publisher_group": "Wiley",
+      "publisher_group": "Taylor & Francis",
       "published_date": "2026-10-31",
       "first_seen": "2026-11-01",
       "discovery_type": "new_publication",
@@ -201,26 +201,6 @@
       "why_it_matters": ""
     },
     {
-      "uid": "10.35308/jlik.v8i2.13274",
-      "title": "Struktur Komunitas Megabentos Pada Padang Lamun Di Perairan Pulau Beras Basah Kota Bontang Kalimantan Timur",
-      "authors": [
-        "Abdul Thalib",
-        "Nurfadilah Nurfadilah",
-        "Ristiana Eryati"
-      ],
-      "journal": "Jurnal Laot Ilmu Kelautan",
-      "publisher_group": "Universitas Teuku Umar",
-      "published_date": "2026-10-25",
-      "first_seen": "2026-10-31",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.35308/jlik.v8i2.13274",
-      "themes": [
-        "General seagrass science"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
       "uid": "10.1016/j.indic.2026.101538",
       "title": "Unlocking spatial ecological assessment for tropical seagrass habitats using a new rapid assessment method (SEARAM)",
       "authors": [
@@ -293,6 +273,39 @@
       "url": "https://doi.org/10.15468/dd.ee5myj",
       "themes": [
         "Biodiversity & ecology"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.1007/s10021-026-01118-3",
+      "title": "Drivers of Spatial Change in Seagrass Carbon Stock Amid Shifting Species Dominance",
+      "authors": [
+        "Alyson Hall",
+        "Grace D. Molino",
+        "Serina S. Wittyngham",
+        "Caitlin Sughrue",
+        "Matthew L. Kirwan",
+        "Robert J. Orth",
+        "Christopher J. Patrick",
+        "Alyson C. Hall",
+        "Caitlin E. Sughrue",
+        "A. C. Hall",
+        "G. D. Molino",
+        "S. S. Wittyngham",
+        "M. Kirwan",
+        "R. Orth",
+        "C. Patrick"
+      ],
+      "journal": "Ecosystems",
+      "publisher_group": "Springer Nature",
+      "published_date": "2026-10-27",
+      "first_seen": "2026-10-28",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.1007/s10021-026-01118-3",
+      "themes": [
+        "Blue carbon",
+        "Climate & heat"
       ],
       "ai_summary": "",
       "why_it_matters": ""
