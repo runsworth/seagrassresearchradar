@@ -1,38 +1,38 @@
 {
-  "generated_at": "2026-11-04T12:59:35+00:00",
+  "generated_at": "2026-11-05T13:12:51+00:00",
   "window_days": 7,
-  "new_papers": 59,
-  "newly_discovered": 325,
+  "new_papers": 50,
+  "newly_discovered": 295,
   "theme_counts": {
-    "Conservation & management": 20,
-    "Biodiversity & ecology": 17,
-    "Physiology & productivity": 14,
-    "Climate & heat": 13,
-    "Fisheries & fauna": 13,
-    "Blue carbon": 12,
+    "Conservation & management": 18,
+    "Biodiversity & ecology": 15,
+    "Climate & heat": 14,
+    "Physiology & productivity": 13,
+    "Water quality & nutrients": 13,
     "Restoration": 12,
-    "Water quality & nutrients": 12,
-    "General seagrass science": 8,
-    "Mapping & remote sensing": 7,
+    "Fisheries & fauna": 12,
+    "Blue carbon": 10,
     "Social & economic": 7,
-    "Genetics & genomics": 6,
-    "Biogeochemistry": 6,
-    "Microbiome & disease": 4,
-    "Pollution & contaminants": 2
+    "Genetics & genomics": 5,
+    "Mapping & remote sensing": 5,
+    "General seagrass science": 4,
+    "Biogeochemistry": 4,
+    "Microbiome & disease": 3,
+    "Pollution & contaminants": 1
   },
   "publisher_counts": {
-    "Elsevier": 10,
-    "Other / independent": 8,
-    "European Organization for Nuclear Research": 7,
-    "Springer Nature": 5,
-    "Wiley": 3,
+    "Elsevier": 9,
+    "Other / independent": 7,
+    "European Organization for Nuclear Research": 6,
+    "Springer Nature": 4,
     "Taylor & Francis": 3,
     "Inter-university Consortium for Political and Social Research": 3,
+    "MDPI": 2,
+    "Frontiers": 2,
     "Figshare (United Kingdom)": 2,
-    "Multidisciplinary Digital Publishing Institute": 2,
+    "Wiley": 2,
     "Cornell University": 1,
-    "EWA Publishing": 1,
-    "Cold Spring Harbor Laboratory": 1
+    "EWA Publishing": 1
   },
   "top_papers": [
     {
@@ -54,7 +54,16 @@
         "Frazer T",
         "Jacoby C",
         "Rohal C",
-        "Roth J"
+        "Roth J",
+        "Reynolds LK",
+        "Bijak AL",
+        "Barry SC",
+        "Frazer TK",
+        "Jacoby CA",
+        "Rohal CB",
+        "S. Barry",
+        "C. Jacoby",
+        "C. Rohal"
       ],
       "journal": "Ecology and Evolution",
       "publisher_group": "Wiley",
@@ -206,6 +215,30 @@
       "why_it_matters": ""
     },
     {
+      "uid": "10.3390/plants15213440",
+      "title": "Genome-Wide Identification of the NAC Gene Family and Expression Analysis Under Contrasting Salinity in Zostera marina L.",
+      "authors": [
+        "Lujie Xie",
+        "Jie Liu",
+        "Hui Zhang",
+        "Qingqing Wang",
+        "Pei Yu",
+        "Yuchun Li",
+        "Xinfang Lv"
+      ],
+      "journal": "Plants",
+      "publisher_group": "MDPI",
+      "published_date": "2026-11-05",
+      "first_seen": "2026-11-05",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.3390/plants15213440",
+      "themes": [
+        "Genetics & genomics"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
       "uid": "10.1016/j.indic.2026.101538",
       "title": "Unlocking spatial ecological assessment for tropical seagrass habitats using a new rapid assessment method (SEARAM)",
       "authors": [
@@ -260,24 +293,6 @@
       "url": "https://doi.org/10.21203/rs.3.rs-11228871/v1",
       "themes": [
         "Mapping & remote sensing"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.15468/dd.ee5myj",
-      "title": "Global Biodiversity Information Facility filtered seagrass records in British Columbia Canada",
-      "authors": [
-        "aepark"
-      ],
-      "journal": "Global Biodiversity Information Facility",
-      "publisher_group": "Global Biodiversity Information Facility",
-      "published_date": "2026-10-28",
-      "first_seen": "2026-10-29",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.15468/dd.ee5myj",
-      "themes": [
-        "Biodiversity & ecology"
       ],
       "ai_summary": "",
       "why_it_matters": ""
