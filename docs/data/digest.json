@@ -1,38 +1,38 @@
 {
-  "generated_at": "2026-11-05T13:12:51+00:00",
+  "generated_at": "2026-11-06T12:57:35+00:00",
   "window_days": 7,
-  "new_papers": 50,
-  "newly_discovered": 295,
+  "new_papers": 49,
+  "newly_discovered": 257,
   "theme_counts": {
-    "Conservation & management": 18,
-    "Biodiversity & ecology": 15,
+    "Conservation & management": 19,
     "Climate & heat": 14,
-    "Physiology & productivity": 13,
+    "Biodiversity & ecology": 13,
     "Water quality & nutrients": 13,
     "Restoration": 12,
-    "Fisheries & fauna": 12,
+    "Physiology & productivity": 12,
+    "Fisheries & fauna": 11,
     "Blue carbon": 10,
-    "Social & economic": 7,
+    "Social & economic": 8,
+    "Mapping & remote sensing": 6,
     "Genetics & genomics": 5,
-    "Mapping & remote sensing": 5,
     "General seagrass science": 4,
     "Biogeochemistry": 4,
-    "Microbiome & disease": 3,
+    "Microbiome & disease": 2,
     "Pollution & contaminants": 1
   },
   "publisher_counts": {
     "Elsevier": 9,
+    "European Organization for Nuclear Research": 7,
     "Other / independent": 7,
-    "European Organization for Nuclear Research": 6,
-    "Springer Nature": 4,
+    "Springer Nature": 3,
     "Taylor & Francis": 3,
     "Inter-university Consortium for Political and Social Research": 3,
-    "MDPI": 2,
     "Frontiers": 2,
     "Figshare (United Kingdom)": 2,
     "Wiley": 2,
-    "Cornell University": 1,
-    "EWA Publishing": 1
+    "Universitas Hang Tuah": 1,
+    "MDPI": 1,
+    "Multidisciplinary Digital Publishing Institute": 1
   },
   "top_papers": [
     {
@@ -97,7 +97,14 @@
         "Lu X",
         "Liu G",
         "Xu L",
-        "Zhao M"
+        "Zhao M",
+        "Yu-Ge Li",
+        "Yun-Feng Shi",
+        "Xin-Yi Zheng",
+        "Xiao-Jun Lu",
+        "Guan-Hu Liu",
+        "Li-Li Xu",
+        "Mu-Qiu Zhao"
       ],
       "journal": "Physiologia Plantarum",
       "publisher_group": "Wiley",
@@ -167,6 +174,33 @@
       "themes": [
         "Climate & heat",
         "Physiology & productivity",
+        "Restoration",
+        "Water quality & nutrients"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.30649/jrkt.v8i2.165",
+      "title": "Kelimpahan epifit sebagai indikator dalam indeks ekologi kesehatan lamun: studi kasus Pantai Sanur Bali",
+      "authors": [
+        "Satya Atmaja",
+        "Ida Ayu Ngurah Deepika Ishana",
+        "Alice Aprillia",
+        "Putu Galuh Wijayanti",
+        "Dwi Nafilah Hisasmita",
+        "Fawaz Maula Abdul Wazir"
+      ],
+      "journal": "Jurnal Riset Kelautan Tropis (Journal Of Tropical Marine Research) (J-Tropimar)",
+      "publisher_group": "Universitas Hang Tuah",
+      "published_date": "2026-11-06",
+      "first_seen": "2026-11-06",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.30649/jrkt.v8i2.165",
+      "themes": [
+        "Biodiversity & ecology",
+        "Blue carbon",
+        "Conservation & management",
         "Restoration",
         "Water quality & nutrients"
       ],
@@ -293,45 +327,6 @@
       "url": "https://doi.org/10.21203/rs.3.rs-11228871/v1",
       "themes": [
         "Mapping & remote sensing"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.1038/s41467-026-79168-3",
-      "title": "Seagrass sediment organic carbon burial rates are globally significant",
-      "authors": [
-        "Ariane Arias-Ortiz",
-        "Anna Lafratta",
-        "Phil Colarusso",
-        "James W. Fourqurean",
-        "Chuancheng Fu",
-        "Hilary Kennedy",
-        "Johannes R. Krause",
-        "Paul S. Lavery",
-        "Carmen Leiva-Dueñas",
-        "Nuria Marbà",
-        "Miguel A. Mateo",
-        "Inés Mazarrasa",
-        "Dimitris Poursanidis",
-        "Cristian Salinas",
-        "Oscar Serrano",
-        "Milica Stankovic",
-        "Nerea Piñeiro-Juncal",
-        "Axel Werner",
-        "Marlene Wesselmann",
-        "Carlos M. Duarte",
-        "Jordi Garcia-Orellana",
-        "Pere Masqué"
-      ],
-      "journal": "Nature Communications",
-      "publisher_group": "Springer Nature",
-      "published_date": "2026-11-04",
-      "first_seen": "2026-11-04",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.1038/s41467-026-79168-3",
-      "themes": [
-        "Blue carbon"
       ],
       "ai_summary": "",
       "why_it_matters": ""
