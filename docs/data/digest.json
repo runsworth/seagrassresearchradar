@@ -1,38 +1,38 @@
 {
-  "generated_at": "2026-11-06T12:57:35+00:00",
+  "generated_at": "2026-11-07T11:44:06+00:00",
   "window_days": 7,
-  "new_papers": 49,
-  "newly_discovered": 257,
+  "new_papers": 42,
+  "newly_discovered": 228,
   "theme_counts": {
-    "Conservation & management": 19,
-    "Climate & heat": 14,
-    "Biodiversity & ecology": 13,
-    "Water quality & nutrients": 13,
+    "Conservation & management": 18,
+    "Climate & heat": 13,
     "Restoration": 12,
-    "Physiology & productivity": 12,
-    "Fisheries & fauna": 11,
-    "Blue carbon": 10,
-    "Social & economic": 8,
-    "Mapping & remote sensing": 6,
-    "Genetics & genomics": 5,
-    "General seagrass science": 4,
+    "Biodiversity & ecology": 11,
+    "Water quality & nutrients": 11,
+    "Blue carbon": 9,
+    "Fisheries & fauna": 8,
+    "Physiology & productivity": 8,
+    "Genetics & genomics": 6,
+    "General seagrass science": 6,
+    "Social & economic": 6,
+    "Mapping & remote sensing": 4,
     "Biogeochemistry": 4,
-    "Microbiome & disease": 2,
-    "Pollution & contaminants": 1
+    "Pollution & contaminants": 2,
+    "Microbiome & disease": 2
   },
   "publisher_counts": {
     "Elsevier": 9,
-    "European Organization for Nuclear Research": 7,
-    "Other / independent": 7,
-    "Springer Nature": 3,
+    "European Organization for Nuclear Research": 5,
+    "Other / independent": 5,
+    "Wiley": 3,
     "Taylor & Francis": 3,
-    "Inter-university Consortium for Political and Social Research": 3,
+    "University of California San Diego": 2,
+    "Multidisciplinary Digital Publishing Institute": 2,
     "Frontiers": 2,
-    "Figshare (United Kingdom)": 2,
-    "Wiley": 2,
+    "Springer Nature": 2,
+    "Canadian Science Publishing": 1,
     "Universitas Hang Tuah": 1,
-    "MDPI": 1,
-    "Multidisciplinary Digital Publishing Institute": 1
+    "Figshare (United Kingdom)": 1
   },
   "top_papers": [
     {
@@ -230,25 +230,6 @@
       "why_it_matters": ""
     },
     {
-      "uid": "10.3886/e258320",
-      "title": "Kaldy-underlying data for application of NPI to tropical seagrasses",
-      "authors": [
-        "Environmental Protection Agency"
-      ],
-      "journal": "ICPSR Data Holdings",
-      "publisher_group": "Inter-university Consortium for Political and Social Research",
-      "published_date": "2026-10-30",
-      "first_seen": "2026-11-01",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.3886/e258320",
-      "themes": [
-        "Water quality & nutrients",
-        "Physiology & productivity"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
       "uid": "10.3390/plants15213440",
       "title": "Genome-Wide Identification of the NAC Gene Family and Expression Analysis Under Contrasting Salinity in Zostera marina L.",
       "authors": [
@@ -261,7 +242,7 @@
         "Xinfang Lv"
       ],
       "journal": "Plants",
-      "publisher_group": "MDPI",
+      "publisher_group": "Multidisciplinary Digital Publishing Institute",
       "published_date": "2026-11-05",
       "first_seen": "2026-11-05",
       "discovery_type": "new_publication",
@@ -305,28 +286,69 @@
       "why_it_matters": ""
     },
     {
-      "uid": "10.21203/rs.3.rs-11228871/v1",
-      "title": "Spatial Distribution and Quantitative Assessment of Seagrass Meadows in the Marine National Park and Sanctuary, Gujarat, India",
+      "uid": "10.1038/s41467-026-79168-3",
+      "title": "Seagrass sediment organic carbon burial rates are globally significant",
       "authors": [
-        "Vinesh Gamit",
-        "Sandeep B. Munjpara",
-        "NITIN PATEL",
-        "Amitkumar Nayak",
-        "B.P. Piat",
-        "Gamit V",
-        "Munjpara S",
-        "Patel N",
-        "Nayak A",
-        "Piat B"
+        "Ariane Arias‐Ortiz",
+        "Anna Lafratta",
+        "Phil Colarusso",
+        "James W. Fourqurean",
+        "Chuancheng Fu",
+        "Hilary Kennedy",
+        "Johannes Renke Krause",
+        "Paul S. Lavery",
+        "Carmen Leiva Dueñas",
+        "Núria Marbà",
+        "Miguel Á. Mateo",
+        "Inés Mazarrasa",
+        "Dimitris Poursanidis",
+        "Cristian Salinas",
+        "Óscar Serrano",
+        "Milica Stankovic",
+        "Nerea Piñeiro",
+        "Axel Werner",
+        "Marlene Wesselmann",
+        "Carlos Manuel Duarte",
+        "Jordi García-Orellana",
+        "Pere Masqué",
+        "Ariane Arias-Ortiz",
+        "Johannes R. Krause",
+        "Carmen Leiva-Dueñas",
+        "Nuria Marbà",
+        "Miguel A. Mateo",
+        "Oscar Serrano",
+        "Nerea Piñeiro-Juncal",
+        "Carlos M. Duarte"
       ],
-      "journal": "Research Square",
-      "publisher_group": "Other / independent",
-      "published_date": "2026-10-30",
-      "first_seen": "2026-10-31",
+      "journal": "Nature Communications",
+      "publisher_group": "Springer Nature",
+      "published_date": "2026-11-04",
+      "first_seen": "2026-11-04",
       "discovery_type": "new_publication",
-      "url": "https://doi.org/10.21203/rs.3.rs-11228871/v1",
+      "url": "https://doi.org/10.1038/s41467-026-79168-3",
       "themes": [
-        "Mapping & remote sensing"
+        "Blue carbon"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.54254/2755-2721/2027.ma38627",
+      "title": "Effects of Ocean Acidification on Seagrass Ecosystems",
+      "authors": [
+        "Ruizha Bahetijiang"
+      ],
+      "journal": "Applied and Computational Engineering",
+      "publisher_group": "EWA Publishing",
+      "published_date": "2026-11-03",
+      "first_seen": "2026-11-03",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.54254/2755-2721/2027.ma38627",
+      "themes": [
+        "Biodiversity & ecology",
+        "Blue carbon",
+        "Climate & heat",
+        "Physiology & productivity"
       ],
       "ai_summary": "",
       "why_it_matters": ""
