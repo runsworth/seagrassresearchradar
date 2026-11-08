@@ -1,38 +1,38 @@
 {
-  "generated_at": "2026-11-07T11:44:06+00:00",
+  "generated_at": "2026-11-08T11:56:24+00:00",
   "window_days": 7,
   "new_papers": 42,
-  "newly_discovered": 228,
+  "newly_discovered": 216,
   "theme_counts": {
-    "Conservation & management": 18,
-    "Climate & heat": 13,
-    "Restoration": 12,
-    "Biodiversity & ecology": 11,
+    "Conservation & management": 17,
+    "Biodiversity & ecology": 13,
+    "Climate & heat": 12,
     "Water quality & nutrients": 11,
-    "Blue carbon": 9,
-    "Fisheries & fauna": 8,
+    "Restoration": 11,
+    "Blue carbon": 10,
     "Physiology & productivity": 8,
+    "Fisheries & fauna": 8,
     "Genetics & genomics": 6,
-    "General seagrass science": 6,
     "Social & economic": 6,
-    "Mapping & remote sensing": 4,
+    "General seagrass science": 5,
     "Biogeochemistry": 4,
-    "Pollution & contaminants": 2,
-    "Microbiome & disease": 2
+    "Microbiome & disease": 3,
+    "Mapping & remote sensing": 3,
+    "Pollution & contaminants": 2
   },
   "publisher_counts": {
-    "Elsevier": 9,
-    "European Organization for Nuclear Research": 5,
-    "Other / independent": 5,
+    "Elsevier": 8,
+    "Other / independent": 6,
+    "European Organization for Nuclear Research": 4,
     "Wiley": 3,
-    "Taylor & Francis": 3,
     "University of California San Diego": 2,
     "Multidisciplinary Digital Publishing Institute": 2,
     "Frontiers": 2,
     "Springer Nature": 2,
-    "Canadian Science Publishing": 1,
-    "Universitas Hang Tuah": 1,
-    "Figshare (United Kingdom)": 1
+    "Taylor & Francis": 2,
+    "National University, Costa Rica": 1,
+    "Inter-university Consortium for Political and Social Research": 1,
+    "AkiNik Publications": 1
   },
   "top_papers": [
     {
@@ -122,32 +122,6 @@
       "why_it_matters": ""
     },
     {
-      "uid": "10.1002/nzm2.70088",
-      "title": "Environmental Cues Driving Germination of Zostera muelleri : Critical Steps Towards Seed‐Based Seagrass Restoration in Aotearoa New Zealand",
-      "authors": [
-        "Eleanor Brettle",
-        "Dana E. Clark",
-        "Anna Berthelsen",
-        "Joanne I. Ellis",
-        "Hazel R. Needham",
-        "D. Clark",
-        "H. Needham"
-      ],
-      "journal": "New Zealand Journal of Marine and Freshwater Research",
-      "publisher_group": "Taylor & Francis",
-      "published_date": "2026-10-31",
-      "first_seen": "2026-11-01",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.1002/nzm2.70088",
-      "themes": [
-        "Biogeochemistry",
-        "Climate & heat",
-        "Restoration"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
       "uid": "10.1007/s13157-026-02134-8",
       "title": "Restoration of the Seagrass Halodule uninervis: Harnessing the Strength of a Highly Tolerant Pioneer",
       "authors": [
@@ -191,8 +165,8 @@
         "Dwi Nafilah Hisasmita",
         "Fawaz Maula Abdul Wazir"
       ],
-      "journal": "Jurnal Riset Kelautan Tropis (Journal Of Tropical Marine Research) (J-Tropimar)",
-      "publisher_group": "Universitas Hang Tuah",
+      "journal": "Jurnal Riset Kelautan Tropis (Journal of Tropical Marine Research) (J-Tropimar)",
+      "publisher_group": "Hang Tuah University",
       "published_date": "2026-11-06",
       "first_seen": "2026-11-06",
       "discovery_type": "new_publication",
@@ -349,6 +323,38 @@
         "Blue carbon",
         "Climate & heat",
         "Physiology & productivity"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.32942/x2x123",
+      "title": "Recognising patterns of vulnerability in a seagrass-dependent social-ecological system to support place-based management",
+      "authors": [
+        "Lucy Coals",
+        "Vedharajan Balaji",
+        "Gunasekaran Sundaram",
+        "Olivia Fernando",
+        "Simon Selvaraj",
+        "Benjamin L. Jones",
+        "Coals L",
+        "Balaji V",
+        "Sundaram G",
+        "Fernando O",
+        "Selvaraj S",
+        "Jones B"
+      ],
+      "journal": "",
+      "publisher_group": "Other / independent",
+      "published_date": "2026-11-02",
+      "first_seen": "2026-11-03",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.32942/x2x123",
+      "themes": [
+        "Biodiversity & ecology",
+        "Conservation & management",
+        "Fisheries & fauna",
+        "Social & economic"
       ],
       "ai_summary": "",
       "why_it_matters": ""
