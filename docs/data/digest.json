@@ -1,70 +1,74 @@
 {
-  "generated_at": "2026-11-09T13:54:50+00:00",
+  "generated_at": "2026-11-10T13:28:36+00:00",
   "window_days": 7,
-  "new_papers": 33,
-  "newly_discovered": 175,
+  "new_papers": 31,
+  "newly_discovered": 172,
   "theme_counts": {
-    "Conservation & management": 14,
-    "Biodiversity & ecology": 13,
-    "Fisheries & fauna": 9,
+    "Biodiversity & ecology": 12,
+    "Conservation & management": 11,
+    "Blue carbon": 10,
     "Water quality & nutrients": 9,
-    "Restoration": 7,
-    "Climate & heat": 7,
-    "Blue carbon": 7,
+    "Fisheries & fauna": 8,
     "Social & economic": 6,
+    "Physiology & productivity": 6,
+    "Restoration": 6,
+    "Climate & heat": 5,
     "General seagrass science": 5,
-    "Genetics & genomics": 4,
-    "Physiology & productivity": 4,
-    "Biogeochemistry": 3,
-    "Mapping & remote sensing": 3,
+    "Biogeochemistry": 2,
     "Microbiome & disease": 2,
-    "Pollution & contaminants": 2
+    "Pollution & contaminants": 2,
+    "Mapping & remote sensing": 2,
+    "Genetics & genomics": 2
   },
   "publisher_counts": {
-    "Elsevier": 5,
-    "Other / independent": 5,
-    "European Organization for Nuclear Research": 4,
+    "Other / independent": 7,
+    "Elsevier": 3,
     "University of California San Diego": 2,
+    "European Organization for Nuclear Research": 2,
     "Multidisciplinary Digital Publishing Institute": 2,
-    "Springer Nature": 2,
     "Taylor & Francis": 2,
+    "Universitas Maritim Raja Ali Haji": 1,
+    "MDPI": 1,
     "Frontiers": 1,
     "National University, Costa Rica": 1,
     "Inter-university Consortium for Political and Social Research": 1,
-    "Canadian Science Publishing": 1,
-    "Hang Tuah University": 1
+    "Canadian Science Publishing": 1
   },
   "top_papers": [
     {
-      "uid": "10.1007/s13157-026-02134-8",
-      "title": "Restoration of the Seagrass Halodule uninervis: Harnessing the Strength of a Highly Tolerant Pioneer",
+      "uid": "10.5194/egusphere-2026-4232-ac2",
+      "title": "Response to Anonymous Referee #2",
       "authors": [
-        "Conor MacDonnell",
-        "P.L.A. Erftemeijer",
-        "Charles Cadier",
-        "Cecillia Martin",
-        "Noura Al‐Mansoori",
-        "Emma Louise Jackson",
-        "Conor P. MacDonnell",
-        "Paul L. A. Erftemeijer",
-        "Noura Al-Mansoori",
-        "Emma L. Jackson",
-        "P. Erftemeijer",
-        "C. Cadier",
-        "N. Almansoori",
-        "C. Martin"
+        "Kayleigh E. Granville"
       ],
-      "journal": "Wetlands",
-      "publisher_group": "Springer Nature",
-      "published_date": "2026-11-02",
-      "first_seen": "2026-11-03",
+      "journal": "",
+      "publisher_group": "Other / independent",
+      "published_date": "2026-11-08",
+      "first_seen": "2026-11-10",
       "discovery_type": "new_publication",
-      "url": "https://doi.org/10.1007/s13157-026-02134-8",
+      "url": "https://doi.org/10.5194/egusphere-2026-4232-ac2",
       "themes": [
-        "Climate & heat",
-        "Physiology & productivity",
-        "Restoration",
-        "Water quality & nutrients"
+        "Blue carbon",
+        "Physiology & productivity"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.5194/egusphere-2026-4232-ac1",
+      "title": "Response to Anonymous Referee #1",
+      "authors": [
+        "Kayleigh E. Granville"
+      ],
+      "journal": "",
+      "publisher_group": "Other / independent",
+      "published_date": "2026-11-08",
+      "first_seen": "2026-11-10",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.5194/egusphere-2026-4232-ac1",
+      "themes": [
+        "Blue carbon",
+        "Physiology & productivity"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -243,38 +247,6 @@
       "why_it_matters": ""
     },
     {
-      "uid": "10.32942/x2x123",
-      "title": "Recognising patterns of vulnerability in a seagrass-dependent social-ecological system to support place-based management",
-      "authors": [
-        "Lucy Coals",
-        "Vedharajan Balaji",
-        "Gunasekaran Sundaram",
-        "Olivia Fernando",
-        "Simon Selvaraj",
-        "Benjamin L. Jones",
-        "Coals L",
-        "Balaji V",
-        "Sundaram G",
-        "Fernando O",
-        "Selvaraj S",
-        "Jones B"
-      ],
-      "journal": "",
-      "publisher_group": "Other / independent",
-      "published_date": "2026-11-02",
-      "first_seen": "2026-11-03",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.32942/x2x123",
-      "themes": [
-        "Biodiversity & ecology",
-        "Conservation & management",
-        "Fisheries & fauna",
-        "Social & economic"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
       "uid": "10.13140/rg.2.2.21250.85445",
       "title": "Genomic data reveal low genetic diversity in eelgrass (Zostera marina) in northern Norway",
       "authors": [
@@ -299,31 +271,31 @@
       "why_it_matters": ""
     },
     {
-      "uid": "10.1016/j.biocon.2026.112163",
-      "title": "Hydrodynamic and genetic connectivity metrics help inform priorities for conservation of the eelgrass Zostera marina across spatial scales",
+      "uid": "10.15359/revmar.18-2-4",
+      "title": "Condiciones ambientales de los pastos marinos del paisaje natural protegido Rincón de Guanabo, Cuba",
       "authors": [
-        "Raphaël J.M. Clement",
-        "Martin Pierre Marzloff",
-        "Flávia L. D. Nunes",
-        "Coralie Rousseau",
-        "Ronan Becheler",
-        "Touria Bajjouk",
-        "Jérôme Fournier",
-        "Philippe Cugier",
-        "Martin P. Marzloff",
-        "Flávia L.D. Nunes",
-        "Térence Legrand",
-        "Jérôme Fournier-Sowinski"
+        "Eudalys Ortiz Guilarte",
+        "Sandra Loza Álvarez",
+        "Kethia L. González García",
+        "Yasnay Hernández-Rivera",
+        "Ayamey Perez Oduardo",
+        "Claudia Tabio García",
+        "Oralis C. Alburquerque-Brooks",
+        "Yulexi Acosta-Suárez",
+        "Roberto Rafael Núñez-Moreira",
+        "Gladys Margarita Lugioyo Gallardo"
       ],
-      "journal": "Biological Conservation",
-      "publisher_group": "Elsevier",
-      "published_date": "2026-11-02",
-      "first_seen": "2026-11-03",
+      "journal": "Revista Ciencias Marinas y Costeras",
+      "publisher_group": "National University, Costa Rica",
+      "published_date": "2026-11-06",
+      "first_seen": "2026-11-08",
       "discovery_type": "new_publication",
-      "url": "https://doi.org/10.1016/j.biocon.2026.112163",
+      "url": "https://doi.org/10.15359/revmar.18-2-4",
       "themes": [
-        "Conservation & management",
-        "Genetics & genomics"
+        "Biodiversity & ecology",
+        "Biogeochemistry",
+        "Microbiome & disease",
+        "Water quality & nutrients"
       ],
       "ai_summary": "",
       "why_it_matters": ""
