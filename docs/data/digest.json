@@ -1,38 +1,38 @@
 {
-  "generated_at": "2026-11-10T13:28:36+00:00",
+  "generated_at": "2026-11-11T12:43:38+00:00",
   "window_days": 7,
-  "new_papers": 31,
-  "newly_discovered": 172,
+  "new_papers": 32,
+  "newly_discovered": 145,
   "theme_counts": {
-    "Biodiversity & ecology": 12,
+    "Biodiversity & ecology": 11,
     "Conservation & management": 11,
-    "Blue carbon": 10,
-    "Water quality & nutrients": 9,
+    "Blue carbon": 9,
+    "Water quality & nutrients": 8,
     "Fisheries & fauna": 8,
-    "Social & economic": 6,
+    "Climate & heat": 6,
     "Physiology & productivity": 6,
-    "Restoration": 6,
-    "Climate & heat": 5,
-    "General seagrass science": 5,
+    "Restoration": 5,
+    "Social & economic": 5,
+    "General seagrass science": 4,
+    "Pollution & contaminants": 3,
+    "Mapping & remote sensing": 3,
+    "Genetics & genomics": 2,
     "Biogeochemistry": 2,
-    "Microbiome & disease": 2,
-    "Pollution & contaminants": 2,
-    "Mapping & remote sensing": 2,
-    "Genetics & genomics": 2
+    "Microbiome & disease": 2
   },
   "publisher_counts": {
-    "Other / independent": 7,
-    "Elsevier": 3,
+    "European Organization for Nuclear Research": 5,
+    "Other / independent": 5,
+    "Elsevier": 4,
     "University of California San Diego": 2,
-    "European Organization for Nuclear Research": 2,
     "Multidisciplinary Digital Publishing Institute": 2,
     "Taylor & Francis": 2,
+    "University of Genoa": 1,
+    "Wiley": 1,
+    "UNS Solo": 1,
     "Universitas Maritim Raja Ali Haji": 1,
     "MDPI": 1,
-    "Frontiers": 1,
-    "National University, Costa Rica": 1,
-    "Inter-university Consortium for Political and Social Research": 1,
-    "Canadian Science Publishing": 1
+    "National University, Costa Rica": 1
   },
   "top_papers": [
     {
@@ -82,7 +82,8 @@
         "Alice Aprillia",
         "Putu Galuh Wijayanti",
         "Dwi Nafilah Hisasmita",
-        "Fawaz Maula Abdul Wazir"
+        "Fawaz Maula Abdul Wazir",
+        "S. Atmaja"
       ],
       "journal": "Jurnal Riset Kelautan Tropis (Journal of Tropical Marine Research) (J-Tropimar)",
       "publisher_group": "Hang Tuah University",
@@ -96,6 +97,27 @@
         "Conservation & management",
         "Restoration",
         "Water quality & nutrients"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.1016/j.marpolbul.2026.120488",
+      "title": "Seagrasses and macroalgae incorporate land-derived metal pollution while limiting its transfer through estuarine food webs",
+      "authors": [
+        "Marina Benson",
+        "Javier Lloret",
+        "Daniel E. Ibarra"
+      ],
+      "journal": "Marine Pollution Bulletin",
+      "publisher_group": "Elsevier",
+      "published_date": "2027-01-01",
+      "first_seen": "2026-11-11",
+      "discovery_type": "recently_indexed",
+      "url": "https://doi.org/10.1016/j.marpolbul.2026.120488",
+      "themes": [
+        "Biodiversity & ecology",
+        "Pollution & contaminants"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -132,7 +154,12 @@
         "Qingqing Wang",
         "Pei Yu",
         "Yuchun Li",
-        "Xinfang Lv"
+        "Xinfang Lv",
+        "Lu-Jie Xie",
+        "Jie-Yun Liu",
+        "Qing-Qing Wang",
+        "Yu-Chun Li",
+        "Xin-Fang Lv"
       ],
       "journal": "Plants",
       "publisher_group": "Multidisciplinary Digital Publishing Institute",
@@ -174,6 +201,26 @@
         "Fisheries & fauna",
         "General seagrass science",
         "Water quality & nutrients"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.5281/zenodo.24080391",
+      "title": "Spatial Variation of Blue Carbon Stored in Seagrass T. hemprichii Meadows along the Coasts of Mainland Tanzania.",
+      "authors": [
+        "Liberatus Dominick Lyimo"
+      ],
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "publisher_group": "European Organization for Nuclear Research",
+      "published_date": "2026-11-09",
+      "first_seen": "2026-11-11",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.5281/zenodo.24080391",
+      "themes": [
+        "Blue carbon",
+        "Water quality & nutrients",
+        "Physiology & productivity"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -226,76 +273,28 @@
       "why_it_matters": ""
     },
     {
-      "uid": "10.54254/2755-2721/2027.ma38627",
-      "title": "Effects of Ocean Acidification on Seagrass Ecosystems",
+      "uid": "10.1111/nph.71740",
+      "title": "The evolutionary history of brackish specialization from marine ancestry in the seagrass Ruppia sinensis",
       "authors": [
-        "Ruizha Bahetijiang"
+        "Yang Zou",
+        "Lei Huang",
+        "Haocun Zhao",
+        "Ya Wang",
+        "Xiaoyong Chen",
+        "Pengchuan Sun",
+        "Xinwei Xu"
       ],
-      "journal": "Applied and Computational Engineering",
-      "publisher_group": "EWA Publishing",
-      "published_date": "2026-11-03",
-      "first_seen": "2026-11-03",
+      "journal": "New Phytologist",
+      "publisher_group": "Wiley",
+      "published_date": "2026-11-10",
+      "first_seen": "2026-11-11",
       "discovery_type": "new_publication",
-      "url": "https://doi.org/10.54254/2755-2721/2027.ma38627",
+      "url": "https://doi.org/10.1111/nph.71740",
       "themes": [
-        "Biodiversity & ecology",
-        "Blue carbon",
         "Climate & heat",
+        "Conservation & management",
+        "Genetics & genomics",
         "Physiology & productivity"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.13140/rg.2.2.21250.85445",
-      "title": "Genomic data reveal low genetic diversity in eelgrass (Zostera marina) in northern Norway",
-      "authors": [
-        "Atal Saha",
-        "S. Ries",
-        "Marlene Jahnke",
-        "Per Erik Jorde",
-        "Marte Sodeland",
-        "Halvor Knutsen",
-        "Stefanie R. Ries"
-      ],
-      "journal": "",
-      "publisher_group": "Other / independent",
-      "published_date": "2026-11-03",
-      "first_seen": "2026-11-04",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.13140/rg.2.2.21250.85445",
-      "themes": [
-        "Genetics & genomics"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.15359/revmar.18-2-4",
-      "title": "Condiciones ambientales de los pastos marinos del paisaje natural protegido Rincón de Guanabo, Cuba",
-      "authors": [
-        "Eudalys Ortiz Guilarte",
-        "Sandra Loza Álvarez",
-        "Kethia L. González García",
-        "Yasnay Hernández-Rivera",
-        "Ayamey Perez Oduardo",
-        "Claudia Tabio García",
-        "Oralis C. Alburquerque-Brooks",
-        "Yulexi Acosta-Suárez",
-        "Roberto Rafael Núñez-Moreira",
-        "Gladys Margarita Lugioyo Gallardo"
-      ],
-      "journal": "Revista Ciencias Marinas y Costeras",
-      "publisher_group": "National University, Costa Rica",
-      "published_date": "2026-11-06",
-      "first_seen": "2026-11-08",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.15359/revmar.18-2-4",
-      "themes": [
-        "Biodiversity & ecology",
-        "Biogeochemistry",
-        "Microbiome & disease",
-        "Water quality & nutrients"
       ],
       "ai_summary": "",
       "why_it_matters": ""
