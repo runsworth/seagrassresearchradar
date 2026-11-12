@@ -1,35 +1,35 @@
 {
-  "generated_at": "2026-11-11T12:43:38+00:00",
+  "generated_at": "2026-11-12T13:46:08+00:00",
   "window_days": 7,
-  "new_papers": 32,
-  "newly_discovered": 145,
+  "new_papers": 35,
+  "newly_discovered": 124,
   "theme_counts": {
     "Biodiversity & ecology": 11,
     "Conservation & management": 11,
-    "Blue carbon": 9,
-    "Water quality & nutrients": 8,
+    "General seagrass science": 8,
+    "Blue carbon": 8,
     "Fisheries & fauna": 8,
+    "Physiology & productivity": 7,
+    "Water quality & nutrients": 7,
     "Climate & heat": 6,
-    "Physiology & productivity": 6,
     "Restoration": 5,
     "Social & economic": 5,
-    "General seagrass science": 4,
+    "Genetics & genomics": 3,
+    "Microbiome & disease": 3,
+    "Biogeochemistry": 3,
     "Pollution & contaminants": 3,
-    "Mapping & remote sensing": 3,
-    "Genetics & genomics": 2,
-    "Biogeochemistry": 2,
-    "Microbiome & disease": 2
+    "Mapping & remote sensing": 3
   },
   "publisher_counts": {
-    "European Organization for Nuclear Research": 5,
+    "European Organization for Nuclear Research": 6,
     "Other / independent": 5,
+    "University of California San Diego": 4,
     "Elsevier": 4,
-    "University of California San Diego": 2,
-    "Multidisciplinary Digital Publishing Institute": 2,
+    "Wiley": 2,
     "Taylor & Francis": 2,
+    "PLOS": 1,
     "University of Genoa": 1,
-    "Wiley": 1,
-    "UNS Solo": 1,
+    "MBI & UNS Solo": 1,
     "Universitas Maritim Raja Ali Haji": 1,
     "MDPI": 1,
     "National University, Costa Rica": 1
@@ -206,6 +206,25 @@
       "why_it_matters": ""
     },
     {
+      "uid": "10.5281/zenodo.24117911",
+      "title": "Metabolism and Biomass of Lower Chesapeake Bay Seagrass Meadows",
+      "authors": [
+        "Alyson C. Hall",
+        "Christopher J. Patrick"
+      ],
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "publisher_group": "European Organization for Nuclear Research",
+      "published_date": "2026-11-10",
+      "first_seen": "2026-11-12",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.5281/zenodo.24117911",
+      "themes": [
+        "Physiology & productivity"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
       "uid": "10.5281/zenodo.24080391",
       "title": "Spatial Variation of Blue Carbon Stored in Seagrass T. hemprichii Meadows along the Coasts of Mainland Tanzania.",
       "authors": [
@@ -219,55 +238,8 @@
       "url": "https://doi.org/10.5281/zenodo.24080391",
       "themes": [
         "Blue carbon",
-        "Water quality & nutrients",
-        "Physiology & productivity"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.1038/s41467-026-79168-3",
-      "title": "Seagrass sediment organic carbon burial rates are globally significant",
-      "authors": [
-        "Ariane Arias‐Ortiz",
-        "Anna Lafratta",
-        "Phil Colarusso",
-        "James W. Fourqurean",
-        "Chuancheng Fu",
-        "Hilary Kennedy",
-        "Johannes Renke Krause",
-        "Paul S. Lavery",
-        "Carmen Leiva Dueñas",
-        "Núria Marbà",
-        "Miguel Á. Mateo",
-        "Inés Mazarrasa",
-        "Dimitris Poursanidis",
-        "Cristian Salinas",
-        "Óscar Serrano",
-        "Milica Stankovic",
-        "Nerea Piñeiro",
-        "Axel Werner",
-        "Marlene Wesselmann",
-        "Carlos Manuel Duarte",
-        "Jordi García-Orellana",
-        "Pere Masqué",
-        "Ariane Arias-Ortiz",
-        "Johannes R. Krause",
-        "Carmen Leiva-Dueñas",
-        "Nuria Marbà",
-        "Miguel A. Mateo",
-        "Oscar Serrano",
-        "Nerea Piñeiro-Juncal",
-        "Carlos M. Duarte"
-      ],
-      "journal": "Nature Communications",
-      "publisher_group": "Springer Nature",
-      "published_date": "2026-11-04",
-      "first_seen": "2026-11-04",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.1038/s41467-026-79168-3",
-      "themes": [
-        "Blue carbon"
+        "Physiology & productivity",
+        "Water quality & nutrients"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -282,7 +254,11 @@
         "Ya Wang",
         "Xiaoyong Chen",
         "Pengchuan Sun",
-        "Xinwei Xu"
+        "Xinwei Xu",
+        "Hao-Cun Zhao",
+        "Xiao-Yong Chen",
+        "Peng-Chuan Sun",
+        "Xin-Wei Xu"
       ],
       "journal": "New Phytologist",
       "publisher_group": "Wiley",
@@ -293,6 +269,7 @@
       "themes": [
         "Climate & heat",
         "Conservation & management",
+        "General seagrass science",
         "Genetics & genomics",
         "Physiology & productivity"
       ],
