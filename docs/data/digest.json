@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-11-12T13:46:08+00:00",
+  "generated_at": "2026-11-13T13:07:27+00:00",
   "window_days": 7,
-  "new_papers": 35,
+  "new_papers": 30,
   "newly_discovered": 124,
   "theme_counts": {
-    "Biodiversity & ecology": 11,
     "Conservation & management": 11,
-    "General seagrass science": 8,
-    "Blue carbon": 8,
-    "Fisheries & fauna": 8,
+    "Biodiversity & ecology": 10,
     "Physiology & productivity": 7,
     "Water quality & nutrients": 7,
-    "Climate & heat": 6,
-    "Restoration": 5,
-    "Social & economic": 5,
-    "Genetics & genomics": 3,
-    "Microbiome & disease": 3,
+    "Blue carbon": 7,
+    "Fisheries & fauna": 7,
+    "General seagrass science": 6,
+    "Restoration": 6,
+    "Climate & heat": 5,
+    "Social & economic": 4,
     "Biogeochemistry": 3,
-    "Pollution & contaminants": 3,
-    "Mapping & remote sensing": 3
+    "Genetics & genomics": 2,
+    "Microbiome & disease": 2,
+    "Pollution & contaminants": 2,
+    "Mapping & remote sensing": 2
   },
   "publisher_counts": {
-    "European Organization for Nuclear Research": 6,
+    "European Organization for Nuclear Research": 5,
     "Other / independent": 5,
-    "University of California San Diego": 4,
     "Elsevier": 4,
     "Wiley": 2,
+    "University of California San Diego": 2,
     "Taylor & Francis": 2,
     "PLOS": 1,
     "University of Genoa": 1,
@@ -35,6 +35,38 @@
     "National University, Costa Rica": 1
   },
   "top_papers": [
+    {
+      "uid": "10.1016/j.marpolbul.2026.120488",
+      "title": "Seagrasses and macroalgae incorporate land-derived metal pollution while limiting its transfer through estuarine food webs",
+      "authors": [
+        "M. C. Benson",
+        "Javier Lloret",
+        "Daniel Enrique Ibarra",
+        "Marina Benson",
+        "Daniel E. Ibarra",
+        "Benson M",
+        "Lloret J",
+        "Ibarra DE",
+        "M. Benson",
+        "J. Lloret",
+        "D. Ibarra"
+      ],
+      "journal": "Marine Pollution Bulletin",
+      "publisher_group": "Elsevier",
+      "published_date": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.1016/j.marpolbul.2026.120488",
+      "themes": [
+        "Biodiversity & ecology",
+        "Conservation & management",
+        "Pollution & contaminants",
+        "Restoration",
+        "Water quality & nutrients"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
     {
       "uid": "10.5194/egusphere-2026-4232-ac2",
       "title": "Response to Anonymous Referee #2",
@@ -102,27 +134,6 @@
       "why_it_matters": ""
     },
     {
-      "uid": "10.1016/j.marpolbul.2026.120488",
-      "title": "Seagrasses and macroalgae incorporate land-derived metal pollution while limiting its transfer through estuarine food webs",
-      "authors": [
-        "Marina Benson",
-        "Javier Lloret",
-        "Daniel E. Ibarra"
-      ],
-      "journal": "Marine Pollution Bulletin",
-      "publisher_group": "Elsevier",
-      "published_date": "2027-01-01",
-      "first_seen": "2026-11-11",
-      "discovery_type": "recently_indexed",
-      "url": "https://doi.org/10.1016/j.marpolbul.2026.120488",
-      "themes": [
-        "Biodiversity & ecology",
-        "Pollution & contaminants"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
       "uid": "13d83b41bf327d23805b",
       "title": "Seagrasses (Zosteraceae And Ruppiaceae) In Russia: Distribution, Diversity, Prospects For Further Research",
       "authors": [
@@ -140,35 +151,6 @@
       "url": "https://ges.rgo.ru/jour/article/view/4463",
       "themes": [
         "Mapping & remote sensing"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.3390/plants15213440",
-      "title": "Genome-Wide Identification of the NAC Gene Family and Expression Analysis Under Contrasting Salinity in Zostera marina L.",
-      "authors": [
-        "Lujie Xie",
-        "Jie Liu",
-        "Hui Zhang",
-        "Qingqing Wang",
-        "Pei Yu",
-        "Yuchun Li",
-        "Xinfang Lv",
-        "Lu-Jie Xie",
-        "Jie-Yun Liu",
-        "Qing-Qing Wang",
-        "Yu-Chun Li",
-        "Xin-Fang Lv"
-      ],
-      "journal": "Plants",
-      "publisher_group": "Multidisciplinary Digital Publishing Institute",
-      "published_date": "2026-11-05",
-      "first_seen": "2026-11-05",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.3390/plants15213440",
-      "themes": [
-        "Genetics & genomics"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -258,7 +240,14 @@
         "Hao-Cun Zhao",
         "Xiao-Yong Chen",
         "Peng-Chuan Sun",
-        "Xin-Wei Xu"
+        "Xin-Wei Xu",
+        "Zou Y",
+        "Huang L",
+        "Zhao H",
+        "Wang Y",
+        "Chen X",
+        "Sun P",
+        "Xu X"
       ],
       "journal": "New Phytologist",
       "publisher_group": "Wiley",
@@ -272,6 +261,43 @@
         "General seagrass science",
         "Genetics & genomics",
         "Physiology & productivity"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.15359/revmar.18-2-4",
+      "title": "Condiciones ambientales de los pastos marinos del paisaje natural protegido Rincón de Guanabo, Cuba",
+      "authors": [
+        "Eudalys Ortiz Guilarte",
+        "Sandra Loza Álvarez",
+        "Kethia L. González García",
+        "Yasnay Hernández-Rivera",
+        "Ayamey Perez Oduardo",
+        "Claudia Tabio García",
+        "Oralis C. Alburquerque-Brooks",
+        "Yulexi Acosta-Suárez",
+        "Roberto Rafael Núñez-Moreira",
+        "Gladys Margarita Lugioyo Gallardo",
+        "Eudalys Ortiz-Guilarte",
+        "Sandra Loza-Álvarez",
+        "Kethia González García",
+        "Ayamey Pérez Oduardo",
+        "Claudia Tabio-García",
+        "Roberto Núñez Moreira",
+        "Gladys Margarita Lugioyo-Gallardo"
+      ],
+      "journal": "Revista Ciencias Marinas y Costeras",
+      "publisher_group": "National University, Costa Rica",
+      "published_date": "2026-11-06",
+      "first_seen": "2026-11-08",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.15359/revmar.18-2-4",
+      "themes": [
+        "Biodiversity & ecology",
+        "Biogeochemistry",
+        "Microbiome & disease",
+        "Water quality & nutrients"
       ],
       "ai_summary": "",
       "why_it_matters": ""
