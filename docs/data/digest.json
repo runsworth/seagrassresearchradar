@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-11-14T12:11:43+00:00",
+  "generated_at": "2026-11-15T12:44:44+00:00",
   "window_days": 7,
-  "new_papers": 28,
-  "newly_discovered": 136,
+  "new_papers": 31,
+  "newly_discovered": 134,
   "theme_counts": {
+    "Biodiversity & ecology": 11,
+    "Conservation & management": 10,
+    "Fisheries & fauna": 9,
     "Physiology & productivity": 9,
-    "Conservation & management": 9,
-    "Biodiversity & ecology": 8,
-    "Fisheries & fauna": 8,
-    "Blue carbon": 7,
+    "Restoration": 8,
+    "Blue carbon": 8,
+    "Water quality & nutrients": 7,
+    "Climate & heat": 7,
+    "Social & economic": 6,
     "General seagrass science": 6,
-    "Water quality & nutrients": 6,
-    "Restoration": 6,
-    "Social & economic": 5,
-    "Climate & heat": 5,
+    "Mapping & remote sensing": 4,
     "Pollution & contaminants": 3,
-    "Mapping & remote sensing": 2,
     "Genetics & genomics": 1,
     "Biogeochemistry": 1
   },
   "publisher_counts": {
     "European Organization for Nuclear Research": 6,
-    "Elsevier": 4,
-    "Other / independent": 3,
+    "Elsevier": 5,
+    "Other / independent": 4,
     "University of California San Diego": 2,
     "Taylor & Francis": 2,
+    "Frontiers": 1,
     "Natural Sciences Publishing": 1,
     "Multidisciplinary Digital Publishing Institute": 1,
     "Figshare (United Kingdom)": 1,
     "PLOS": 1,
     "University of Genoa": 1,
-    "Wiley": 1,
-    "MBI & UNS Solo": 1
+    "Wiley": 1
   },
   "top_papers": [
     {
@@ -236,6 +236,29 @@
       "why_it_matters": ""
     },
     {
+      "uid": "10.1117/12.3119094",
+      "title": "Mapping eelgrass meadows and macroalgae in Swedish coastal areas - Earth observation in support of blue carbon research",
+      "authors": [
+        "Susanne Kratzer",
+        "Maria E. Asplund",
+        "Samantha Lavender"
+      ],
+      "journal": "",
+      "publisher_group": "Other / independent",
+      "published_date": "2026-11-13",
+      "first_seen": "2026-11-15",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.1117/12.3119094",
+      "themes": [
+        "Blue carbon",
+        "Biodiversity & ecology",
+        "Mapping & remote sensing",
+        "Water quality & nutrients"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
       "uid": "10.1111/nph.71740",
       "title": "The evolutionary history of brackish specialization from marine ancestry in the seagrass Ruppia sinensis",
       "authors": [
@@ -270,29 +293,6 @@
         "General seagrass science",
         "Genetics & genomics",
         "Physiology & productivity"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.31629/jmps.v3i3.8748",
-      "title": "Marine Spatial Use Control, Blue Carbon, and Maritime Security in Indonesia: A Scoping Review",
-      "authors": [
-        "Yeni Rahmawati",
-        "Muhammad Risahdi",
-        "Ferdinand Hasudungan Siagian"
-      ],
-      "journal": "Journal of Maritime Policy Science",
-      "publisher_group": "Universitas Maritim Raja Ali Haji",
-      "published_date": "2026-12-01",
-      "first_seen": "2026-11-10",
-      "discovery_type": "recently_indexed",
-      "url": "https://doi.org/10.31629/jmps.v3i3.8748",
-      "themes": [
-        "Blue carbon",
-        "Climate & heat",
-        "Conservation & management",
-        "Social & economic"
       ],
       "ai_summary": "",
       "why_it_matters": ""
