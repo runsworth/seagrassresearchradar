@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-11-15T12:44:44+00:00",
+  "generated_at": "2026-11-16T13:39:45+00:00",
   "window_days": 7,
-  "new_papers": 31,
-  "newly_discovered": 134,
+  "new_papers": 33,
+  "newly_discovered": 129,
   "theme_counts": {
-    "Biodiversity & ecology": 11,
-    "Conservation & management": 10,
-    "Fisheries & fauna": 9,
-    "Physiology & productivity": 9,
-    "Restoration": 8,
-    "Blue carbon": 8,
-    "Water quality & nutrients": 7,
+    "Biodiversity & ecology": 13,
+    "Conservation & management": 13,
+    "Physiology & productivity": 11,
+    "Water quality & nutrients": 10,
+    "Restoration": 10,
+    "Blue carbon": 9,
+    "Fisheries & fauna": 8,
     "Climate & heat": 7,
     "Social & economic": 6,
     "General seagrass science": 6,
+    "Pollution & contaminants": 4,
     "Mapping & remote sensing": 4,
-    "Pollution & contaminants": 3,
-    "Genetics & genomics": 1,
-    "Biogeochemistry": 1
+    "Biogeochemistry": 2,
+    "Genetics & genomics": 1
   },
   "publisher_counts": {
     "European Organization for Nuclear Research": 6,
     "Elsevier": 5,
     "Other / independent": 4,
+    "Frontiers": 2,
+    "MDPI": 2,
+    "University of Genoa": 2,
     "University of California San Diego": 2,
     "Taylor & Francis": 2,
-    "Frontiers": 1,
     "Natural Sciences Publishing": 1,
     "Multidisciplinary Digital Publishing Institute": 1,
     "Figshare (United Kingdom)": 1,
-    "PLOS": 1,
-    "University of Genoa": 1,
-    "Wiley": 1
+    "PLOS": 1
   },
   "top_papers": [
     {
@@ -67,36 +67,17 @@
       "why_it_matters": ""
     },
     {
-      "uid": "10.5194/egusphere-2026-4232-ac2",
-      "title": "Response to Anonymous Referee #2",
+      "uid": "10.5194/egusphere-2026-4232-ac3",
+      "title": "Reply to Anonymous Referee #3",
       "authors": [
         "Kayleigh E. Granville"
       ],
       "journal": "",
       "publisher_group": "Other / independent",
-      "published_date": "2026-11-08",
-      "first_seen": "2026-11-10",
+      "published_date": "2026-11-13",
+      "first_seen": "2026-11-16",
       "discovery_type": "new_publication",
-      "url": "https://doi.org/10.5194/egusphere-2026-4232-ac2",
-      "themes": [
-        "Blue carbon",
-        "Physiology & productivity"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.5194/egusphere-2026-4232-ac1",
-      "title": "Response to Anonymous Referee #1",
-      "authors": [
-        "Kayleigh E. Granville"
-      ],
-      "journal": "",
-      "publisher_group": "Other / independent",
-      "published_date": "2026-11-08",
-      "first_seen": "2026-11-10",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.5194/egusphere-2026-4232-ac1",
+      "url": "https://doi.org/10.5194/egusphere-2026-4232-ac3",
       "themes": [
         "Blue carbon",
         "Physiology & productivity"
@@ -125,7 +106,13 @@
         "Yu Zhang",
         "Xiaomei Zhang",
         "Shaochun Xu",
-        "Yi Zhou"
+        "Yi Zhou",
+        "Xin-Hua Wang",
+        "S. Yue",
+        "Ming-Jie Liu",
+        "Yi-Jia Zhao",
+        "Xiao-Mei Zhang",
+        "Shao-Chun Xu"
       ],
       "journal": "Ecotoxicology and environmental safety",
       "publisher_group": "Elsevier",
@@ -236,6 +223,55 @@
       "why_it_matters": ""
     },
     {
+      "uid": "10.70102/aeef/v4i4/af260414",
+      "title": "Seasonal Variation in Seagrass Epiphyte Communities and their Contribution to Coastal Primary Productivity",
+      "authors": [
+        "Jonas Keller",
+        "Sophie Wagner"
+      ],
+      "journal": "Aquatic Ecosystems and Environmental Frontiers",
+      "publisher_group": "Frontiers",
+      "published_date": "2026-12-30",
+      "first_seen": "2026-11-16",
+      "discovery_type": "recently_indexed",
+      "url": "https://doi.org/10.70102/aeef/v4i4/af260414",
+      "themes": [
+        "Climate & heat",
+        "Blue carbon",
+        "Biodiversity & ecology",
+        "Water quality & nutrients",
+        "Physiology & productivity"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.1016/j.ecoleng.2026.108204",
+      "title": "Biodegradable sediment-filled tubes provide effective seagrass restoration for boat propeller scars",
+      "authors": [
+        "Enie Hensel",
+        "Shelby C. Thomas",
+        "Conor MacDonnell",
+        "Laura K. Reynolds",
+        "Joshua T. Patterson",
+        "Savanna C. Barry"
+      ],
+      "journal": "Ecological Engineering",
+      "publisher_group": "Elsevier",
+      "published_date": "2026-11-14",
+      "first_seen": "2026-11-15",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.1016/j.ecoleng.2026.108204",
+      "themes": [
+        "Biodiversity & ecology",
+        "Conservation & management",
+        "Restoration",
+        "Water quality & nutrients"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
       "uid": "10.1117/12.3119094",
       "title": "Mapping eelgrass meadows and macroalgae in Swedish coastal areas - Earth observation in support of blue carbon research",
       "authors": [
@@ -250,49 +286,10 @@
       "discovery_type": "new_publication",
       "url": "https://doi.org/10.1117/12.3119094",
       "themes": [
-        "Blue carbon",
         "Biodiversity & ecology",
+        "Blue carbon",
         "Mapping & remote sensing",
         "Water quality & nutrients"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.1111/nph.71740",
-      "title": "The evolutionary history of brackish specialization from marine ancestry in the seagrass Ruppia sinensis",
-      "authors": [
-        "Yang Zou",
-        "Lei Huang",
-        "Haocun Zhao",
-        "Ya Wang",
-        "Xiaoyong Chen",
-        "Pengchuan Sun",
-        "Xinwei Xu",
-        "Hao-Cun Zhao",
-        "Xiao-Yong Chen",
-        "Peng-Chuan Sun",
-        "Xin-Wei Xu",
-        "Zou Y",
-        "Huang L",
-        "Zhao H",
-        "Wang Y",
-        "Chen X",
-        "Sun P",
-        "Xu X"
-      ],
-      "journal": "New Phytologist",
-      "publisher_group": "Wiley",
-      "published_date": "2026-11-10",
-      "first_seen": "2026-11-11",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.1111/nph.71740",
-      "themes": [
-        "Climate & heat",
-        "Conservation & management",
-        "General seagrass science",
-        "Genetics & genomics",
-        "Physiology & productivity"
       ],
       "ai_summary": "",
       "why_it_matters": ""
