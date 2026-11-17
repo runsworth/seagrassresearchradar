@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-11-16T13:39:45+00:00",
+  "generated_at": "2026-11-17T14:25:17+00:00",
   "window_days": 7,
-  "new_papers": 33,
-  "newly_discovered": 129,
+  "new_papers": 30,
+  "newly_discovered": 145,
   "theme_counts": {
-    "Biodiversity & ecology": 13,
-    "Conservation & management": 13,
-    "Physiology & productivity": 11,
-    "Water quality & nutrients": 10,
-    "Restoration": 10,
-    "Blue carbon": 9,
-    "Fisheries & fauna": 8,
+    "Biodiversity & ecology": 12,
+    "Conservation & management": 12,
+    "Physiology & productivity": 10,
+    "Water quality & nutrients": 9,
+    "Blue carbon": 8,
+    "Restoration": 8,
     "Climate & heat": 7,
-    "Social & economic": 6,
+    "Fisheries & fauna": 7,
     "General seagrass science": 6,
+    "Mapping & remote sensing": 5,
+    "Social & economic": 5,
     "Pollution & contaminants": 4,
-    "Mapping & remote sensing": 4,
     "Biogeochemistry": 2,
     "Genetics & genomics": 1
   },
   "publisher_counts": {
-    "European Organization for Nuclear Research": 6,
-    "Elsevier": 5,
+    "Elsevier": 6,
     "Other / independent": 4,
+    "European Organization for Nuclear Research": 3,
     "Frontiers": 2,
     "MDPI": 2,
-    "University of Genoa": 2,
     "University of California San Diego": 2,
     "Taylor & Francis": 2,
     "Natural Sciences Publishing": 1,
     "Multidisciplinary Digital Publishing Institute": 1,
     "Figshare (United Kingdom)": 1,
-    "PLOS": 1
+    "PLOS": 1,
+    "University of Genoa": 1
   },
   "top_papers": [
     {
@@ -203,26 +203,6 @@
       "why_it_matters": ""
     },
     {
-      "uid": "10.5281/zenodo.24080391",
-      "title": "Spatial Variation of Blue Carbon Stored in Seagrass T. hemprichii Meadows along the Coasts of Mainland Tanzania.",
-      "authors": [
-        "Liberatus Dominick Lyimo"
-      ],
-      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
-      "publisher_group": "European Organization for Nuclear Research",
-      "published_date": "2026-11-09",
-      "first_seen": "2026-11-11",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.5281/zenodo.24080391",
-      "themes": [
-        "Blue carbon",
-        "Physiology & productivity",
-        "Water quality & nutrients"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
       "uid": "10.70102/aeef/v4i4/af260414",
       "title": "Seasonal Variation in Seagrass Epiphyte Communities and their Contribution to Coastal Primary Productivity",
       "authors": [
@@ -236,11 +216,11 @@
       "discovery_type": "recently_indexed",
       "url": "https://doi.org/10.70102/aeef/v4i4/af260414",
       "themes": [
-        "Climate & heat",
-        "Blue carbon",
         "Biodiversity & ecology",
-        "Water quality & nutrients",
-        "Physiology & productivity"
+        "Blue carbon",
+        "Climate & heat",
+        "Physiology & productivity",
+        "Water quality & nutrients"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -290,6 +270,45 @@
         "Blue carbon",
         "Mapping & remote sensing",
         "Water quality & nutrients"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.1111/nph.71740",
+      "title": "The evolutionary history of brackish specialization from marine ancestry in the seagrass Ruppia sinensis",
+      "authors": [
+        "Yang Zou",
+        "Lei Huang",
+        "Haocun Zhao",
+        "Ya Wang",
+        "Xiaoyong Chen",
+        "Pengchuan Sun",
+        "Xinwei Xu",
+        "Hao-Cun Zhao",
+        "Xiao-Yong Chen",
+        "Peng-Chuan Sun",
+        "Xin-Wei Xu",
+        "Zou Y",
+        "Huang L",
+        "Zhao H",
+        "Wang Y",
+        "Chen X",
+        "Sun P",
+        "Xu X"
+      ],
+      "journal": "New Phytologist",
+      "publisher_group": "Wiley",
+      "published_date": "2026-11-10",
+      "first_seen": "2026-11-11",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.1111/nph.71740",
+      "themes": [
+        "Climate & heat",
+        "Conservation & management",
+        "General seagrass science",
+        "Genetics & genomics",
+        "Physiology & productivity"
       ],
       "ai_summary": "",
       "why_it_matters": ""
