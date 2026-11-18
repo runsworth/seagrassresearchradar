@@ -1,34 +1,34 @@
 {
-  "generated_at": "2026-11-17T14:25:17+00:00",
+  "generated_at": "2026-11-18T13:59:14+00:00",
   "window_days": 7,
-  "new_papers": 30,
-  "newly_discovered": 145,
+  "new_papers": 31,
+  "newly_discovered": 166,
   "theme_counts": {
-    "Biodiversity & ecology": 12,
+    "Biodiversity & ecology": 14,
     "Conservation & management": 12,
-    "Physiology & productivity": 10,
+    "Restoration": 10,
     "Water quality & nutrients": 9,
+    "Physiology & productivity": 8,
     "Blue carbon": 8,
-    "Restoration": 8,
-    "Climate & heat": 7,
     "Fisheries & fauna": 7,
-    "General seagrass science": 6,
+    "Social & economic": 6,
+    "Climate & heat": 6,
+    "General seagrass science": 5,
     "Mapping & remote sensing": 5,
-    "Social & economic": 5,
     "Pollution & contaminants": 4,
     "Biogeochemistry": 2,
-    "Genetics & genomics": 1
+    "Microbiome & disease": 1
   },
   "publisher_counts": {
-    "Elsevier": 6,
-    "Other / independent": 4,
-    "European Organization for Nuclear Research": 3,
+    "Elsevier": 7,
+    "Other / independent": 5,
+    "European Organization for Nuclear Research": 4,
     "Frontiers": 2,
-    "MDPI": 2,
-    "University of California San Diego": 2,
+    "Multidisciplinary Digital Publishing Institute": 2,
     "Taylor & Francis": 2,
+    "Springer Nature": 1,
+    "Inter-Research": 1,
     "Natural Sciences Publishing": 1,
-    "Multidisciplinary Digital Publishing Institute": 1,
     "Figshare (United Kingdom)": 1,
     "PLOS": 1,
     "University of Genoa": 1
@@ -152,6 +152,27 @@
       "why_it_matters": ""
     },
     {
+      "uid": "10.1007/s41208-026-01281-3",
+      "title": "Seaweeds and Seagrasses as Sources of Marine Bioactive Compounds: Opportunities, Limitations, and Future Perspectives",
+      "authors": [
+        "Seto Windarto",
+        "Kukuh Prakoso",
+        "Diwyacitta Antya Putri",
+        "Rika Wahyuningtyas"
+      ],
+      "journal": "Thalassas: An International Journal of Marine Sciences",
+      "publisher_group": "Springer Nature",
+      "published_date": "2026-11-18",
+      "first_seen": "2026-11-18",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.1007/s41208-026-01281-3",
+      "themes": [
+        "General seagrass science"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
       "uid": "10.1016/j.indic.2026.101538",
       "title": "Unlocking spatial ecological assessment for tropical seagrass habitats using a new rapid assessment method (SEARAM)",
       "authors": [
@@ -179,25 +200,6 @@
         "Fisheries & fauna",
         "General seagrass science",
         "Water quality & nutrients"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.5281/zenodo.24117911",
-      "title": "Metabolism and Biomass of Lower Chesapeake Bay Seagrass Meadows",
-      "authors": [
-        "Alyson C. Hall",
-        "Christopher J. Patrick"
-      ],
-      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
-      "publisher_group": "European Organization for Nuclear Research",
-      "published_date": "2026-11-10",
-      "first_seen": "2026-11-12",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.5281/zenodo.24117911",
-      "themes": [
-        "Physiology & productivity"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -252,6 +254,28 @@
       "why_it_matters": ""
     },
     {
+      "uid": "10.3354/meps15370",
+      "title": "Impacts of nutrient enrichment from various sources on aboveground and belowground biomass and nutrient content in Syringodium filiforme, a subdominant seagrass species in the Caribbean",
+      "authors": [
+        "Anish Paul",
+        "Joanna Livingston",
+        "Bridget F Shayka",
+        "Jacob Allgeier"
+      ],
+      "journal": "Marine Ecology Progress Series",
+      "publisher_group": "Inter-Research",
+      "published_date": "2026-11-18",
+      "first_seen": "2026-11-18",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.3354/meps15370",
+      "themes": [
+        "Physiology & productivity",
+        "Water quality & nutrients"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
       "uid": "10.1117/12.3119094",
       "title": "Mapping eelgrass meadows and macroalgae in Swedish coastal areas - Earth observation in support of blue carbon research",
       "authors": [
@@ -270,45 +294,6 @@
         "Blue carbon",
         "Mapping & remote sensing",
         "Water quality & nutrients"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.1111/nph.71740",
-      "title": "The evolutionary history of brackish specialization from marine ancestry in the seagrass Ruppia sinensis",
-      "authors": [
-        "Yang Zou",
-        "Lei Huang",
-        "Haocun Zhao",
-        "Ya Wang",
-        "Xiaoyong Chen",
-        "Pengchuan Sun",
-        "Xinwei Xu",
-        "Hao-Cun Zhao",
-        "Xiao-Yong Chen",
-        "Peng-Chuan Sun",
-        "Xin-Wei Xu",
-        "Zou Y",
-        "Huang L",
-        "Zhao H",
-        "Wang Y",
-        "Chen X",
-        "Sun P",
-        "Xu X"
-      ],
-      "journal": "New Phytologist",
-      "publisher_group": "Wiley",
-      "published_date": "2026-11-10",
-      "first_seen": "2026-11-11",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.1111/nph.71740",
-      "themes": [
-        "Climate & heat",
-        "Conservation & management",
-        "General seagrass science",
-        "Genetics & genomics",
-        "Physiology & productivity"
       ],
       "ai_summary": "",
       "why_it_matters": ""
