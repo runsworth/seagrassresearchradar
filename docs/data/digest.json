@@ -1,71 +1,40 @@
 {
-  "generated_at": "2026-11-18T13:59:14+00:00",
+  "generated_at": "2026-11-19T14:26:33+00:00",
   "window_days": 7,
-  "new_papers": 31,
+  "new_papers": 33,
   "newly_discovered": 166,
   "theme_counts": {
     "Biodiversity & ecology": 14,
-    "Conservation & management": 12,
+    "Conservation & management": 13,
+    "Physiology & productivity": 11,
     "Restoration": 10,
-    "Water quality & nutrients": 9,
-    "Physiology & productivity": 8,
-    "Blue carbon": 8,
-    "Fisheries & fauna": 7,
-    "Social & economic": 6,
-    "Climate & heat": 6,
-    "General seagrass science": 5,
+    "Water quality & nutrients": 10,
+    "Fisheries & fauna": 9,
+    "Blue carbon": 9,
+    "Climate & heat": 8,
+    "Social & economic": 8,
+    "General seagrass science": 6,
     "Mapping & remote sensing": 5,
     "Pollution & contaminants": 4,
+    "Microbiome & disease": 3,
     "Biogeochemistry": 2,
-    "Microbiome & disease": 1
+    "Genetics & genomics": 1
   },
   "publisher_counts": {
-    "Elsevier": 7,
+    "European Organization for Nuclear Research": 6,
+    "Elsevier": 6,
     "Other / independent": 5,
-    "European Organization for Nuclear Research": 4,
     "Frontiers": 2,
     "Multidisciplinary Digital Publishing Institute": 2,
     "Taylor & Francis": 2,
+    "Environmental Data Initiative": 1,
+    "Macquarie University": 1,
+    "EDP Sciences": 1,
     "Springer Nature": 1,
     "Inter-Research": 1,
-    "Natural Sciences Publishing": 1,
-    "Figshare (United Kingdom)": 1,
-    "PLOS": 1,
-    "University of Genoa": 1
+    "Natural Sciences Publishing": 1
   },
   "top_papers": [
-    {
-      "uid": "10.1016/j.marpolbul.2026.120488",
-      "title": "Seagrasses and macroalgae incorporate land-derived metal pollution while limiting its transfer through estuarine food webs",
-      "authors": [
-        "M. C. Benson",
-        "Javier Lloret",
-        "Daniel Enrique Ibarra",
-        "Marina Benson",
-        "Daniel E. Ibarra",
-        "Benson M",
-        "Lloret J",
-        "Ibarra DE",
-        "M. Benson",
-        "J. Lloret",
-        "D. Ibarra"
-      ],
-      "journal": "Marine Pollution Bulletin",
-      "publisher_group": "Elsevier",
-      "published_date": "2026-11-11",
-      "first_seen": "2026-11-11",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.1016/j.marpolbul.2026.120488",
-      "themes": [
-        "Biodiversity & ecology",
-        "Conservation & management",
-        "Pollution & contaminants",
-        "Restoration",
-        "Water quality & nutrients"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
     {
       "uid": "10.5194/egusphere-2026-4232-ac3",
       "title": "Reply to Anonymous Referee #3",
@@ -125,6 +94,30 @@
         "Physiology & productivity",
         "Pollution & contaminants",
         "Water quality & nutrients"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.6073/pasta/4012ff642dfcddfb6271a333f7534394",
+      "title": "Baseline evaluation of seagrass wasting disease (Labyrinthula zosterae) in the Virginia coastal bays, 2023",
+      "authors": [
+        "Kylor Kerns",
+        "Peter Garneau",
+        "Lillian R. Aoki",
+        "Karen J. McGlathery",
+        "A. Randall Hughes"
+      ],
+      "journal": "Environmental Data Initiative",
+      "publisher_group": "Environmental Data Initiative",
+      "published_date": "2026-11-17",
+      "first_seen": "2026-11-19",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.6073/pasta/4012ff642dfcddfb6271a333f7534394",
+      "themes": [
+        "Climate & heat",
+        "Microbiome & disease",
+        "Social & economic"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -205,6 +198,58 @@
       "why_it_matters": ""
     },
     {
+      "uid": "10.1016/j.marpolbul.2026.120558",
+      "title": "Biochar facilitates the recovery of seagrass meadows under antibiotic stress by alleviating microbial community disruption.",
+      "authors": [
+        "Chen L",
+        "Zhang J",
+        "Dong J",
+        "Liang T",
+        "Wang Y",
+        "Liu H",
+        "Cheng H",
+        "Zhou W",
+        "Huang X",
+        "Ling J",
+        "Luxiang Chen",
+        "Jian Zhang",
+        "Junde Dong",
+        "Tongyin Liang",
+        "Youshao Wang",
+        "Hongbin Liu",
+        "Hao Cheng",
+        "Weiguo Zhou",
+        "Xiaofang Huang",
+        "Juan Ling",
+        "Lu-Xiang Chen",
+        "Jun-De Dong",
+        "Tong-Yin Liang",
+        "You-Shao Wang",
+        "Hong-Bin Liu",
+        "Wei-Guo Zhou",
+        "Xiao-Fang Huang"
+      ],
+      "journal": "Marine pollution bulletin",
+      "publisher_group": "Elsevier",
+      "published_date": "2026-11-17",
+      "first_seen": "2026-11-18",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.1016/j.marpolbul.2026.120558",
+      "themes": [
+        "Biodiversity & ecology",
+        "Blue carbon",
+        "Climate & heat",
+        "Conservation & management",
+        "Microbiome & disease",
+        "Physiology & productivity",
+        "Pollution & contaminants",
+        "Restoration",
+        "Water quality & nutrients"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
       "uid": "10.70102/aeef/v4i4/af260414",
       "title": "Seasonal Variation in Seagrass Epiphyte Communities and their Contribution to Coastal Primary Productivity",
       "authors": [
@@ -270,29 +315,6 @@
       "url": "https://doi.org/10.3354/meps15370",
       "themes": [
         "Physiology & productivity",
-        "Water quality & nutrients"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.1117/12.3119094",
-      "title": "Mapping eelgrass meadows and macroalgae in Swedish coastal areas - Earth observation in support of blue carbon research",
-      "authors": [
-        "Susanne Kratzer",
-        "Maria E. Asplund",
-        "Samantha Lavender"
-      ],
-      "journal": "",
-      "publisher_group": "Other / independent",
-      "published_date": "2026-11-13",
-      "first_seen": "2026-11-15",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.1117/12.3119094",
-      "themes": [
-        "Biodiversity & ecology",
-        "Blue carbon",
-        "Mapping & remote sensing",
         "Water quality & nutrients"
       ],
       "ai_summary": "",
