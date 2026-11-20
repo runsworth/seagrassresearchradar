@@ -1,38 +1,38 @@
 {
-  "generated_at": "2026-11-19T14:26:33+00:00",
+  "generated_at": "2026-11-20T14:01:20+00:00",
   "window_days": 7,
-  "new_papers": 33,
-  "newly_discovered": 166,
+  "new_papers": 37,
+  "newly_discovered": 176,
   "theme_counts": {
+    "Conservation & management": 16,
     "Biodiversity & ecology": 14,
-    "Conservation & management": 13,
-    "Physiology & productivity": 11,
-    "Restoration": 10,
+    "Restoration": 12,
+    "Climate & heat": 11,
+    "Fisheries & fauna": 10,
+    "Physiology & productivity": 10,
     "Water quality & nutrients": 10,
-    "Fisheries & fauna": 9,
     "Blue carbon": 9,
-    "Climate & heat": 8,
-    "Social & economic": 8,
-    "General seagrass science": 6,
-    "Mapping & remote sensing": 5,
-    "Pollution & contaminants": 4,
-    "Microbiome & disease": 3,
-    "Biogeochemistry": 2,
+    "General seagrass science": 8,
+    "Mapping & remote sensing": 8,
+    "Social & economic": 7,
+    "Pollution & contaminants": 6,
+    "Microbiome & disease": 4,
+    "Biogeochemistry": 3,
     "Genetics & genomics": 1
   },
   "publisher_counts": {
-    "European Organization for Nuclear Research": 6,
+    "European Organization for Nuclear Research": 8,
+    "Other / independent": 6,
     "Elsevier": 6,
-    "Other / independent": 5,
+    "Taylor & Francis": 3,
+    "Inter-Research": 2,
     "Frontiers": 2,
-    "Multidisciplinary Digital Publishing Institute": 2,
-    "Taylor & Francis": 2,
     "Environmental Data Initiative": 1,
     "Macquarie University": 1,
     "EDP Sciences": 1,
     "Springer Nature": 1,
-    "Inter-Research": 1,
-    "Natural Sciences Publishing": 1
+    "University of Cambridge": 1,
+    "Multidisciplinary Digital Publishing Institute": 1
   },
   "top_papers": [
     {
@@ -50,6 +50,34 @@
       "themes": [
         "Blue carbon",
         "Physiology & productivity"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.3354/meps15370",
+      "title": "Impacts of nutrient enrichment from various sources on aboveground and belowground biomass and nutrient content in Syringodium filiforme, a subdominant seagrass species in the Caribbean",
+      "authors": [
+        "A. Paul",
+        "Joanna Livingston",
+        "Bridget F. Shayka",
+        "Jacob Edward Allgeier",
+        "Anish Paul",
+        "Bridget F Shayka",
+        "Jacob Allgeier"
+      ],
+      "journal": "Marine Ecology Progress Series",
+      "publisher_group": "Inter-Research",
+      "published_date": "2026-11-18",
+      "first_seen": "2026-11-18",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.3354/meps15370",
+      "themes": [
+        "Conservation & management",
+        "Fisheries & fauna",
+        "Physiology & productivity",
+        "Pollution & contaminants",
+        "Water quality & nutrients"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -293,28 +321,6 @@
         "Biodiversity & ecology",
         "Conservation & management",
         "Restoration",
-        "Water quality & nutrients"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.3354/meps15370",
-      "title": "Impacts of nutrient enrichment from various sources on aboveground and belowground biomass and nutrient content in Syringodium filiforme, a subdominant seagrass species in the Caribbean",
-      "authors": [
-        "Anish Paul",
-        "Joanna Livingston",
-        "Bridget F Shayka",
-        "Jacob Allgeier"
-      ],
-      "journal": "Marine Ecology Progress Series",
-      "publisher_group": "Inter-Research",
-      "published_date": "2026-11-18",
-      "first_seen": "2026-11-18",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.3354/meps15370",
-      "themes": [
-        "Physiology & productivity",
         "Water quality & nutrients"
       ],
       "ai_summary": "",
