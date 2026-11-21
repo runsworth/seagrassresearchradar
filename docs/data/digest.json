@@ -1,55 +1,55 @@
 {
-  "generated_at": "2026-11-20T14:01:20+00:00",
+  "generated_at": "2026-11-21T13:28:40+00:00",
   "window_days": 7,
-  "new_papers": 37,
-  "newly_discovered": 176,
+  "new_papers": 38,
+  "newly_discovered": 181,
   "theme_counts": {
-    "Conservation & management": 16,
-    "Biodiversity & ecology": 14,
-    "Restoration": 12,
-    "Climate & heat": 11,
-    "Fisheries & fauna": 10,
-    "Physiology & productivity": 10,
+    "Conservation & management": 17,
+    "Biodiversity & ecology": 13,
+    "Climate & heat": 12,
+    "Physiology & productivity": 12,
+    "Fisheries & fauna": 11,
+    "Restoration": 11,
     "Water quality & nutrients": 10,
-    "Blue carbon": 9,
+    "Social & economic": 9,
+    "Blue carbon": 8,
     "General seagrass science": 8,
-    "Mapping & remote sensing": 8,
-    "Social & economic": 7,
+    "Mapping & remote sensing": 7,
     "Pollution & contaminants": 6,
+    "Biogeochemistry": 4,
     "Microbiome & disease": 4,
-    "Biogeochemistry": 3,
-    "Genetics & genomics": 1
+    "Genetics & genomics": 2
   },
   "publisher_counts": {
     "European Organization for Nuclear Research": 8,
-    "Other / independent": 6,
-    "Elsevier": 6,
+    "Elsevier": 7,
+    "Other / independent": 4,
     "Taylor & Francis": 3,
+    "Springer Nature": 2,
     "Inter-Research": 2,
-    "Frontiers": 2,
+    "PLOS": 1,
+    "IGI Global": 1,
     "Environmental Data Initiative": 1,
     "Macquarie University": 1,
     "EDP Sciences": 1,
-    "Springer Nature": 1,
-    "University of Cambridge": 1,
-    "Multidisciplinary Digital Publishing Institute": 1
+    "University of Cambridge": 1
   },
   "top_papers": [
     {
-      "uid": "10.5194/egusphere-2026-4232-ac3",
-      "title": "Reply to Anonymous Referee #3",
+      "uid": "10.57745/cuo4rx",
+      "title": "Diatom inventories on seagrasses in Martinique",
       "authors": [
-        "Kayleigh E. Granville"
+        "Olivier Monnier",
+        "Gilles Gassiole"
       ],
-      "journal": "",
+      "journal": "Recherche Data Gouv France",
       "publisher_group": "Other / independent",
-      "published_date": "2026-11-13",
-      "first_seen": "2026-11-16",
+      "published_date": "2026-11-17",
+      "first_seen": "2026-11-21",
       "discovery_type": "new_publication",
-      "url": "https://doi.org/10.5194/egusphere-2026-4232-ac3",
+      "url": "https://doi.org/10.57745/cuo4rx",
       "themes": [
-        "Blue carbon",
-        "Physiology & productivity"
+        "General seagrass science"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -64,7 +64,8 @@
         "Jacob Edward Allgeier",
         "Anish Paul",
         "Bridget F Shayka",
-        "Jacob Allgeier"
+        "Jacob Allgeier",
+        "J. Allgeier"
       ],
       "journal": "Marine Ecology Progress Series",
       "publisher_group": "Inter-Research",
@@ -83,45 +84,24 @@
       "why_it_matters": ""
     },
     {
-      "uid": "10.1016/j.ecoenv.2026.121028",
-      "title": "Molecular mechanisms underlying differential toxicity of Cr and As to seagrass (Zostera marina L.) under dark conditions revealed by proteomics.",
+      "uid": "10.3354/meps15378",
+      "title": "Significance of thermal microclimates in shaping the responses of eelgrass to experimental long-term warming",
       "authors": [
-        "Wang X",
-        "Yue S",
-        "Liu M",
-        "Yuan Y",
-        "Zhao Y",
-        "Zhang Y",
-        "Zhang X",
-        "Xu S",
-        "Zhou Y",
-        "Xinhua Wang",
-        "Shidong Yue",
-        "Mingjie Liu",
-        "Yuan Yuan",
-        "Yijia Zhao",
-        "Yu Zhang",
-        "Xiaomei Zhang",
-        "Shaochun Xu",
-        "Yi Zhou",
-        "Xin-Hua Wang",
-        "S. Yue",
-        "Ming-Jie Liu",
-        "Yi-Jia Zhao",
-        "Xiao-Mei Zhang",
-        "Shao-Chun Xu"
+        "Fabian Wolf",
+        "Christian Pansch",
+        "Giannina S. I. Hattich",
+        "Florian Weinberger",
+        "Giannina Saskia Isabelle Hattich"
       ],
-      "journal": "Ecotoxicology and environmental safety",
-      "publisher_group": "Elsevier",
-      "published_date": "2026-11-13",
-      "first_seen": "2026-11-14",
+      "journal": "Marine Ecology Progress Series",
+      "publisher_group": "Inter-Research",
+      "published_date": "2026-11-20",
+      "first_seen": "2026-11-20",
       "discovery_type": "new_publication",
-      "url": "https://doi.org/10.1016/j.ecoenv.2026.121028",
+      "url": "https://doi.org/10.3354/meps15378",
       "themes": [
-        "General seagrass science",
-        "Physiology & productivity",
-        "Pollution & contaminants",
-        "Water quality & nutrients"
+        "Climate & heat",
+        "Physiology & productivity"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -181,7 +161,7 @@
         "Diwyacitta Antya Putri",
         "Rika Wahyuningtyas"
       ],
-      "journal": "Thalassas: An International Journal of Marine Sciences",
+      "journal": "Thalassas An International Journal of Marine Sciences",
       "publisher_group": "Springer Nature",
       "published_date": "2026-11-18",
       "first_seen": "2026-11-18",
