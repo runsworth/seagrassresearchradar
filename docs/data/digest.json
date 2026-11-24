@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-11-23T15:59:19+00:00",
+  "generated_at": "2026-11-24T15:53:54+00:00",
   "window_days": 7,
-  "new_papers": 39,
-  "newly_discovered": 158,
+  "new_papers": 41,
+  "newly_discovered": 154,
   "theme_counts": {
     "Conservation & management": 17,
-    "Biodiversity & ecology": 14,
-    "Fisheries & fauna": 13,
-    "Climate & heat": 12,
+    "Biodiversity & ecology": 16,
+    "Fisheries & fauna": 15,
+    "Physiology & productivity": 13,
+    "Climate & heat": 13,
+    "Social & economic": 11,
     "General seagrass science": 10,
     "Restoration": 10,
-    "Social & economic": 10,
-    "Physiology & productivity": 10,
     "Blue carbon": 9,
     "Water quality & nutrients": 8,
-    "Mapping & remote sensing": 7,
-    "Microbiome & disease": 5,
+    "Microbiome & disease": 6,
+    "Mapping & remote sensing": 6,
     "Pollution & contaminants": 5,
     "Genetics & genomics": 3,
     "Biogeochemistry": 2
@@ -23,16 +23,16 @@
   "publisher_counts": {
     "European Organization for Nuclear Research": 7,
     "Elsevier": 6,
-    "Other / independent": 5,
-    "Springer Nature": 3,
+    "Springer Nature": 4,
+    "Other / independent": 4,
     "Taylor & Francis": 3,
     "Inter-Research": 2,
+    "Regional Euro-Asian Biological Invasions Centre (REABIC)": 1,
+    "Wiley": 1,
     "MDPI": 1,
     "University of Hawaii Press": 1,
     "Cold Spring Harbor Laboratory": 1,
-    "PLOS": 1,
-    "IGI Global": 1,
-    "Environmental Data Initiative": 1
+    "PLOS": 1
   },
   "top_papers": [
     {
@@ -50,6 +50,29 @@
       "url": "https://doi.org/10.57745/cuo4rx",
       "themes": [
         "General seagrass science"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.3391/ai.2026.21.4.222109",
+      "title": "Epibiont responses to a native and non-native foundation species across a gradient of intertidal stress",
+      "authors": [
+        "S. Maria Garcia",
+        "Jennifer L. Ruesink",
+        "S. M. Garcia",
+        "J. Ruesink"
+      ],
+      "journal": "Aquatic Invasions",
+      "publisher_group": "Regional Euro-Asian Biological Invasions Centre (REABIC)",
+      "published_date": "2026-11-24",
+      "first_seen": "2026-11-24",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.3391/ai.2026.21.4.222109",
+      "themes": [
+        "Biodiversity & ecology",
+        "Fisheries & fauna",
+        "Physiology & productivity"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -276,56 +299,6 @@
         "Climate & heat",
         "Physiology & productivity",
         "Water quality & nutrients"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.64898/2026.11.19.767851",
-      "title": "Environmental heterogeneity and microbial community architecture shape N₂O fluxes in intertidal coastal sediments",
-      "authors": [
-        "Marion Dolivet-Maréchal",
-        "Carlos Palacín‐Lizarbe",
-        "Guillaume Schwob",
-        "Henri M. P. Siljanen",
-        "Dhiraj Paul",
-        "Abigaïl Delort",
-        "Jonathan Gervaix",
-        "Charline Creuzé des Châtelliers",
-        "Sabine Schmidt",
-        "Mathis Cognat",
-        "David Sebag",
-        "Olivier Taugourdeau",
-        "Clara Schübert",
-        "Nathalie Labourdette",
-        "Isabelle Bertrand",
-        "Lorenzo Matteo Walter Rossi",
-        "Xavier Le Roux",
-        "Agnès Richaume",
-        "Alessandro Florio",
-        "Dolivet-Marechal M",
-        "Palacin-Lizarbe C",
-        "Schwob G",
-        "Siljanen HM",
-        "paul D",
-        "Delort A",
-        "Gervaix J",
-        "Creuze des Chatelliers C",
-        "Schmidt S",
-        "Cognat M",
-        "Sebag D"
-      ],
-      "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
-      "publisher_group": "Cold Spring Harbor Laboratory",
-      "published_date": "2026-11-20",
-      "first_seen": "2026-11-22",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.64898/2026.11.19.767851",
-      "themes": [
-        "Biodiversity & ecology",
-        "Blue carbon",
-        "Genetics & genomics",
-        "Microbiome & disease"
       ],
       "ai_summary": "",
       "why_it_matters": ""
