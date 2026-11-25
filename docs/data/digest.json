@@ -1,59 +1,40 @@
 {
-  "generated_at": "2026-11-24T15:53:54+00:00",
+  "generated_at": "2026-11-25T15:36:38+00:00",
   "window_days": 7,
-  "new_papers": 41,
-  "newly_discovered": 154,
+  "new_papers": 35,
+  "newly_discovered": 162,
   "theme_counts": {
-    "Conservation & management": 17,
-    "Biodiversity & ecology": 16,
-    "Fisheries & fauna": 15,
-    "Physiology & productivity": 13,
+    "Fisheries & fauna": 14,
     "Climate & heat": 13,
-    "Social & economic": 11,
-    "General seagrass science": 10,
-    "Restoration": 10,
-    "Blue carbon": 9,
+    "Physiology & productivity": 13,
+    "Biodiversity & ecology": 13,
+    "Conservation & management": 13,
+    "Social & economic": 9,
     "Water quality & nutrients": 8,
-    "Microbiome & disease": 6,
+    "Blue carbon": 8,
+    "General seagrass science": 6,
     "Mapping & remote sensing": 6,
-    "Pollution & contaminants": 5,
-    "Genetics & genomics": 3,
-    "Biogeochemistry": 2
+    "Restoration": 5,
+    "Microbiome & disease": 4,
+    "Biogeochemistry": 4,
+    "Pollution & contaminants": 4,
+    "Genetics & genomics": 3
   },
   "publisher_counts": {
-    "European Organization for Nuclear Research": 7,
-    "Elsevier": 6,
-    "Springer Nature": 4,
+    "Elsevier": 5,
     "Other / independent": 4,
+    "Springer Nature": 4,
     "Taylor & Francis": 3,
+    "Multidisciplinary Digital Publishing Institute": 2,
     "Inter-Research": 2,
+    "European Organization for Nuclear Research": 2,
+    "Ege University": 1,
+    "Environmental Data Initiative": 1,
+    "EDP Sciences": 1,
     "Regional Euro-Asian Biological Invasions Centre (REABIC)": 1,
-    "Wiley": 1,
-    "MDPI": 1,
-    "University of Hawaii Press": 1,
-    "Cold Spring Harbor Laboratory": 1,
-    "PLOS": 1
+    "Wiley": 1
   },
   "top_papers": [
-    {
-      "uid": "10.57745/cuo4rx",
-      "title": "Diatom inventories on seagrasses in Martinique",
-      "authors": [
-        "Olivier Monnier",
-        "Gilles Gassiole"
-      ],
-      "journal": "Recherche Data Gouv France",
-      "publisher_group": "Other / independent",
-      "published_date": "2026-11-17",
-      "first_seen": "2026-11-21",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.57745/cuo4rx",
-      "themes": [
-        "General seagrass science"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
     {
       "uid": "10.3391/ai.2026.21.4.222109",
       "title": "Epibiont responses to a native and non-native foundation species across a gradient of intertidal stress",
@@ -107,6 +88,25 @@
       "why_it_matters": ""
     },
     {
+      "uid": "10.12714/egejfas.43.4.14",
+      "title": "Interannual variability in Posidonia oceanica gene expression across contrasting marine heatwave conditions",
+      "authors": [
+        "Esra Öztürk"
+      ],
+      "journal": "Ege Journal of Fisheries and Aquatic Sciences",
+      "publisher_group": "Ege University",
+      "published_date": "2026-11-25",
+      "first_seen": "2026-11-25",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.12714/egejfas.43.4.14",
+      "themes": [
+        "Climate & heat",
+        "Physiology & productivity"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
       "uid": "10.3354/meps15378",
       "title": "Significance of thermal microclimates in shaping the responses of eelgrass to experimental long-term warming",
       "authors": [
@@ -114,7 +114,11 @@
         "Christian Pansch",
         "Giannina S. I. Hattich",
         "Florian Weinberger",
-        "Giannina Saskia Isabelle Hattich"
+        "Giannina Saskia Isabelle Hattich",
+        "F. Wolf",
+        "C. Pansch",
+        "G. Hattich",
+        "F. Weinberger"
       ],
       "journal": "Marine Ecology Progress Series",
       "publisher_group": "Inter-Research",
@@ -125,30 +129,6 @@
       "themes": [
         "Climate & heat",
         "Physiology & productivity"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.6073/pasta/4012ff642dfcddfb6271a333f7534394",
-      "title": "Baseline evaluation of seagrass wasting disease (Labyrinthula zosterae) in the Virginia coastal bays, 2023",
-      "authors": [
-        "Kylor Kerns",
-        "Peter Garneau",
-        "Lillian R. Aoki",
-        "Karen J. McGlathery",
-        "A. Randall Hughes"
-      ],
-      "journal": "Environmental Data Initiative",
-      "publisher_group": "Environmental Data Initiative",
-      "published_date": "2026-11-17",
-      "first_seen": "2026-11-19",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.6073/pasta/4012ff642dfcddfb6271a333f7534394",
-      "themes": [
-        "Climate & heat",
-        "Microbiome & disease",
-        "Social & economic"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -229,58 +209,6 @@
       "why_it_matters": ""
     },
     {
-      "uid": "10.1016/j.marpolbul.2026.120558",
-      "title": "Biochar facilitates the recovery of seagrass meadows under antibiotic stress by alleviating microbial community disruption.",
-      "authors": [
-        "Chen L",
-        "Zhang J",
-        "Dong J",
-        "Liang T",
-        "Wang Y",
-        "Liu H",
-        "Cheng H",
-        "Zhou W",
-        "Huang X",
-        "Ling J",
-        "Luxiang Chen",
-        "Jian Zhang",
-        "Junde Dong",
-        "Tongyin Liang",
-        "Youshao Wang",
-        "Hongbin Liu",
-        "Hao Cheng",
-        "Weiguo Zhou",
-        "Xiaofang Huang",
-        "Juan Ling",
-        "Lu-Xiang Chen",
-        "Jun-De Dong",
-        "Tong-Yin Liang",
-        "You-Shao Wang",
-        "Hong-Bin Liu",
-        "Wei-Guo Zhou",
-        "Xiao-Fang Huang"
-      ],
-      "journal": "Marine pollution bulletin",
-      "publisher_group": "Elsevier",
-      "published_date": "2026-11-17",
-      "first_seen": "2026-11-18",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.1016/j.marpolbul.2026.120558",
-      "themes": [
-        "Biodiversity & ecology",
-        "Blue carbon",
-        "Climate & heat",
-        "Conservation & management",
-        "Microbiome & disease",
-        "Physiology & productivity",
-        "Pollution & contaminants",
-        "Restoration",
-        "Water quality & nutrients"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
       "uid": "10.70102/aeef/v4i4/af260414",
       "title": "Seasonal Variation in Seagrass Epiphyte Communities and their Contribution to Coastal Primary Productivity",
       "authors": [
@@ -299,6 +227,83 @@
         "Climate & heat",
         "Physiology & productivity",
         "Water quality & nutrients"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.1111/jfb.70748",
+      "title": "Seasonal changes in fish production in annual and perennial eelgrass (Z ostera marina) beds of the western North Pacific",
+      "authors": [
+        "Jun Shoji",
+        "Kanata ISEKI",
+        "Hotaka KAWAMOTO",
+        "Shoji J",
+        "Iseki K",
+        "Kawamoto H"
+      ],
+      "journal": "Journal of Fish Biology",
+      "publisher_group": "Wiley",
+      "published_date": "2026-11-23",
+      "first_seen": "2026-11-24",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.1111/jfb.70748",
+      "themes": [
+        "Biodiversity & ecology",
+        "Climate & heat",
+        "Fisheries & fauna",
+        "Physiology & productivity",
+        "Social & economic"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "10.64898/2026.11.19.767851",
+      "title": "Environmental heterogeneity and microbial community architecture shape N₂O fluxes in intertidal coastal sediments",
+      "authors": [
+        "Marion Dolivet-Maréchal",
+        "Carlos Palacín‐Lizarbe",
+        "Guillaume Schwob",
+        "Henri M. P. Siljanen",
+        "Dhiraj Paul",
+        "Abigaïl Delort",
+        "Jonathan Gervaix",
+        "Charline Creuzé des Châtelliers",
+        "Sabine Schmidt",
+        "Mathis Cognat",
+        "David Sebag",
+        "Olivier Taugourdeau",
+        "Clara Schübert",
+        "Nathalie Labourdette",
+        "Isabelle Bertrand",
+        "Lorenzo Matteo Walter Rossi",
+        "Xavier Le Roux",
+        "Agnès Richaume",
+        "Alessandro Florio",
+        "Dolivet-Marechal M",
+        "Palacin-Lizarbe C",
+        "Schwob G",
+        "Siljanen HM",
+        "paul D",
+        "Delort A",
+        "Gervaix J",
+        "Creuze des Chatelliers C",
+        "Schmidt S",
+        "Cognat M",
+        "Sebag D"
+      ],
+      "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "publisher_group": "Cold Spring Harbor Laboratory",
+      "published_date": "2026-11-20",
+      "first_seen": "2026-11-22",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.64898/2026.11.19.767851",
+      "themes": [
+        "Biodiversity & ecology",
+        "Blue carbon",
+        "Genetics & genomics",
+        "Microbiome & disease"
       ],
       "ai_summary": "",
       "why_it_matters": ""
