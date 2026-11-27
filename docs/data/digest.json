@@ -1,38 +1,38 @@
 {
-  "generated_at": "2026-11-26T15:18:02+00:00",
+  "generated_at": "2026-11-27T15:06:13+00:00",
   "window_days": 7,
-  "new_papers": 37,
-  "newly_discovered": 154,
+  "new_papers": 41,
+  "newly_discovered": 164,
   "theme_counts": {
-    "Biodiversity & ecology": 17,
-    "Conservation & management": 14,
-    "Physiology & productivity": 14,
-    "Fisheries & fauna": 14,
-    "Climate & heat": 13,
+    "Biodiversity & ecology": 18,
+    "Fisheries & fauna": 15,
+    "Physiology & productivity": 15,
+    "Climate & heat": 14,
+    "Conservation & management": 13,
+    "Water quality & nutrients": 10,
     "Social & economic": 10,
-    "Water quality & nutrients": 9,
-    "Blue carbon": 8,
-    "Biogeochemistry": 6,
-    "General seagrass science": 6,
-    "Pollution & contaminants": 5,
-    "Restoration": 5,
+    "Blue carbon": 10,
+    "Restoration": 8,
+    "Biogeochemistry": 7,
+    "General seagrass science": 7,
+    "Pollution & contaminants": 6,
+    "Microbiome & disease": 5,
     "Mapping & remote sensing": 4,
-    "Microbiome & disease": 4,
-    "Genetics & genomics": 3
+    "Genetics & genomics": 2
   },
   "publisher_counts": {
+    "Other / independent": 6,
     "Elsevier": 6,
-    "Springer Nature": 4,
-    "Other / independent": 4,
+    "Springer Nature": 3,
     "Taylor & Francis": 3,
+    "Wiley": 2,
     "Multidisciplinary Digital Publishing Institute": 2,
     "Inter-Research": 2,
+    "The University of Queensland": 1,
+    "European Organization for Nuclear Research": 1,
+    "Instituto Oceanográfico de Venezuela": 1,
     "Pensoft Publishers": 1,
-    "Centre pour la Communication Scientifique Directe": 1,
-    "Edith Cowan University": 1,
-    "Spanish Ornithological Society": 1,
-    "Ege University": 1,
-    "Environmental Data Initiative": 1
+    "Centre pour la Communication Scientifique Directe": 1
   },
   "top_papers": [
     {
@@ -83,21 +83,50 @@
       "why_it_matters": ""
     },
     {
+      "uid": "10.7488/era/8103",
+      "title": "Tracing nutrient sensitivities in the Maldives: a multi-ecosystem approach from shore to reef",
+      "authors": [
+        "Jessica Arnull"
+      ],
+      "journal": "University of Edinburgh",
+      "publisher_group": "Other / independent",
+      "published_date": "2026-11-26",
+      "first_seen": "2026-11-27",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.7488/era/8103",
+      "themes": [
+        "Restoration",
+        "Climate & heat",
+        "Fisheries & fauna",
+        "Biodiversity & ecology",
+        "Water quality & nutrients",
+        "Physiology & productivity",
+        "Conservation & management",
+        "Pollution & contaminants",
+        "Biogeochemistry",
+        "Social & economic"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
       "uid": "10.3897/biorisk.24.197767",
       "title": "Occurrence and polymer composition of anthropogenic microparticles in eelgrass, a gastropod grazer, and round goby from Varna Bay, the Black Sea",
       "authors": [
         "Elitsa Hineva",
         "Selen Kyazim",
         "Nina Dzhembekova",
-        "Petya Ivanova",
+        "Petya Pavlova Ivanova",
         "Svetlana Mihova",
-        "Valentina Doncheva",
+        "Valentina G. Doncheva",
         "Valentin Panayotov",
         "Maria Grandova",
         "Anton Krastev",
-        "Violin Raykov"
+        "Violin Raykov",
+        "Petya Ivanova",
+        "Valentina Doncheva"
       ],
-      "journal": "BioRisk",
+      "journal": "BIORISK – Biodiversity and Ecosystem Risk Assessment",
       "publisher_group": "Pensoft Publishers",
       "published_date": "2026-11-26",
       "first_seen": "2026-11-26",
@@ -179,6 +208,31 @@
       "why_it_matters": ""
     },
     {
+      "uid": "10.1111/rec.70587",
+      "title": "A wake‐up call for seagrass seeds: germination triggers for Zostera restoration",
+      "authors": [
+        "Abigail Wookey",
+        "Richard K. F. Unsworth",
+        "Rhys A. Coleman",
+        "Emma Louise Jackson",
+        "Elise S. de Tourtoulon‐Adams",
+        "Emily Yates",
+        "Craig D. H. Sherman",
+        "Emma L. Jackson"
+      ],
+      "journal": "Restoration Ecology",
+      "publisher_group": "Wiley",
+      "published_date": "2026-11-26",
+      "first_seen": "2026-11-27",
+      "discovery_type": "new_publication",
+      "url": "https://doi.org/10.1111/rec.70587",
+      "themes": [
+        "Restoration"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
       "uid": "10.1016/j.indic.2026.101538",
       "title": "Unlocking spatial ecological assessment for tropical seagrass habitats using a new rapid assessment method (SEARAM)",
       "authors": [
@@ -229,85 +283,6 @@
         "Climate & heat",
         "Physiology & productivity",
         "Water quality & nutrients"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.1111/jfb.70748",
-      "title": "Seasonal changes in fish production in annual and perennial eelgrass (Z ostera marina) beds of the western North Pacific",
-      "authors": [
-        "Jun Shoji",
-        "Kanata ISEKI",
-        "Hotaka KAWAMOTO",
-        "Shoji J",
-        "Iseki K",
-        "Kawamoto H",
-        "J. Shoji",
-        "K. Iseki"
-      ],
-      "journal": "Journal of Fish Biology",
-      "publisher_group": "Wiley",
-      "published_date": "2026-11-23",
-      "first_seen": "2026-11-24",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.1111/jfb.70748",
-      "themes": [
-        "Biodiversity & ecology",
-        "Climate & heat",
-        "Fisheries & fauna",
-        "Physiology & productivity",
-        "Social & economic"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.64898/2026.11.19.767851",
-      "title": "Environmental heterogeneity and microbial community architecture shape N₂O fluxes in intertidal coastal sediments",
-      "authors": [
-        "Marion Dolivet-Maréchal",
-        "Carlos Palacín‐Lizarbe",
-        "Guillaume Schwob",
-        "Henri M. P. Siljanen",
-        "Dhiraj Paul",
-        "Abigaïl Delort",
-        "Jonathan Gervaix",
-        "Charline Creuzé des Châtelliers",
-        "Sabine Schmidt",
-        "Mathis Cognat",
-        "David Sebag",
-        "Olivier Taugourdeau",
-        "Clara Schübert",
-        "Nathalie Labourdette",
-        "Isabelle Bertrand",
-        "Lorenzo Matteo Walter Rossi",
-        "Xavier Le Roux",
-        "Agnès Richaume",
-        "Alessandro Florio",
-        "Dolivet-Marechal M",
-        "Palacin-Lizarbe C",
-        "Schwob G",
-        "Siljanen HM",
-        "paul D",
-        "Delort A",
-        "Gervaix J",
-        "Creuze des Chatelliers C",
-        "Schmidt S",
-        "Cognat M",
-        "Sebag D"
-      ],
-      "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
-      "publisher_group": "Cold Spring Harbor Laboratory",
-      "published_date": "2026-11-20",
-      "first_seen": "2026-11-22",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.64898/2026.11.19.767851",
-      "themes": [
-        "Biodiversity & ecology",
-        "Blue carbon",
-        "Genetics & genomics",
-        "Microbiome & disease"
       ],
       "ai_summary": "",
       "why_it_matters": ""
