@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-11-27T15:06:13+00:00",
+  "generated_at": "2026-11-28T14:12:36+00:00",
   "window_days": 7,
-  "new_papers": 41,
-  "newly_discovered": 164,
+  "new_papers": 40,
+  "newly_discovered": 157,
   "theme_counts": {
-    "Biodiversity & ecology": 18,
+    "Biodiversity & ecology": 17,
     "Fisheries & fauna": 15,
-    "Physiology & productivity": 15,
     "Climate & heat": 14,
-    "Conservation & management": 13,
-    "Water quality & nutrients": 10,
-    "Social & economic": 10,
-    "Blue carbon": 10,
-    "Restoration": 8,
-    "Biogeochemistry": 7,
+    "Conservation & management": 14,
+    "Physiology & productivity": 14,
+    "Social & economic": 12,
+    "Water quality & nutrients": 11,
+    "Restoration": 10,
+    "Blue carbon": 8,
     "General seagrass science": 7,
-    "Pollution & contaminants": 6,
-    "Microbiome & disease": 5,
+    "Biogeochemistry": 6,
+    "Pollution & contaminants": 5,
     "Mapping & remote sensing": 4,
+    "Microbiome & disease": 4,
     "Genetics & genomics": 2
   },
   "publisher_counts": {
-    "Other / independent": 6,
     "Elsevier": 6,
+    "Other / independent": 5,
+    "Multidisciplinary Digital Publishing Institute": 3,
     "Springer Nature": 3,
     "Taylor & Francis": 3,
+    "Pensoft Publishers": 2,
     "Wiley": 2,
-    "Multidisciplinary Digital Publishing Institute": 2,
-    "Inter-Research": 2,
+    "University of Edinburgh": 1,
     "The University of Queensland": 1,
     "European Organization for Nuclear Research": 1,
     "Instituto Oceanográfico de Venezuela": 1,
-    "Pensoft Publishers": 1,
     "Centre pour la Communication Scientifique Directe": 1
   },
   "top_papers": [
@@ -88,23 +88,23 @@
       "authors": [
         "Jessica Arnull"
       ],
-      "journal": "University of Edinburgh",
-      "publisher_group": "Other / independent",
+      "journal": "Edinburgh Research Archive (University of Edinburgh)",
+      "publisher_group": "University of Edinburgh",
       "published_date": "2026-11-26",
       "first_seen": "2026-11-27",
       "discovery_type": "new_publication",
       "url": "https://doi.org/10.7488/era/8103",
       "themes": [
-        "Restoration",
-        "Climate & heat",
-        "Fisheries & fauna",
         "Biodiversity & ecology",
-        "Water quality & nutrients",
-        "Physiology & productivity",
-        "Conservation & management",
-        "Pollution & contaminants",
         "Biogeochemistry",
-        "Social & economic"
+        "Climate & heat",
+        "Conservation & management",
+        "Fisheries & fauna",
+        "Physiology & productivity",
+        "Pollution & contaminants",
+        "Restoration",
+        "Social & economic",
+        "Water quality & nutrients"
       ],
       "ai_summary": "",
       "why_it_matters": ""
@@ -151,33 +151,6 @@
       "first_seen": "2026-11-25",
       "discovery_type": "new_publication",
       "url": "https://doi.org/10.12714/egejfas.43.4.14",
-      "themes": [
-        "Climate & heat",
-        "Physiology & productivity"
-      ],
-      "ai_summary": "",
-      "why_it_matters": ""
-    },
-    {
-      "uid": "10.3354/meps15378",
-      "title": "Significance of thermal microclimates in shaping the responses of eelgrass to experimental long-term warming",
-      "authors": [
-        "Fabian Wolf",
-        "Christian Pansch",
-        "Giannina S. I. Hattich",
-        "Florian Weinberger",
-        "Giannina Saskia Isabelle Hattich",
-        "F. Wolf",
-        "C. Pansch",
-        "G. Hattich",
-        "F. Weinberger"
-      ],
-      "journal": "Marine Ecology Progress Series",
-      "publisher_group": "Inter-Research",
-      "published_date": "2026-11-20",
-      "first_seen": "2026-11-20",
-      "discovery_type": "new_publication",
-      "url": "https://doi.org/10.3354/meps15378",
       "themes": [
         "Climate & heat",
         "Physiology & productivity"
@@ -283,6 +256,28 @@
         "Climate & heat",
         "Physiology & productivity",
         "Water quality & nutrients"
+      ],
+      "ai_summary": "",
+      "why_it_matters": ""
+    },
+    {
+      "uid": "f2bb86923c0bfae3ef5f",
+      "title": "Estimación preliminar de stocks de carbono azul en biomasa de Thalassia testudinum K. D. Koenig, 1805 en la bahía de Mochima, Venezuela",
+      "authors": [
+        "Mayré Jiménez-Prieto",
+        "Junior De La Rosa-León",
+        "Sinatra Katerine Salazar"
+      ],
+      "journal": "Boletín del Instituto Oceanográfico de Venezuela",
+      "publisher_group": "Instituto Oceanográfico de Venezuela",
+      "published_date": "2026-11-23",
+      "first_seen": "2026-11-27",
+      "discovery_type": "new_publication",
+      "url": "https://iov-udo.com/revista/index.php/boletin57-1/article/view/798",
+      "themes": [
+        "Blue carbon",
+        "Climate & heat",
+        "Physiology & productivity"
       ],
       "ai_summary": "",
       "why_it_matters": ""
